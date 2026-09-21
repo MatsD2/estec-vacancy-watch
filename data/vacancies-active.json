@@ -1,0 +1,1081 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-09-21T18:49:00+02:00",
+  "source": "ChatGPT ESTEC Vacancy Watch",
+  "scope": {
+    "primary": [
+      "ESA",
+      "HE Space / SpaceForce",
+      "CS Group / Sopra Steria",
+      "ATG Europe",
+      "Terma",
+      "Serco Europe",
+      "Telespazio Belgium",
+      "Starion / RHEA Group",
+      "Aurora Technology",
+      "SSC / Swedish Space Corporation",
+      "IABG / European Test Services (ETS)",
+      "Axient Systems Netherlands"
+    ],
+    "secondary": [
+      "SRON",
+      "NLR",
+      "Airbus Netherlands",
+      "ISISPACE"
+    ],
+    "locations": [
+      "ESTEC",
+      "Noordwijk",
+      "Netherlands space engineering"
+    ]
+  },
+  "vacancies": [
+    {
+      "title": "Thermal Analysis and Verification Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-08-31",
+      "closing_date": "2026-09-21",
+      "url": "https://jobs.esa.int/job/Noordwijk-Thermal-Analysis-and-Verification-Engineer/1400048333/",
+      "categories": [
+        "thermal",
+        "verification",
+        "testing",
+        "spacecraft engineering"
+      ],
+      "fit_score": 8,
+      "priority": "very_high",
+      "status": "active",
+      "assessment": "Strongest direct ESA match; highly relevant thermal analysis and verification work. Main stretch is professional spacecraft thermal experience and ESATAN-TMS."
+    },
+    {
+      "title": "FDIR System Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-09-16",
+      "closing_date": "2026-10-07",
+      "url": "https://jobs.esa.int/job/Noordwijk-FDIR-System-Engineer/1437497533/",
+      "job_id": "20836",
+      "categories": [
+        "systems engineering",
+        "FDIR",
+        "RAMS",
+        "safety",
+        "verification",
+        "spacecraft engineering"
+      ],
+      "fit_score": 6.5,
+      "priority": "high",
+      "status": "active",
+      "first_seen": "2026-09-16T17:58:52+02:00",
+      "assessment": "Direct ESA FDIR role; strong systems/verification/RAMS overlap, but dedicated spacecraft FDIR/avionics/software expertise is a significant stretch."
+    },
+    {
+      "title": "Copernicus LSTM Lead Space Segment Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-09-17",
+      "closing_date": "2026-10-08",
+      "url": "https://jobs.esa.int/job/Noordwijk-Copernicus-LSTM-Lead-Space-Segment-Engineer/1437837833/",
+      "job_id": "20896",
+      "categories": [
+        "spacecraft engineering",
+        "systems engineering",
+        "thermal infrared",
+        "verification",
+        "project engineering"
+      ],
+      "fit_score": 6.5,
+      "priority": "high_radar",
+      "status": "active",
+      "first_seen": "2026-09-17T17:59:17+02:00",
+      "assessment": "Direct ESA space-segment leadership role with thermal-infrared mission context; Lead-level spacecraft project experience is a major seniority stretch."
+    },
+    {
+      "title": "AOCS and Pointing Systems Engineer (3 Positions)",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-09-15",
+      "closing_date": "2026-09-29",
+      "url": "https://jobs.esa.int/job/Noordwijk-AOCS-and-Pointing-Systems-Engineer-%283-Positions%29/1411442433/",
+      "job_id": "20731",
+      "categories": [
+        "AOCS/GNC",
+        "control engineering",
+        "systems engineering",
+        "sensors",
+        "actuators",
+        "verification",
+        "spacecraft engineering"
+      ],
+      "fit_score": 6.5,
+      "priority": "high_radar",
+      "status": "active",
+      "first_seen": "2026-09-17T17:59:17+02:00",
+      "assessment": "Direct ESA AOCS role with relevant control/mechatronics, sensors, actuators and verification overlap; dedicated spacecraft AOCS/GNC experience is the main stretch."
+    },
+    {
+      "title": "Copernicus CRISTAL and Sentinel-3 Next Generation Topography Lead System Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-09-18",
+      "closing_date": "2026-10-09",
+      "url": "https://jobs.esa.int/job/Noordwijk-Copernicus-CRISTAL-and-Sentinel-3-Next-Generation-Topography-Lead-System-Engineer/1438428633/",
+      "job_id": "20897",
+      "categories": [
+        "spacecraft engineering",
+        "systems engineering",
+        "verification",
+        "project engineering",
+        "Earth observation"
+      ],
+      "fit_score": 6.5,
+      "priority": "high_radar",
+      "status": "active",
+      "first_seen": "2026-09-21T17:57:39+02:00",
+      "assessment": "Direct ESA/ESTEC spacecraft system-engineering role; Lead-level spacecraft system-engineering experience is a major stretch."
+    },
+    {
+      "title": "Galileo Lead Space Segment Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-09-19",
+      "closing_date": "2026-10-03",
+      "url": "https://jobs.esa.int/job/Noordwijk-Galileo-Lead-Space-Segment-Engineer/1420196733/",
+      "job_id": "20809",
+      "categories": [
+        "spacecraft engineering",
+        "systems engineering",
+        "verification",
+        "testing",
+        "payloads"
+      ],
+      "fit_score": 7,
+      "priority": "high",
+      "status": "active",
+      "first_seen": "2026-09-21T17:57:39+02:00",
+      "assessment": "Direct ESA/ESTEC role leading design, development and validation of Galileo G2 navigation-payload subsystems; strong hardware/verification overlap, but Lead-level space-segment experience is a stretch."
+    },
+    {
+      "title": "Small Satellites Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/ab6823068e5401-small-satellites-engineer",
+      "categories": [
+        "systems engineering",
+        "AIT/AIV",
+        "verification",
+        "small satellites"
+      ],
+      "fit_score": 7.5,
+      "priority": "high",
+      "status": "active",
+      "first_seen": "2026-09-09T17:59:00+02:00",
+      "assessment": "Strong broad spacecraft-systems route; prior dedicated spacecraft systems experience remains the main stretch."
+    },
+    {
+      "title": "Systems Engineer for Space Sustainability",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/0a7ea029b09201-systems-engineer-for-space-sustainability",
+      "categories": [
+        "systems engineering",
+        "sustainability",
+        "R&D",
+        "ECSS"
+      ],
+      "fit_score": 5.5,
+      "priority": "medium_low",
+      "status": "active",
+      "first_seen": "2026-09-09T17:59:00+02:00",
+      "assessment": "Broad ESA systems/R&D work; specific Clean Space and sustainability expertise is a stretch."
+    },
+    {
+      "title": "End-to-End System Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/4a0f84bbe30001-end-to-end-system-engineer",
+      "categories": [
+        "systems engineering",
+        "simulation",
+        "hardware-in-the-loop",
+        "software integration"
+      ],
+      "fit_score": 3.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-09T17:59:00+02:00",
+      "assessment": "ESTEC systems/test-lab exposure, but software/infrastructure dominated."
+    },
+    {
+      "title": "Human Spaceflight Safety Support Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/185532cc06fa01-human-spaceflight-safety-support-engineer",
+      "categories": [
+        "human spaceflight",
+        "safety",
+        "product assurance",
+        "RAMS",
+        "verification"
+      ],
+      "fit_score": 5.5,
+      "priority": "medium",
+      "status": "active",
+      "first_seen": "2026-09-09T18:01:24+02:00",
+      "assessment": "Human-spaceflight safety and verification at ESTEC is attractive; dedicated dependability experience is a major stretch."
+    },
+    {
+      "title": "GNC-AOCS Sensors and Actuators Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/a85e757abb0e01-gnc-aocs-sensors-and-actuators-engineer",
+      "categories": [
+        "AOCS/GNC",
+        "sensors",
+        "actuators",
+        "laboratory testing",
+        "verification",
+        "AIT/AIV",
+        "control engineering"
+      ],
+      "fit_score": 6.5,
+      "priority": "high_radar",
+      "status": "active",
+      "first_seen": "2026-09-10T18:02:18+02:00",
+      "assessment": "Strong hardware/test relevance at ESTEC; dedicated AOCS/GNC experience is the main stretch."
+    },
+    {
+      "title": "Solar Generators Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/2a35acb696e801-solar-generators-engineer",
+      "categories": [
+        "mechanical design",
+        "thermal",
+        "space hardware",
+        "qualification",
+        "testing",
+        "R&D"
+      ],
+      "fit_score": 7,
+      "priority": "high",
+      "status": "active",
+      "first_seen": "2026-09-10T12:58:12+02:00",
+      "assessment": "Strong ESTEC hardware role spanning mechanical/thermal properties, manufacturing, qualification and testing; dedicated solar-generator experience is the main gap."
+    },
+    {
+      "title": "Navigation System Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/634266a2c2c901-navigation-system-engineer",
+      "categories": [
+        "systems engineering",
+        "requirements",
+        "GNSS",
+        "verification",
+        "MBSE"
+      ],
+      "fit_score": 5.5,
+      "priority": "medium_low",
+      "status": "active",
+      "first_seen": "2026-09-11T12:57:54+02:00",
+      "assessment": "Legitimate ESTEC systems role; dedicated GNSS/Galileo knowledge is a substantial stretch."
+    },
+    {
+      "title": "On-Board Computers and Data Handling Support Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/565a6539bff601-on-board-computers-and-data-handling-support-engineer",
+      "categories": [
+        "spacecraft avionics",
+        "verification",
+        "laboratory testing",
+        "AIT/AIV",
+        "R&D",
+        "hardware"
+      ],
+      "fit_score": 4.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-11T12:57:54+02:00",
+      "assessment": "Strong ESTEC lab and verification exposure; dedicated OBC/data-handling expertise is the main mismatch."
+    },
+    {
+      "title": "Microelectronics Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/150287b5b86501-microelectronics-engineer",
+      "categories": [
+        "verification",
+        "qualification",
+        "laboratory testing",
+        "R&D",
+        "electronics"
+      ],
+      "fit_score": 3.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-11T12:57:54+02:00",
+      "assessment": "Included for high recall; core discipline is microelectronics."
+    },
+    {
+      "title": "Satellite Telecommunication System Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/af1c2b9cd17301-satellite-telecommunication-system-engineer",
+      "categories": [
+        "systems engineering",
+        "satcom",
+        "R&D",
+        "simulation",
+        "verification"
+      ],
+      "fit_score": 3.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-11T12:57:54+02:00",
+      "assessment": "Direct ESTEC systems/R&D role but strongly specialized in satcom."
+    },
+    {
+      "title": "Data Intelligence Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/6f5d350879c801-data-intelligence-engineer",
+      "categories": [
+        "data engineering",
+        "AI/ML",
+        "software",
+        "analytics",
+        "systems support"
+      ],
+      "fit_score": 2.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-14T17:51:35+02:00",
+      "assessment": "Included for high recall; primarily AI/ML and data engineering."
+    },
+    {
+      "title": "Project Management and Engineering Specialist (Orbital projects)",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/cb77e8e06bdb01-project-management-and-engineering-specialist-orbital-projects",
+      "categories": [
+        "project engineering",
+        "systems engineering",
+        "AIT/AIV",
+        "verification",
+        "testing",
+        "CubeSats",
+        "ESA Academy"
+      ],
+      "fit_score": 8,
+      "priority": "very_high",
+      "status": "active",
+      "first_seen": "2026-09-13T13:01:41+02:00",
+      "assessment": "Excellent generalist ESTEC opportunity through design, systems engineering, reviews, testing, AIV and launch preparation."
+    },
+    {
+      "title": "Project Management and Engineering Specialist (Non-orbital projects)",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/410b11e9961601-project-management-and-engineering-specialist-non-orbital-projects",
+      "categories": [
+        "project engineering",
+        "systems engineering",
+        "testing",
+        "validation",
+        "experiments",
+        "ESA Academy",
+        "robotics"
+      ],
+      "fit_score": 7,
+      "priority": "high",
+      "status": "active",
+      "first_seen": "2026-09-13T13:01:41+02:00",
+      "assessment": "Strong generalist engineering role coordinating ESA Academy experiments and technical projects."
+    },
+    {
+      "title": "SAR performance & ELINT (Electronic Intelligence) Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-09-25",
+      "url": "https://telespazio-be.breezy.hr/p/1c893273d0a201-sar-performance-elint-electronic-intelligence-engineer",
+      "categories": [
+        "systems engineering",
+        "mission performance",
+        "verification",
+        "space hardware",
+        "laboratory testing",
+        "RF payloads"
+      ],
+      "fit_score": 3.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-14T13:02:25+02:00",
+      "assessment": "Included for high recall; fundamentally an RF/SAR/ELINT role."
+    },
+    {
+      "title": "AIT & Production Engineer for IRIS2",
+      "employer": "Terma",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://career5.successfactors.eu/career?career_ns=job_listing&company=termaas&career_job_req_id=1008",
+      "job_id": "1008",
+      "categories": [
+        "AIT/AIV",
+        "production",
+        "manufacturing",
+        "spacecraft engineering",
+        "IRIS2"
+      ],
+      "fit_score": 7,
+      "priority": "high",
+      "status": "active",
+      "first_seen": "2026-09-09T21:09:00+02:00",
+      "assessment": "Strong ESTEC hardware route covering satellite AIT, production readiness and manufacturing flows."
+    },
+    {
+      "title": "Space PA/QA Engineer",
+      "employer": "ATG Europe",
+      "location": "Noordwijk",
+      "posted": null,
+      "closing_date": "2026-10-28",
+      "url": "https://jobs.atg-europe.com/o/space-paqa-engineer",
+      "categories": [
+        "product assurance",
+        "quality assurance",
+        "manufacturing",
+        "mechanical"
+      ],
+      "fit_score": 7,
+      "priority": "high",
+      "status": "active",
+      "assessment": "Good hardware/process fit with mechanical manufacturing, qualification, inspection and ECSS/PA exposure."
+    },
+    {
+      "title": "Sentinel System Engineer",
+      "employer": "ATG Europe",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-09-28",
+      "url": "https://jobs.atg-europe.com/o/sentinel-system-engineer",
+      "categories": [
+        "systems engineering",
+        "spacecraft engineering",
+        "AIT"
+      ],
+      "fit_score": 5.5,
+      "priority": "medium_low",
+      "status": "active",
+      "assessment": "Broad spacecraft engineering is relevant, but 10+ years experience is a substantial stretch."
+    },
+    {
+      "title": "Configuration and Data Management Support",
+      "employer": "ATG Europe",
+      "location": "ESTEC, Noordwijk / Harwell",
+      "posted": null,
+      "closing_date": "2026-09-23",
+      "url": "https://jobs.atg-europe.com/o/configuration-and-data-management-support",
+      "categories": [
+        "configuration management",
+        "data management",
+        "project support",
+        "systems engineering",
+        "ESA programmes"
+      ],
+      "fit_score": 4,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-13T07:58:19+02:00",
+      "assessment": "Direct ESTEC/Harwell support role; dedicated CADM experience is a functional stretch."
+    },
+    {
+      "title": "F3 Mission Project Manager",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-09-03",
+      "closing_date": "2026-09-24",
+      "url": "https://jobs.esa.int/job/Noordwijk-F3-Mission-Project-Manager/1433488733/",
+      "categories": [
+        "project engineering",
+        "systems engineering",
+        "spacecraft development"
+      ],
+      "fit_score": 5,
+      "priority": "low",
+      "status": "active",
+      "assessment": "Broad spacecraft-development relevance but substantial project-management and seniority stretch."
+    },
+    {
+      "title": "Secure Connectivity Low TRL Technology Development Coordinator",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-09-03",
+      "closing_date": "2026-09-24",
+      "url": "https://jobs.esa.int/job/Noordwijk-Secure-Connectivity-Low-TRL-Technology-Development-Coordinator/1433029833/",
+      "categories": [
+        "technology development",
+        "systems engineering",
+        "R&D",
+        "verification"
+      ],
+      "fit_score": 4.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-09T17:59:00+02:00",
+      "assessment": "Interesting technology maturation and validation exposure, but strongly telecom-oriented."
+    },
+    {
+      "title": "D2D 5G/6G Network Lead Mission Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-09-07",
+      "closing_date": "2026-09-28",
+      "url": "https://jobs.esa.int/job/Noordwijk-D2D-5G6G-Network-Lead-Mission-Engineer/1434449333/",
+      "categories": [
+        "systems engineering",
+        "verification",
+        "telecommunications"
+      ],
+      "fit_score": 3.5,
+      "priority": "low",
+      "status": "active",
+      "assessment": "Direct ESA and verification-relevant, but predominantly telecom/5G specialist work."
+    },
+    {
+      "title": "Phoenix Study Manager",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-09-09",
+      "closing_date": "2026-09-30",
+      "url": "https://jobs.esa.int/job/Noordwijk-Phoenix-Study-Manager/1434836233/",
+      "categories": [
+        "systems engineering",
+        "mission design",
+        "project engineering"
+      ],
+      "fit_score": 5,
+      "priority": "medium_low",
+      "status": "active",
+      "assessment": "Broad early mission/system design is relevant, but Study Manager seniority is a significant stretch."
+    },
+    {
+      "title": "Commercialization Engineer",
+      "employer": "HE Space / SpaceForce",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-09-30",
+      "url": "https://www.hespace.com/vacancies/commercialization-engineer",
+      "categories": [
+        "technology assessment",
+        "commercialisation",
+        "systems context",
+        "ESA programmes"
+      ],
+      "fit_score": 5,
+      "priority": "medium_low",
+      "status": "active",
+      "first_seen": "2026-09-09T17:59:00+02:00",
+      "assessment": "ESTEC role requiring a technical MSc; less hardware-focused."
+    },
+    {
+      "title": "Product Assurance & Safety Support Engineer",
+      "employer": "HE Space / SpaceForce",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-09-30",
+      "url": "https://www.hespace.com/vacancies/product-assurance-safety-support-engineer-26126-0",
+      "job_id": "26126",
+      "categories": [
+        "product assurance",
+        "safety",
+        "quality assurance",
+        "manufacturing",
+        "AIT/AIV",
+        "ECSS"
+      ],
+      "fit_score": 4.5,
+      "priority": "medium_low",
+      "status": "active",
+      "first_seen": "2026-09-12T07:58:14+02:00",
+      "assessment": "Strongly relevant ESA PA&S content; dedicated PA/QA experience requirement is a major stretch."
+    },
+    {
+      "title": "Configuration & Data Manager",
+      "employer": "HE Space / SpaceForce",
+      "location": "Noordwijk",
+      "posted": null,
+      "closing_date": "2026-09-30",
+      "url": "https://www.hespace.com/vacancies/configuration-data-manager-26165",
+      "job_id": "26165",
+      "categories": [
+        "configuration management",
+        "data management",
+        "project support",
+        "systems engineering",
+        "ESA programmes"
+      ],
+      "fit_score": 4.5,
+      "priority": "medium_low",
+      "status": "active",
+      "first_seen": "2026-09-13T07:58:19+02:00",
+      "assessment": "Direct Noordwijk role; dedicated configuration/data-management experience is a significant stretch."
+    },
+    {
+      "title": "Mechanical Engineer",
+      "employer": "Airbus Netherlands",
+      "location": "Leiden / Amsterdam Area",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mechanical-Engineer_JR10431336",
+      "categories": [
+        "mechanical design",
+        "structural analysis",
+        "FEM",
+        "space hardware"
+      ],
+      "fit_score": 7,
+      "priority": "high_secondary",
+      "status": "active",
+      "assessment": "Relevant mechanical space-hardware role focused on Ariane 6 structures; stronger FEMAP/NASTRAN experience would improve competitiveness."
+    },
+    {
+      "title": "Project Manager",
+      "employer": "Airbus Netherlands",
+      "location": "Amsterdam Area",
+      "posted": "2026-08-30",
+      "closing_date": "2026-09-30",
+      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Project-Manager_JR10420614-1",
+      "job_id": "JR10420614",
+      "categories": [
+        "project management",
+        "space hardware",
+        "operations",
+        "multidisciplinary engineering"
+      ],
+      "fit_score": 7.5,
+      "priority": "high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-11T18:28:41+02:00",
+      "assessment": "Strong secondary-space opportunity; main gap is proving formal project-lead ownership."
+    },
+    {
+      "title": "Satcom New Concepts Engineer",
+      "employer": "SSC Space",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-07-09",
+      "closing_date": "2026-09-30",
+      "url": "https://sscspace.com/career/job-opportunities/5ad1c05a-568e-4273-a5ad-87064d7c919f/",
+      "categories": [
+        "systems engineering",
+        "satcom",
+        "ground segment"
+      ],
+      "fit_score": 4,
+      "priority": "low",
+      "status": "active",
+      "assessment": "Direct ESTEC route but strongly specialized in SATCOM."
+    },
+    {
+      "title": "EMC Engineer",
+      "employer": "Starion",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://www.stariongroup.eu/career/emc-engineer/",
+      "categories": [
+        "EMC",
+        "verification",
+        "testing",
+        "spacecraft engineering"
+      ],
+      "fit_score": 3.5,
+      "priority": "low",
+      "status": "active",
+      "assessment": "Spacecraft verification/testing at ESTEC but strongly electrical/EMC specialized. Official Starion page is currently accepting applications again."
+    },
+    {
+      "title": "System Engineer – Quantum Technologies",
+      "employer": "Starion",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-09-25",
+      "url": "https://www.stariongroup.eu/career/system-engineer-quantum-technologies/",
+      "categories": [
+        "systems engineering",
+        "quantum communications",
+        "verification"
+      ],
+      "fit_score": 4.5,
+      "priority": "low",
+      "status": "active",
+      "assessment": "Interesting ESA systems exposure, but quantum communications is a substantial domain stretch."
+    },
+    {
+      "title": "Configuration & Data Manager",
+      "employer": "Starion",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-09-30",
+      "url": "https://www.stariongroup.eu/career/configuration-data-manager/",
+      "job_id": "0557",
+      "categories": [
+        "configuration management",
+        "data management",
+        "project support",
+        "systems engineering",
+        "ESA programmes"
+      ],
+      "fit_score": 4.5,
+      "priority": "medium_low",
+      "status": "active",
+      "first_seen": "2026-09-12T18:18:47+02:00",
+      "assessment": "Direct ESTEC MSc-level role; dedicated configuration/data-management experience is a stretch."
+    },
+    {
+      "title": "Technical Engineering Manager Vibration Acoustic",
+      "employer": "IABG / European Test Services (ETS)",
+      "location": "ESTEC Test Centre, Noordwijk",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://nl.indeed.com/viewjob?jk=ef22f3d49fddb6ef",
+      "categories": [
+        "mechanical testing",
+        "vibration",
+        "acoustics",
+        "spacecraft qualification",
+        "test facilities"
+      ],
+      "fit_score": 6,
+      "priority": "high_radar",
+      "status": "active",
+      "assessment": "Excellent technical subject match and direct ESTEC Test Centre exposure, but clearly a senior leadership role."
+    },
+    {
+      "title": "Test Floor Supervisor & General Support Technician",
+      "employer": "IABG / European Test Services (ETS)",
+      "location": "ESTEC Test Centre, Noordwijk",
+      "posted": "2026-08-24",
+      "closing_date": null,
+      "url": "https://nl.linkedin.com/company/iabg/jobs",
+      "categories": [
+        "mechanical testing",
+        "vibration",
+        "shock",
+        "acoustics",
+        "mass properties",
+        "spacecraft qualification",
+        "test facilities",
+        "operations",
+        "handling equipment",
+        "cleanrooms",
+        "facility maintenance",
+        "spacecraft testing"
+      ],
+      "fit_score": 4.5,
+      "priority": "underlevel",
+      "status": "active",
+      "first_seen": "2026-09-14T17:51:35+02:00",
+      "assessment": "Useful spacecraft-test exposure but clearly under-level for an MSc mechanical engineer."
+    },
+    {
+      "title": "Senior AI&T Engineer – Space Systems",
+      "employer": "Axient Systems Netherlands",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://axientsystems.nl/vacancies",
+      "categories": [
+        "AIT/AIV",
+        "integration",
+        "verification",
+        "environmental testing",
+        "vibration",
+        "shock",
+        "thermal",
+        "TVAC",
+        "EMC",
+        "MGSE",
+        "spacecraft qualification",
+        "optomechatronics"
+      ],
+      "fit_score": 6.5,
+      "priority": "high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-21T17:57:39+02:00",
+      "assessment": "Exceptionally relevant hardware/test content spanning spacecraft AI&T, V&V, environmental qualification, GSE and optical alignment, but the role requires 8+ years specifically in complex-hardware AIT and prior spacecraft campaign ownership, making seniority the major stretch."
+    },
+    {
+      "title": "Mechanical Engineer - Medior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/mechanical-engineer-medior-3",
+      "categories": [
+        "mechanical design",
+        "spacecraft structures",
+        "FEM",
+        "qualification",
+        "R&D"
+      ],
+      "fit_score": 8.5,
+      "priority": "very_high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-09T15:41:00+02:00",
+      "assessment": "Excellent technical match; four years of complex mechanical-design experience is the main formal stretch."
+    },
+    {
+      "title": "Systems AIT Engineer - Medior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/systems-ait-engineer-medior",
+      "categories": [
+        "AIT/AIV",
+        "integration",
+        "testing",
+        "verification",
+        "small satellites"
+      ],
+      "fit_score": 8,
+      "priority": "high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-09T15:41:00+02:00",
+      "assessment": "Strong spacecraft-hardware route combining AIT planning, integration, testing, traceability and anomaly resolution."
+    },
+    {
+      "title": "Mechanical Engineer - Medior/Senior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/mechanical-engineer-mediorsenior",
+      "categories": [
+        "mechanical design",
+        "FEM",
+        "launch hardware",
+        "qualification",
+        "testing"
+      ],
+      "fit_score": 7.5,
+      "priority": "high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-09T15:41:00+02:00",
+      "assessment": "Very relevant design/FEM/qualification work on satellite launch hardware; experience/Nastran requirements are a stretch."
+    },
+    {
+      "title": "Mechanical Engineer - Senior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/mechanical-engineer-senior-1",
+      "categories": [
+        "mechanical design",
+        "thermal interfaces",
+        "verification",
+        "spacecraft engineering"
+      ],
+      "fit_score": 7,
+      "priority": "medium_high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-09T15:41:00+02:00",
+      "assessment": "Strong technical content but clearly senior in expected ownership and experience."
+    },
+    {
+      "title": "Product Assurance Engineer",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/product-assurance-engineer-3",
+      "categories": [
+        "product assurance",
+        "ECSS",
+        "FMEA",
+        "non-conformance",
+        "environmental testing"
+      ],
+      "fit_score": 6.5,
+      "priority": "medium_secondary",
+      "status": "active",
+      "first_seen": "2026-09-09T15:41:00+02:00",
+      "assessment": "Relevant to ESA Academy PA exposure and hardware background; main gap is dedicated space-quality experience."
+    },
+    {
+      "title": "Senior AOCS Engineer",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/senior-aocs-engineer-1",
+      "categories": [
+        "AOCS/GNC",
+        "control engineering",
+        "sensors",
+        "actuators",
+        "verification",
+        "small satellites"
+      ],
+      "fit_score": 5.5,
+      "priority": "medium_secondary",
+      "status": "active",
+      "first_seen": "2026-09-11T08:03:04+02:00",
+      "assessment": "Relevant to a mechatronics/control generalist but explicitly senior and specialized."
+    },
+    {
+      "title": "Space Systems Engineer - Senior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/space-systems-engineer-senior-1",
+      "categories": [
+        "systems engineering",
+        "requirements",
+        "spacecraft design",
+        "mission analysis",
+        "verification"
+      ],
+      "fit_score": 6,
+      "priority": "medium_secondary",
+      "status": "active",
+      "first_seen": "2026-09-11T08:03:04+02:00",
+      "assessment": "Broad spacecraft systems work fits a generalist profile, but senior experience level is a substantial stretch."
+    },
+    {
+      "title": "SAIT Software Engineer",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/sait-software-engineer-1",
+      "categories": [
+        "AIT/AIV",
+        "test automation",
+        "verification",
+        "software",
+        "satellite testing"
+      ],
+      "fit_score": 4.5,
+      "priority": "low_secondary",
+      "status": "active",
+      "first_seen": "2026-09-11T08:03:04+02:00",
+      "assessment": "Directly supports satellite AIT and automated verification, but primarily software-focused."
+    },
+    {
+      "title": "Labs and Test Facilities Manager",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/labs-and-test-facilities-manager-2",
+      "categories": [
+        "test facilities",
+        "environmental testing",
+        "laboratory management",
+        "calibration",
+        "AIT/AIV",
+        "test automation"
+      ],
+      "fit_score": 6.5,
+      "priority": "medium_high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-11T18:02:02+02:00",
+      "assessment": "Strong practical test-facility route; more facilities/operations coordination than spacecraft design."
+    },
+    {
+      "title": "Project Manager - Medior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/project-manager-medior-3",
+      "categories": [
+        "project engineering",
+        "project management",
+        "launch equipment",
+        "requirements",
+        "hardware",
+        "supplier management"
+      ],
+      "fit_score": 7.5,
+      "priority": "high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-14T07:58:30+02:00",
+      "assessment": "Strong secondary match in Launch Equipment & Services; main gap is direct space-project management experience."
+    },
+    {
+      "title": "Project Manager - Junior/Medior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/project-manager-juniormedior",
+      "categories": [
+        "project engineering",
+        "project management",
+        "CubeSats",
+        "hardware/software",
+        "systems context"
+      ],
+      "fit_score": 6.5,
+      "priority": "medium_high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-14T07:58:30+02:00",
+      "assessment": "Relevant technical project-management route with possible CubeSat mission ownership."
+    },
+    {
+      "title": "Mechanical Engineer - Junior/Medior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/mechanical-engineer-juniormedior",
+      "categories": [
+        "mechanical design",
+        "CAD",
+        "technical drawings",
+        "manufacturing",
+        "spacecraft hardware",
+        "AIT/AIV"
+      ],
+      "fit_score": 6,
+      "priority": "medium_secondary",
+      "status": "active",
+      "first_seen": "2026-09-16T13:02:00+02:00",
+      "assessment": "Strong technical overlap, but outside ESTEC, junior-leaning and salary too low to make it a strong move for this profile."
+    }
+  ]
+}
