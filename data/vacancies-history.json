@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-21T18:49:00+02:00",
+  "generated_at": "2026-09-21T19:18:00+02:00",
   "source": "ChatGPT ESTEC Vacancy Watch",
   "scope": {
     "primary": [
@@ -217,41 +217,6 @@
       "status": "expired",
       "first_seen": "2026-09-09T17:59:00+02:00",
       "assessment": "Direct ESA validation role but highly specialized in 5G NTN."
-    },
-    {
-      "title": "Ground Control Segment Engineer",
-      "employer": "SSC Space",
-      "location": "ESTEC, Noordwijk",
-      "posted": null,
-      "closing_date": "2026-09-15",
-      "url": "https://sscspace.com/career/job-opportunities/8d5e1918-5d59-4bf9-991d-0e03df1b179c/",
-      "categories": [
-        "systems engineering",
-        "ground segment",
-        "verification"
-      ],
-      "fit_score": 4.5,
-      "priority": "low",
-      "status": "expired",
-      "assessment": "Systems/verification exposure but ground-control software is outside the strongest profile."
-    },
-    {
-      "title": "End-to-End Mission Performance Engineers (2 positions)",
-      "employer": "SSC Space",
-      "location": "ESTEC, Noordwijk",
-      "posted": null,
-      "closing_date": "2026-09-15",
-      "url": "https://sscspace.com/career/job-opportunities/180f977a-f6a5-4180-8cd3-7cf150c6b0fb/",
-      "categories": [
-        "systems engineering",
-        "verification",
-        "mission performance",
-        "simulation"
-      ],
-      "fit_score": 5.5,
-      "priority": "medium_low",
-      "status": "expired",
-      "assessment": "Relevant verification and simulator work at ESTEC; software/optical-performance stretch."
     },
     {
       "title": "PA and Safety Support Engineer",
