@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-21T19:18:00+02:00",
+  "generated_at": "2026-09-22T14:08:00+02:00",
   "source": "ChatGPT ESTEC Vacancy Watch",
   "scope": {
     "primary": [
@@ -30,24 +30,6 @@
     ]
   },
   "vacancies": [
-    {
-      "title": "Thermal Analysis and Verification Engineer",
-      "employer": "ESA",
-      "location": "ESTEC, Noordwijk",
-      "posted": "2026-08-31",
-      "closing_date": "2026-09-21",
-      "url": "https://jobs.esa.int/job/Noordwijk-Thermal-Analysis-and-Verification-Engineer/1400048333/",
-      "categories": [
-        "thermal",
-        "verification",
-        "testing",
-        "spacecraft engineering"
-      ],
-      "fit_score": 8,
-      "priority": "very_high",
-      "status": "active",
-      "assessment": "Strongest direct ESA match; highly relevant thermal analysis and verification work. Main stretch is professional spacecraft thermal experience and ESATAN-TMS."
-    },
     {
       "title": "FDIR System Engineer",
       "employer": "ESA",
@@ -1134,6 +1116,27 @@
       "status": "active",
       "assessment": "Reopened/current on SSC's official careers page with a 15 Oct 2026 deadline. Relevant verification and mission-performance work at ESTEC; software/optical-performance experience is the main stretch.",
       "first_seen": "2026-09-21T19:18:00+02:00"
+    },
+    {
+      "title": "Copernicus LSTM Project Manager",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-09-21",
+      "closing_date": "2026-10-12",
+      "url": "https://jobs.esa.int/job/Noordwijk-Copernicus-LSTM-Project-Manager/1439359433/",
+      "job_id": "20900",
+      "categories": [
+        "project management",
+        "spacecraft engineering",
+        "Earth observation",
+        "verification",
+        "procurement"
+      ],
+      "fit_score": 5.5,
+      "priority": "high_recall",
+      "status": "active",
+      "first_seen": "2026-09-22T14:08:00+02:00",
+      "assessment": "Direct ESA/ESTEC A5 project-management role for LSTM spacecraft implementation. Strong mission/hardware context, but 10 years relevant professional experience and people-management responsibility make this a major seniority stretch."
     }
   ]
 }
