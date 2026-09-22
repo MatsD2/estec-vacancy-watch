@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-21T19:18:00+02:00",
+  "generated_at": "2026-09-22T14:08:00+02:00",
   "source": "ChatGPT ESTEC Vacancy Watch",
   "scope": {
     "primary": [
@@ -273,6 +273,24 @@
       "priority": "very_high",
       "status": "closed",
       "assessment": "Excellent technical match, but filled."
+    },
+    {
+      "title": "Thermal Analysis and Verification Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-08-31",
+      "closing_date": "2026-09-21",
+      "url": "https://jobs.esa.int/job/Noordwijk-Thermal-Analysis-and-Verification-Engineer/1400048333/",
+      "categories": [
+        "thermal",
+        "verification",
+        "testing",
+        "spacecraft engineering"
+      ],
+      "fit_score": 8,
+      "priority": "very_high",
+      "status": "expired",
+      "assessment": "Strongest direct ESA match; highly relevant thermal analysis and verification work. Main stretch is professional spacecraft thermal experience and ESATAN-TMS."
     }
   ]
 }
