@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-22T14:08:00+02:00",
+  "generated_at": "2026-09-23T09:35:00+02:00",
   "source": "ChatGPT ESTEC Vacancy Watch",
   "scope": {
     "primary": [
@@ -1137,6 +1137,46 @@
       "status": "active",
       "first_seen": "2026-09-22T14:08:00+02:00",
       "assessment": "Direct ESA/ESTEC A5 project-management role for LSTM spacecraft implementation. Strong mission/hardware context, but 10 years relevant professional experience and people-management responsibility make this a major seniority stretch."
+    },
+    {
+      "title": "Satcom Evaluation Engineer",
+      "employer": "SSC Space",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-10-15",
+      "url": "https://sscspace.com/career/job-opportunities/",
+      "job_id": "SSC-SATCOM-EVAL",
+      "categories": [
+        "satcom",
+        "systems engineering",
+        "evaluation",
+        "ESA programmes"
+      ],
+      "fit_score": 4,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-23T09:35:00+02:00",
+      "assessment": "Direct ESTEC engineering role newly visible on SSC's official careers list; relevant as ESA exposure but specialized in satcom rather than mechanical/hardware engineering."
+    },
+    {
+      "title": "Lead Telecom Payload Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk / ECSAT, Harwell",
+      "posted": "2026-09-22",
+      "closing_date": "2026-10-06",
+      "url": "https://jobs.esa.int/",
+      "job_id": "20476",
+      "categories": [
+        "telecommunications",
+        "payloads",
+        "systems engineering",
+        "spacecraft engineering"
+      ],
+      "fit_score": 3.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-23T09:35:00+02:00",
+      "assessment": "Direct ESA A2-A4 role posted 22 September. Included for high recall, but telecom payload engineering is outside the strongest mechanical/hardware profile."
     }
   ]
 }
