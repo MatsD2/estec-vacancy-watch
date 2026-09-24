@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-23T09:35:00+02:00",
+  "generated_at": "2026-09-24T11:57:00+02:00",
   "source": "ChatGPT ESTEC Vacancy Watch",
   "scope": {
     "primary": [
@@ -291,6 +291,26 @@
       "priority": "very_high",
       "status": "expired",
       "assessment": "Strongest direct ESA match; highly relevant thermal analysis and verification work. Main stretch is professional spacecraft thermal experience and ESATAN-TMS."
+    },
+    {
+      "title": "Configuration and Data Management Support",
+      "employer": "ATG Europe",
+      "location": "ESTEC, Noordwijk / Harwell",
+      "posted": null,
+      "closing_date": "2026-09-23",
+      "url": "https://jobs.atg-europe.com/o/configuration-and-data-management-support",
+      "categories": [
+        "configuration management",
+        "data management",
+        "project support",
+        "systems engineering",
+        "ESA programmes"
+      ],
+      "fit_score": 4,
+      "priority": "low",
+      "status": "expired",
+      "first_seen": "2026-09-13T07:58:19+02:00",
+      "assessment": "Application deadline passed on 23 September 2026."
     }
   ]
 }
