@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-23T09:35:00+02:00",
+  "generated_at": "2026-09-24T11:57:00+02:00",
   "source": "ChatGPT ESTEC Vacancy Watch",
   "scope": {
     "primary": [
@@ -479,26 +479,6 @@
       "priority": "medium_low",
       "status": "active",
       "assessment": "Broad spacecraft engineering is relevant, but 10+ years experience is a substantial stretch."
-    },
-    {
-      "title": "Configuration and Data Management Support",
-      "employer": "ATG Europe",
-      "location": "ESTEC, Noordwijk / Harwell",
-      "posted": null,
-      "closing_date": "2026-09-23",
-      "url": "https://jobs.atg-europe.com/o/configuration-and-data-management-support",
-      "categories": [
-        "configuration management",
-        "data management",
-        "project support",
-        "systems engineering",
-        "ESA programmes"
-      ],
-      "fit_score": 4,
-      "priority": "low",
-      "status": "active",
-      "first_seen": "2026-09-13T07:58:19+02:00",
-      "assessment": "Direct ESTEC/Harwell support role; dedicated CADM experience is a functional stretch."
     },
     {
       "title": "F3 Mission Project Manager",
@@ -1164,7 +1144,7 @@
       "location": "ESTEC, Noordwijk / ECSAT, Harwell",
       "posted": "2026-09-22",
       "closing_date": "2026-10-06",
-      "url": "https://jobs.esa.int/",
+      "url": "https://jobs.esa.int/job/Noordwijk-Lead-Telecom-Payload-Engineer/1384590233/",
       "job_id": "20476",
       "categories": [
         "telecommunications",
@@ -1177,6 +1157,27 @@
       "status": "active",
       "first_seen": "2026-09-23T09:35:00+02:00",
       "assessment": "Direct ESA A2-A4 role posted 22 September. Included for high recall, but telecom payload engineering is outside the strongest mechanical/hardware profile."
+    },
+    {
+      "title": "Space Solar Array & Generator Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "Coming Soon",
+      "url": "https://telespazio-be.breezy.hr/",
+      "categories": [
+        "space hardware",
+        "solar arrays",
+        "mechanical engineering",
+        "thermal",
+        "qualification",
+        "testing"
+      ],
+      "fit_score": 7,
+      "priority": "high_radar",
+      "status": "upcoming",
+      "first_seen": "2026-09-24T11:57:00+02:00",
+      "assessment": "Coming-soon ESTEC role visible on Telespazio Belgium's official vacancy list. Potentially strong hardware fit; full requirements are not yet published, so fit remains provisional."
     }
   ]
 }
