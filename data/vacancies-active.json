@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-24T11:57:00+02:00",
+  "generated_at": "2026-09-25T07:59:01+02:00",
   "source": "ChatGPT ESTEC Vacancy Watch",
   "scope": {
     "primary": [
@@ -479,42 +479,6 @@
       "priority": "medium_low",
       "status": "active",
       "assessment": "Broad spacecraft engineering is relevant, but 10+ years experience is a substantial stretch."
-    },
-    {
-      "title": "F3 Mission Project Manager",
-      "employer": "ESA",
-      "location": "ESTEC, Noordwijk",
-      "posted": "2026-09-03",
-      "closing_date": "2026-09-24",
-      "url": "https://jobs.esa.int/job/Noordwijk-F3-Mission-Project-Manager/1433488733/",
-      "categories": [
-        "project engineering",
-        "systems engineering",
-        "spacecraft development"
-      ],
-      "fit_score": 5,
-      "priority": "low",
-      "status": "active",
-      "assessment": "Broad spacecraft-development relevance but substantial project-management and seniority stretch."
-    },
-    {
-      "title": "Secure Connectivity Low TRL Technology Development Coordinator",
-      "employer": "ESA",
-      "location": "ESTEC, Noordwijk",
-      "posted": "2026-09-03",
-      "closing_date": "2026-09-24",
-      "url": "https://jobs.esa.int/job/Noordwijk-Secure-Connectivity-Low-TRL-Technology-Development-Coordinator/1433029833/",
-      "categories": [
-        "technology development",
-        "systems engineering",
-        "R&D",
-        "verification"
-      ],
-      "fit_score": 4.5,
-      "priority": "low",
-      "status": "active",
-      "first_seen": "2026-09-09T17:59:00+02:00",
-      "assessment": "Interesting technology maturation and validation exposure, but strongly telecom-oriented."
     },
     {
       "title": "D2D 5G/6G Network Lead Mission Engineer",
