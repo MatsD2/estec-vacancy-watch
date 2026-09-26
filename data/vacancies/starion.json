@@ -1,0 +1,81 @@
+{
+  "schema_version": 3,
+  "source": "ChatGPT ESTEC Vacancy Watch",
+  "vacancies": [
+    {
+      "title": "EMC Engineer",
+      "employer": "Starion",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://www.stariongroup.eu/career/emc-engineer/",
+      "categories": [
+        "EMC",
+        "verification",
+        "testing",
+        "spacecraft engineering"
+      ],
+      "fit_score": 3.5,
+      "priority": "low",
+      "status": "active",
+      "assessment": "Spacecraft verification/testing at ESTEC but strongly electrical/EMC specialized. Official Starion page is currently accepting applications again."
+    },
+    {
+      "title": "System Engineer – Quantum Technologies",
+      "employer": "Starion",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-09-25",
+      "url": "https://www.stariongroup.eu/career/system-engineer-quantum-technologies/",
+      "categories": [
+        "systems engineering",
+        "quantum communications",
+        "verification"
+      ],
+      "fit_score": 4.5,
+      "priority": "low",
+      "status": "active",
+      "assessment": "Interesting ESA systems exposure, but quantum communications is a substantial domain stretch."
+    },
+    {
+      "title": "Configuration & Data Manager",
+      "employer": "Starion",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-09-30",
+      "url": "https://www.stariongroup.eu/career/configuration-data-manager/",
+      "job_id": "0557",
+      "categories": [
+        "configuration management",
+        "data management",
+        "project support",
+        "systems engineering",
+        "ESA programmes"
+      ],
+      "fit_score": 4.5,
+      "priority": "medium_low",
+      "status": "active",
+      "first_seen": "2026-09-12T18:18:47+02:00",
+      "assessment": "Direct ESTEC MSc-level role; dedicated configuration/data-management experience is a stretch."
+    },
+    {
+      "title": "Clean Space & Safety Engineer",
+      "employer": "Starion",
+      "location": "Any ESA site / potentially ESTEC",
+      "posted": null,
+      "closing_date": "2026-09-15",
+      "url": "https://www.stariongroup.eu/career/clean-space-safety-engineer/",
+      "categories": [
+        "systems engineering",
+        "space safety",
+        "sustainability",
+        "technology development"
+      ],
+      "fit_score": 6,
+      "priority": "medium",
+      "status": "expired",
+      "first_seen": "2026-09-09T17:59:00+02:00",
+      "assessment": "Mechanical degree relevant; prior space experience plus Zero Debris/LCA expertise is the stretch."
+    }
+  ]
+}
