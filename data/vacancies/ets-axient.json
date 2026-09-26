@@ -1,0 +1,79 @@
+{
+  "schema_version": 3,
+  "source": "ChatGPT ESTEC Vacancy Watch",
+  "vacancies": [
+    {
+      "title": "Technical Engineering Manager Vibration Acoustic",
+      "employer": "IABG / European Test Services (ETS)",
+      "location": "ESTEC Test Centre, Noordwijk",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://nl.indeed.com/viewjob?jk=ef22f3d49fddb6ef",
+      "categories": [
+        "mechanical testing",
+        "vibration",
+        "acoustics",
+        "spacecraft qualification",
+        "test facilities"
+      ],
+      "fit_score": 6,
+      "priority": "high_radar",
+      "status": "active",
+      "assessment": "Excellent technical subject match and direct ESTEC Test Centre exposure, but clearly a senior leadership role."
+    },
+    {
+      "title": "Test Floor Supervisor & General Support Technician",
+      "employer": "IABG / European Test Services (ETS)",
+      "location": "ESTEC Test Centre, Noordwijk",
+      "posted": "2026-08-24",
+      "closing_date": null,
+      "url": "https://nl.linkedin.com/company/iabg/jobs",
+      "categories": [
+        "mechanical testing",
+        "vibration",
+        "shock",
+        "acoustics",
+        "mass properties",
+        "spacecraft qualification",
+        "test facilities",
+        "operations",
+        "handling equipment",
+        "cleanrooms",
+        "facility maintenance",
+        "spacecraft testing"
+      ],
+      "fit_score": 4.5,
+      "priority": "underlevel",
+      "status": "active",
+      "first_seen": "2026-09-14T17:51:35+02:00",
+      "assessment": "Useful spacecraft-test exposure but clearly under-level for an MSc mechanical engineer."
+    },
+    {
+      "title": "Senior AI&T Engineer – Space Systems",
+      "employer": "Axient Systems Netherlands",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://axientsystems.nl/vacancies",
+      "categories": [
+        "AIT/AIV",
+        "integration",
+        "verification",
+        "environmental testing",
+        "vibration",
+        "shock",
+        "thermal",
+        "TVAC",
+        "EMC",
+        "MGSE",
+        "spacecraft qualification",
+        "optomechatronics"
+      ],
+      "fit_score": 6.5,
+      "priority": "high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-21T17:57:39+02:00",
+      "assessment": "Exceptionally relevant hardware/test content spanning spacecraft AI&T, V&V, environmental qualification, GSE and optical alignment, but the role requires 8+ years specifically in complex-hardware AIT and prior spacecraft campaign ownership, making seniority the major stretch."
+    }
+  ]
+}
