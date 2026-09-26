@@ -1,0 +1,98 @@
+{
+  "schema_version": 3,
+  "source": "ChatGPT ESTEC Vacancy Watch",
+  "vacancies": [
+    {
+      "title": "Satcom New Concepts Engineer",
+      "employer": "SSC Space",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-07-09",
+      "closing_date": "2026-10-15",
+      "url": "https://sscspace.com/career/job-opportunities/5ad1c05a-568e-4273-a5ad-87064d7c919f/",
+      "categories": [
+        "systems engineering",
+        "satcom",
+        "ground segment"
+      ],
+      "fit_score": 4,
+      "priority": "low",
+      "status": "active",
+      "assessment": "Direct ESTEC route; official SSC careers page now lists a 15 Oct 2026 deadline. Role remains strongly specialized in SATCOM."
+    },
+    {
+      "title": "Ground Control Segment Engineer",
+      "employer": "SSC Space",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-10-15",
+      "url": "https://sscspace.com/career/job-opportunities/8d5e1918-5d59-4bf9-991d-0e03df1b179c/",
+      "categories": [
+        "systems engineering",
+        "ground segment",
+        "verification"
+      ],
+      "fit_score": 4.5,
+      "priority": "low",
+      "status": "active",
+      "assessment": "Reopened/current on SSC's official careers page with a 15 Oct 2026 deadline. Systems/verification exposure at ESTEC, but ground-control software remains outside the strongest profile.",
+      "first_seen": "2026-09-21T19:18:00+02:00"
+    },
+    {
+      "title": "End-to-End Mission Performance Engineers (2 positions)",
+      "employer": "SSC Space",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-10-15",
+      "url": "https://sscspace.com/career/job-opportunities/180f977a-f6a5-4180-8cd3-7cf150c6b0fb/",
+      "categories": [
+        "systems engineering",
+        "verification",
+        "mission performance",
+        "simulation"
+      ],
+      "fit_score": 5.5,
+      "priority": "medium_low",
+      "status": "active",
+      "assessment": "Reopened/current on SSC's official careers page with a 15 Oct 2026 deadline. Relevant verification and mission-performance work at ESTEC; software/optical-performance experience is the main stretch.",
+      "first_seen": "2026-09-21T19:18:00+02:00"
+    },
+    {
+      "title": "Satcom Evaluation Engineer",
+      "employer": "SSC Space",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-10-15",
+      "url": "https://sscspace.com/career/job-opportunities/",
+      "job_id": "SSC-SATCOM-EVAL",
+      "categories": [
+        "satcom",
+        "systems engineering",
+        "evaluation",
+        "ESA programmes"
+      ],
+      "fit_score": 4,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-23T09:35:00+02:00",
+      "assessment": "Direct ESTEC engineering role newly visible on SSC's official careers list; relevant as ESA exposure but specialized in satcom rather than mechanical/hardware engineering."
+    },
+    {
+      "title": "PA and Safety Support Engineer",
+      "employer": "SSC Space",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-09-15",
+      "url": "https://sscspace.com/career/job-opportunities/602bac46-541e-45d0-893e-cfdada4fe67d/",
+      "categories": [
+        "product assurance",
+        "safety",
+        "ECSS",
+        "spacecraft engineering"
+      ],
+      "fit_score": 4.5,
+      "priority": "low",
+      "status": "expired",
+      "assessment": "PA/Safety exposure is relevant, but extensive space PA/QA experience required."
+    }
+  ]
+}
