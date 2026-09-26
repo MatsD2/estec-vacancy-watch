@@ -1,0 +1,287 @@
+{
+  "schema_version": 3,
+  "source": "ChatGPT ESTEC Vacancy Watch",
+  "vacancies": [
+    {
+      "title": "Mechanical Engineer",
+      "employer": "Airbus Netherlands",
+      "location": "Leiden / Amsterdam Area",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mechanical-Engineer_JR10431336",
+      "categories": [
+        "mechanical design",
+        "structural analysis",
+        "FEM",
+        "space hardware"
+      ],
+      "fit_score": 7,
+      "priority": "high_secondary",
+      "status": "active",
+      "assessment": "Relevant mechanical space-hardware role focused on Ariane 6 structures; stronger FEMAP/NASTRAN experience would improve competitiveness."
+    },
+    {
+      "title": "Project Manager",
+      "employer": "Airbus Netherlands",
+      "location": "Amsterdam Area",
+      "posted": "2026-08-30",
+      "closing_date": "2026-09-30",
+      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Project-Manager_JR10420614-1",
+      "job_id": "JR10420614",
+      "categories": [
+        "project management",
+        "space hardware",
+        "operations",
+        "multidisciplinary engineering"
+      ],
+      "fit_score": 7.5,
+      "priority": "high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-11T18:28:41+02:00",
+      "assessment": "Strong secondary-space opportunity; main gap is proving formal project-lead ownership."
+    },
+    {
+      "title": "Mechanical Engineer - Medior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/mechanical-engineer-medior-3",
+      "categories": [
+        "mechanical design",
+        "spacecraft structures",
+        "FEM",
+        "qualification",
+        "R&D"
+      ],
+      "fit_score": 8.5,
+      "priority": "very_high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-09T15:41:00+02:00",
+      "assessment": "Excellent technical match; four years of complex mechanical-design experience is the main formal stretch."
+    },
+    {
+      "title": "Systems AIT Engineer - Medior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/systems-ait-engineer-medior",
+      "categories": [
+        "AIT/AIV",
+        "integration",
+        "testing",
+        "verification",
+        "small satellites"
+      ],
+      "fit_score": 8,
+      "priority": "high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-09T15:41:00+02:00",
+      "assessment": "Strong spacecraft-hardware route combining AIT planning, integration, testing, traceability and anomaly resolution."
+    },
+    {
+      "title": "Mechanical Engineer - Medior/Senior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/mechanical-engineer-mediorsenior",
+      "categories": [
+        "mechanical design",
+        "FEM",
+        "launch hardware",
+        "qualification",
+        "testing"
+      ],
+      "fit_score": 7.5,
+      "priority": "high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-09T15:41:00+02:00",
+      "assessment": "Very relevant design/FEM/qualification work on satellite launch hardware; experience/Nastran requirements are a stretch."
+    },
+    {
+      "title": "Mechanical Engineer - Senior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/mechanical-engineer-senior-1",
+      "categories": [
+        "mechanical design",
+        "thermal interfaces",
+        "verification",
+        "spacecraft engineering"
+      ],
+      "fit_score": 7,
+      "priority": "medium_high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-09T15:41:00+02:00",
+      "assessment": "Strong technical content but clearly senior in expected ownership and experience."
+    },
+    {
+      "title": "Product Assurance Engineer",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/product-assurance-engineer-3",
+      "categories": [
+        "product assurance",
+        "ECSS",
+        "FMEA",
+        "non-conformance",
+        "environmental testing"
+      ],
+      "fit_score": 6.5,
+      "priority": "medium_secondary",
+      "status": "active",
+      "first_seen": "2026-09-09T15:41:00+02:00",
+      "assessment": "Relevant to ESA Academy PA exposure and hardware background; main gap is dedicated space-quality experience."
+    },
+    {
+      "title": "Senior AOCS Engineer",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/senior-aocs-engineer-1",
+      "categories": [
+        "AOCS/GNC",
+        "control engineering",
+        "sensors",
+        "actuators",
+        "verification",
+        "small satellites"
+      ],
+      "fit_score": 5.5,
+      "priority": "medium_secondary",
+      "status": "active",
+      "first_seen": "2026-09-11T08:03:04+02:00",
+      "assessment": "Relevant to a mechatronics/control generalist but explicitly senior and specialized."
+    },
+    {
+      "title": "Space Systems Engineer - Senior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/space-systems-engineer-senior-1",
+      "categories": [
+        "systems engineering",
+        "requirements",
+        "spacecraft design",
+        "mission analysis",
+        "verification"
+      ],
+      "fit_score": 6,
+      "priority": "medium_secondary",
+      "status": "active",
+      "first_seen": "2026-09-11T08:03:04+02:00",
+      "assessment": "Broad spacecraft systems work fits a generalist profile, but senior experience level is a substantial stretch."
+    },
+    {
+      "title": "SAIT Software Engineer",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/sait-software-engineer-1",
+      "categories": [
+        "AIT/AIV",
+        "test automation",
+        "verification",
+        "software",
+        "satellite testing"
+      ],
+      "fit_score": 4.5,
+      "priority": "low_secondary",
+      "status": "active",
+      "first_seen": "2026-09-11T08:03:04+02:00",
+      "assessment": "Directly supports satellite AIT and automated verification, but primarily software-focused."
+    },
+    {
+      "title": "Labs and Test Facilities Manager",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/labs-and-test-facilities-manager-2",
+      "categories": [
+        "test facilities",
+        "environmental testing",
+        "laboratory management",
+        "calibration",
+        "AIT/AIV",
+        "test automation"
+      ],
+      "fit_score": 6.5,
+      "priority": "medium_high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-11T18:02:02+02:00",
+      "assessment": "Strong practical test-facility route; more facilities/operations coordination than spacecraft design."
+    },
+    {
+      "title": "Project Manager - Medior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/project-manager-medior-3",
+      "categories": [
+        "project engineering",
+        "project management",
+        "launch equipment",
+        "requirements",
+        "hardware",
+        "supplier management"
+      ],
+      "fit_score": 7.5,
+      "priority": "high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-14T07:58:30+02:00",
+      "assessment": "Strong secondary match in Launch Equipment & Services; main gap is direct space-project management experience."
+    },
+    {
+      "title": "Project Manager - Junior/Medior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/project-manager-juniormedior",
+      "categories": [
+        "project engineering",
+        "project management",
+        "CubeSats",
+        "hardware/software",
+        "systems context"
+      ],
+      "fit_score": 6.5,
+      "priority": "medium_high_secondary",
+      "status": "active",
+      "first_seen": "2026-09-14T07:58:30+02:00",
+      "assessment": "Relevant technical project-management route with possible CubeSat mission ownership."
+    },
+    {
+      "title": "Mechanical Engineer - Junior/Medior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/mechanical-engineer-juniormedior",
+      "categories": [
+        "mechanical design",
+        "CAD",
+        "technical drawings",
+        "manufacturing",
+        "spacecraft hardware",
+        "AIT/AIV"
+      ],
+      "fit_score": 6,
+      "priority": "medium_secondary",
+      "status": "active",
+      "first_seen": "2026-09-16T13:02:00+02:00",
+      "assessment": "Strong technical overlap, but outside ESTEC, junior-leaning and salary too low to make it a strong move for this profile."
+    }
+  ]
+}
