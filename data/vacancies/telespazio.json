@@ -284,7 +284,7 @@
       ],
       "fit_score": 3.5,
       "priority": "low",
-      "status": "active",
+      "status": "expired",
       "first_seen": "2026-09-14T13:02:25+02:00",
       "assessment": "Included for high recall; fundamentally an RF/SAR/ELINT role."
     },
