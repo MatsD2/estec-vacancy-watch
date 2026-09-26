@@ -1,0 +1,352 @@
+{
+  "schema_version": 3,
+  "source": "ChatGPT ESTEC Vacancy Watch",
+  "vacancies": [
+    {
+      "title": "Senior Small Satellites Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/ab6823068e5401-small-satellites-engineer",
+      "categories": [
+        "systems engineering",
+        "AIT/AIV",
+        "verification",
+        "small satellites"
+      ],
+      "fit_score": 7.5,
+      "priority": "high",
+      "status": "active",
+      "first_seen": "2026-09-09T17:59:00+02:00",
+      "assessment": "Strong broad spacecraft-systems route; prior dedicated spacecraft systems experience remains the main stretch."
+    },
+    {
+      "title": "Systems Engineer for Space Sustainability",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/0a7ea029b09201-systems-engineer-for-space-sustainability",
+      "categories": [
+        "systems engineering",
+        "sustainability",
+        "R&D",
+        "ECSS"
+      ],
+      "fit_score": 5.5,
+      "priority": "medium_low",
+      "status": "active",
+      "first_seen": "2026-09-09T17:59:00+02:00",
+      "assessment": "Broad ESA systems/R&D work; specific Clean Space and sustainability expertise is a stretch."
+    },
+    {
+      "title": "End-to-End System Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/4a0f84bbe30001-end-to-end-system-engineer",
+      "categories": [
+        "systems engineering",
+        "simulation",
+        "hardware-in-the-loop",
+        "software integration"
+      ],
+      "fit_score": 3.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-09T17:59:00+02:00",
+      "assessment": "ESTEC systems/test-lab exposure, but software/infrastructure dominated."
+    },
+    {
+      "title": "Senior Human Spaceflight Safety Support Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/185532cc06fa01-human-spaceflight-safety-support-engineer",
+      "categories": [
+        "human spaceflight",
+        "safety",
+        "product assurance",
+        "RAMS",
+        "verification"
+      ],
+      "fit_score": 5.5,
+      "priority": "medium",
+      "status": "active",
+      "first_seen": "2026-09-09T18:01:24+02:00",
+      "assessment": "Human-spaceflight safety and verification at ESTEC is attractive; dedicated dependability experience is a major stretch."
+    },
+    {
+      "title": "GNC-AOCS Sensors and Actuators Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/a85e757abb0e01-gnc-aocs-sensors-and-actuators-engineer",
+      "categories": [
+        "AOCS/GNC",
+        "sensors",
+        "actuators",
+        "laboratory testing",
+        "verification",
+        "AIT/AIV",
+        "control engineering"
+      ],
+      "fit_score": 6.5,
+      "priority": "high_radar",
+      "status": "active",
+      "first_seen": "2026-09-10T18:02:18+02:00",
+      "assessment": "Strong hardware/test relevance at ESTEC; dedicated AOCS/GNC experience is the main stretch."
+    },
+    {
+      "title": "Solar Generators Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/2a35acb696e801-solar-generators-engineer",
+      "categories": [
+        "mechanical design",
+        "thermal",
+        "space hardware",
+        "qualification",
+        "testing",
+        "R&D"
+      ],
+      "fit_score": 7,
+      "priority": "high",
+      "status": "active",
+      "first_seen": "2026-09-10T12:58:12+02:00",
+      "assessment": "Strong ESTEC hardware role spanning mechanical/thermal properties, manufacturing, qualification and testing; dedicated solar-generator experience is the main gap."
+    },
+    {
+      "title": "Navigation System Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/634266a2c2c901-navigation-system-engineer",
+      "categories": [
+        "systems engineering",
+        "requirements",
+        "GNSS",
+        "verification",
+        "MBSE"
+      ],
+      "fit_score": 5.5,
+      "priority": "medium_low",
+      "status": "active",
+      "first_seen": "2026-09-11T12:57:54+02:00",
+      "assessment": "Legitimate ESTEC systems role; dedicated GNSS/Galileo knowledge is a substantial stretch."
+    },
+    {
+      "title": "On-Board Computers and Data Handling Support Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/565a6539bff601-on-board-computers-and-data-handling-support-engineer",
+      "categories": [
+        "spacecraft avionics",
+        "verification",
+        "laboratory testing",
+        "AIT/AIV",
+        "R&D",
+        "hardware"
+      ],
+      "fit_score": 4.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-11T12:57:54+02:00",
+      "assessment": "Strong ESTEC lab and verification exposure; dedicated OBC/data-handling expertise is the main mismatch."
+    },
+    {
+      "title": "Microelectronics Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/150287b5b86501-microelectronics-engineer",
+      "categories": [
+        "verification",
+        "qualification",
+        "laboratory testing",
+        "R&D",
+        "electronics"
+      ],
+      "fit_score": 3.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-11T12:57:54+02:00",
+      "assessment": "Included for high recall; core discipline is microelectronics."
+    },
+    {
+      "title": "Satellite Telecommunication System Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/af1c2b9cd17301-satellite-telecommunication-system-engineer",
+      "categories": [
+        "systems engineering",
+        "satcom",
+        "R&D",
+        "simulation",
+        "verification"
+      ],
+      "fit_score": 3.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-11T12:57:54+02:00",
+      "assessment": "Direct ESTEC systems/R&D role but strongly specialized in satcom."
+    },
+    {
+      "title": "Data Intelligence Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/6f5d350879c801-data-intelligence-engineer",
+      "categories": [
+        "data engineering",
+        "AI/ML",
+        "software",
+        "analytics",
+        "systems support"
+      ],
+      "fit_score": 2.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-14T17:51:35+02:00",
+      "assessment": "Included for high recall; primarily AI/ML and data engineering."
+    },
+    {
+      "title": "Project Management and Engineering Specialist (Orbital projects)",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/cb77e8e06bdb01-project-management-and-engineering-specialist-orbital-projects",
+      "categories": [
+        "project engineering",
+        "systems engineering",
+        "AIT/AIV",
+        "verification",
+        "testing",
+        "CubeSats",
+        "ESA Academy"
+      ],
+      "fit_score": 8,
+      "priority": "very_high",
+      "status": "active",
+      "first_seen": "2026-09-13T13:01:41+02:00",
+      "assessment": "Excellent generalist ESTEC opportunity through design, systems engineering, reviews, testing, AIV and launch preparation."
+    },
+    {
+      "title": "Project Management and Engineering Specialist (Non-orbital projects)",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/410b11e9961601-project-management-and-engineering-specialist-non-orbital-projects",
+      "categories": [
+        "project engineering",
+        "systems engineering",
+        "testing",
+        "validation",
+        "experiments",
+        "ESA Academy",
+        "robotics"
+      ],
+      "fit_score": 7,
+      "priority": "high",
+      "status": "active",
+      "first_seen": "2026-09-13T13:01:41+02:00",
+      "assessment": "Strong generalist engineering role coordinating ESA Academy experiments and technical projects."
+    },
+    {
+      "title": "SAR performance & ELINT (Electronic Intelligence) Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-09-25",
+      "url": "https://telespazio-be.breezy.hr/p/1c893273d0a201-sar-performance-elint-electronic-intelligence-engineer",
+      "categories": [
+        "systems engineering",
+        "mission performance",
+        "verification",
+        "space hardware",
+        "laboratory testing",
+        "RF payloads"
+      ],
+      "fit_score": 3.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-09-14T13:02:25+02:00",
+      "assessment": "Included for high recall; fundamentally an RF/SAR/ELINT role."
+    },
+    {
+      "title": "Space Solar Array & Generator Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "Coming Soon",
+      "url": "https://telespazio-be.breezy.hr/",
+      "categories": [
+        "space hardware",
+        "solar arrays",
+        "mechanical engineering",
+        "thermal",
+        "qualification",
+        "testing"
+      ],
+      "fit_score": 7,
+      "priority": "high_radar",
+      "status": "upcoming",
+      "first_seen": "2026-09-24T11:57:00+02:00",
+      "assessment": "Coming-soon ESTEC role visible on Telespazio Belgium's official vacancy list. Potentially strong hardware fit; full requirements are not yet published, so fit remains provisional."
+    },
+    {
+      "title": "Junior Small Satellites Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/aabd11bc2a9601-junior-small-satellites-engineer",
+      "categories": [
+        "systems engineering",
+        "AIT/AIV",
+        "verification",
+        "small satellites"
+      ],
+      "fit_score": 8.5,
+      "priority": "very_high",
+      "status": "closed",
+      "assessment": "Excellent broad early-career spacecraft role, but closed."
+    },
+    {
+      "title": "Industrialisation Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://telespazio-be.breezy.hr/p/4c49c4fc655d01-industrialisation-engineer",
+      "categories": [
+        "industrialisation",
+        "manufacturing",
+        "AIT/AIV",
+        "production engineering",
+        "automation",
+        "ECSS"
+      ],
+      "fit_score": 9,
+      "priority": "very_high",
+      "status": "closed",
+      "first_seen": "2026-09-10T17:56:48+02:00",
+      "assessment": "Outstanding technical match, but closed."
+    }
+  ]
+}
