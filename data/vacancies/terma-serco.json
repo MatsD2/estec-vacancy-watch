@@ -1,0 +1,46 @@
+{
+  "schema_version": 3,
+  "source": "ChatGPT ESTEC Vacancy Watch",
+  "vacancies": [
+    {
+      "title": "AIT & Production Engineer for IRIS2",
+      "employer": "Terma",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://career5.successfactors.eu/career?career_ns=job_listing&company=termaas&career_job_req_id=1008",
+      "job_id": "1008",
+      "categories": [
+        "AIT/AIV",
+        "production",
+        "manufacturing",
+        "spacecraft engineering",
+        "IRIS2"
+      ],
+      "fit_score": 7,
+      "priority": "high",
+      "status": "active",
+      "first_seen": "2026-09-09T21:09:00+02:00",
+      "assessment": "Strong ESTEC hardware route covering satellite AIT, production readiness and manufacturing flows."
+    },
+    {
+      "title": "Mechanical Test Engineer",
+      "employer": "Serco Europe",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.serco.com/eu/en/job/309287/Mechanical-Test-Engineer",
+      "categories": [
+        "mechanical testing",
+        "MGSE",
+        "environmental testing",
+        "test facilities",
+        "spacecraft qualification"
+      ],
+      "fit_score": 8,
+      "priority": "very_high",
+      "status": "closed",
+      "assessment": "Excellent technical match, but filled."
+    }
+  ]
+}
