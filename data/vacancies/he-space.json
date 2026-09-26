@@ -1,0 +1,68 @@
+{
+  "schema_version": 3,
+  "source": "ChatGPT ESTEC Vacancy Watch",
+  "vacancies": [
+    {
+      "title": "Commercialization Engineer",
+      "employer": "HE Space / SpaceForce",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-09-30",
+      "url": "https://www.hespace.com/vacancies/commercialization-engineer",
+      "categories": [
+        "technology assessment",
+        "commercialisation",
+        "systems context",
+        "ESA programmes"
+      ],
+      "fit_score": 5,
+      "priority": "medium_low",
+      "status": "active",
+      "first_seen": "2026-09-09T17:59:00+02:00",
+      "assessment": "ESTEC role requiring a technical MSc; less hardware-focused."
+    },
+    {
+      "title": "Product Assurance & Safety Support Engineer",
+      "employer": "HE Space / SpaceForce",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-09-30",
+      "url": "https://www.hespace.com/vacancies/product-assurance-safety-support-engineer-26126-0",
+      "job_id": "26126",
+      "categories": [
+        "product assurance",
+        "safety",
+        "quality assurance",
+        "manufacturing",
+        "AIT/AIV",
+        "ECSS"
+      ],
+      "fit_score": 4.5,
+      "priority": "medium_low",
+      "status": "active",
+      "first_seen": "2026-09-12T07:58:14+02:00",
+      "assessment": "Strongly relevant ESA PA&S content; dedicated PA/QA experience requirement is a major stretch."
+    },
+    {
+      "title": "Configuration & Data Manager",
+      "employer": "HE Space / SpaceForce",
+      "location": "Noordwijk",
+      "posted": null,
+      "closing_date": "2026-09-30",
+      "url": "https://www.hespace.com/vacancies/configuration-data-manager-26165",
+      "job_id": "26165",
+      "categories": [
+        "configuration management",
+        "data management",
+        "project support",
+        "systems engineering",
+        "ESA programmes"
+      ],
+      "fit_score": 4.5,
+      "priority": "medium_low",
+      "status": "active",
+      "first_seen": "2026-09-13T07:58:19+02:00",
+      "assessment": "Direct Noordwijk role; dedicated configuration/data-management experience is a significant stretch."
+    }
+  ]
+}
