@@ -3,6 +3,28 @@
   "source": "ChatGPT ESTEC Vacancy Watch",
   "vacancies": [
     {
+      "title": "Optoelectronics Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-09-29",
+      "closing_date": "2026-10-20",
+      "url": "https://jobs.esa.int/job/Noordwijk-Optoelectronics-Engineer/1442420733/",
+      "job_id": "20922",
+      "categories": [
+        "optoelectronics",
+        "optics",
+        "photonics",
+        "space instruments",
+        "verification",
+        "technology development"
+      ],
+      "fit_score": 6.5,
+      "priority": "high_radar",
+      "status": "active",
+      "first_seen": "2026-09-30T12:57:30+02:00",
+      "assessment": "Direct ESA/ESTEC A2-A4 role in the Mechanical Department with strong optics/instrument/hardware relevance. Attractive adjacent field, but dedicated photonic-component, detector/laser and optoelectronics expertise is a significant technical stretch."
+    },
+    {
       "title": "FDIR System Engineer",
       "employer": "ESA",
       "location": "ESTEC, Noordwijk",
@@ -64,7 +86,7 @@
       ],
       "fit_score": 6.5,
       "priority": "high_radar",
-      "status": "active",
+      "status": "expired",
       "first_seen": "2026-09-17T17:59:17+02:00",
       "assessment": "Direct ESA AOCS role with relevant control/mechatronics, sensors, actuators and verification overlap; dedicated spacecraft AOCS/GNC experience is the main stretch."
     },
@@ -124,7 +146,7 @@
       ],
       "fit_score": 3.5,
       "priority": "low",
-      "status": "active",
+      "status": "expired",
       "assessment": "Direct ESA and verification-relevant, but predominantly telecom/5G specialist work."
     },
     {
