@@ -17,7 +17,7 @@
       ],
       "fit_score": 5,
       "priority": "medium_low",
-      "status": "active",
+      "status": "expired",
       "first_seen": "2026-09-09T17:59:00+02:00",
       "assessment": "ESTEC role requiring a technical MSc; less hardware-focused."
     },
@@ -39,7 +39,7 @@
       ],
       "fit_score": 4.5,
       "priority": "medium_low",
-      "status": "active",
+      "status": "expired",
       "first_seen": "2026-09-12T07:58:14+02:00",
       "assessment": "Strongly relevant ESA PA&S content; dedicated PA/QA experience requirement is a major stretch."
     },
@@ -60,7 +60,7 @@
       ],
       "fit_score": 4.5,
       "priority": "medium_low",
-      "status": "active",
+      "status": "expired",
       "first_seen": "2026-09-13T07:58:19+02:00",
       "assessment": "Direct Noordwijk role; dedicated configuration/data-management experience is a significant stretch."
     }
