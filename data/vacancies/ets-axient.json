@@ -74,6 +74,25 @@
       "status": "active",
       "first_seen": "2026-09-21T17:57:39+02:00",
       "assessment": "Exceptionally relevant hardware/test content spanning spacecraft AI&T, V&V, environmental qualification, GSE and optical alignment, but the role requires 8+ years specifically in complex-hardware AIT and prior spacecraft campaign ownership, making seniority the major stretch."
+    },
+    {
+      "title": "Test and Maintenance Engineer (HBO) – Space and High Tech",
+      "employer": "IABG / European Test Services (ETS)",
+      "location": "Noordwijk, Netherlands (ESTEC)",
+      "status": "active",
+      "posted": "2026-09-28",
+      "closing_date": null,
+      "url": "https://nl.linkedin.com/jobs/view/test-and-maintenance-engineer-hbo-%E2%80%93-space-and-high-tech-m-f-d-noordwijk-aan-zee-nl-at-iabg-4319163807",
+      "categories": [
+        "mechanical",
+        "test/qualification",
+        "AIT/AIV",
+        "verification",
+        "integration"
+      ],
+      "fit_score": 7.5,
+      "assessment": "Strong ESTEC hardware/test fit: mechanical vibration, acoustic, shock and mass-property testing in ESA’s Space Test Centre, including instrumentation, test preparation, facility maintenance and troubleshooting. Main caveat: HBO/Bachelor-oriented and potentially below MSc level, but direct ESTEC test experience could be strategically valuable.",
+      "first_seen": "2026-10-02T15:09:00+02:00"
     }
   ]
 }
