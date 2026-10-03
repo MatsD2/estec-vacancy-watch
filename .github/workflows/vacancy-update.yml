@@ -1,0 +1,64 @@
+name: Vacancy database update
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  apply:
+    if: startsWith(github.event.issue.title, '[vacancy-update] ')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Apply vacancy payload
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const allowed = new Set(['esa.json','telespazio.json','atg.json','starion.json','ssc.json','he-space.json','terma-serco.json','ets-axient.json','secondary.json','other.json']);
+          let req;
+          try { req = JSON.parse(process.env.ISSUE_BODY || ''); } catch { throw new Error('Issue body must be valid JSON'); }
+          if (!req || !allowed.has(req.shard) || !req.vacancy || typeof req.vacancy !== 'object') throw new Error('Invalid vacancy update payload');
+          const p = 'data/vacancies/' + req.shard;
+          const db = JSON.parse(fs.readFileSync(p,'utf8'));
+          if (!Array.isArray(db.vacancies)) throw new Error('Shard has no vacancies array');
+          const v = req.vacancy;
+          const canon = u => String(u||'').split('#')[0].replace(/[?&](utm_[^=&]+|ref|source)=[^&]*/g,'').replace(/[?&]$/,'').replace(/\/$/,'');
+          const norm = s => String(s||'').trim().toLowerCase().replace(/\s+/g,' ');
+          let i = db.vacancies.findIndex(x => v.url && x.url && canon(x.url) === canon(v.url));
+          if (i < 0 && (v.job_id || v.requisition_id)) {
+            const id = norm(v.job_id || v.requisition_id);
+            i = db.vacancies.findIndex(x => norm(x.employer)===norm(v.employer) && norm(x.title)===norm(v.title) && norm(x.location)===norm(v.location) && norm(x.job_id||x.requisition_id)===id);
+          }
+          if (i >= 0) {
+            const old = db.vacancies[i];
+            db.vacancies[i] = {...old, ...v};
+            if (old.first_seen) db.vacancies[i].first_seen = old.first_seen;
+          } else {
+            if (!v.title || !v.employer || !v.url) throw new Error('New vacancy requires title, employer and url');
+            db.vacancies.push(v);
+          }
+          fs.writeFileSync(p, JSON.stringify(db,null,2)+'\n');
+          NODE
+      - name: Commit database change
+        run: |
+          git config user.name "estec-vacancy-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/vacancies/
+          if git diff --cached --quiet; then
+            echo "No database change required"
+          else
+            git commit -m "Update vacancy database from issue #${{ github.event.issue.number }}"
+            git push origin HEAD:main
+          fi
+      - name: Close request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue close "${{ github.event.issue.number }}" --comment "Vacancy database update processed by GitHub Actions."
