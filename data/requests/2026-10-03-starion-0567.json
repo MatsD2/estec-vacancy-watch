@@ -1,0 +1,22 @@
+{
+  "shard": "starion.json",
+  "vacancy": {
+    "title": "Antenna Engineer",
+    "employer": "Starion / RHEA Group",
+    "location": "Noordwijk, Netherlands (ESTEC)",
+    "job_id": "0567",
+    "status": "active",
+    "closing_date": "2026-10-12",
+    "url": "https://careers.stariongroup.eu/jobs/0567-antenna-engineer",
+    "categories": [
+      "antennas",
+      "RF",
+      "test/qualification",
+      "optical communications",
+      "systems"
+    ],
+    "fit_score": 4.5,
+    "assessment": "Direct ESTEC role with payload/instrument testing and optical-communications overlap, but primarily specialised RF/antenna engineering.",
+    "first_seen": "2026-10-02T15:09:00+02:00"
+  }
+}
