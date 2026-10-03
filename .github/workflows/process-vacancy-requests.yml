@@ -1,0 +1,53 @@
+name: Process vacancy requests
+
+on:
+  push:
+    paths:
+      - 'data/requests/*.json'
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Apply requests
+        run: |
+          node <<'NODE'
+          const fs=require('fs'), path=require('path');
+          const allowed=new Set(['esa.json','telespazio.json','atg.json','starion.json','ssc.json','he-space.json','terma-serco.json','ets-axient.json','secondary.json','other.json']);
+          const dir='data/requests';
+          if(!fs.existsSync(dir)) process.exit(0);
+          const files=fs.readdirSync(dir).filter(x=>x.endsWith('.json'));
+          for(const file of files){
+            const rp=path.join(dir,file), req=JSON.parse(fs.readFileSync(rp,'utf8'));
+            if(!req||!allowed.has(req.shard)||!req.vacancy||typeof req.vacancy!=='object') throw new Error('Invalid request '+file);
+            const p='data/vacancies/'+req.shard, db=JSON.parse(fs.readFileSync(p,'utf8')), v=req.vacancy;
+            if(!Array.isArray(db.vacancies)) throw new Error('Invalid shard '+req.shard);
+            const canon=u=>String(u||'').split('#')[0].replace(/[?&](utm_[^=&]+|ref|source)=[^&]*/g,'').replace(/[?&]$/,'').replace(/\/$/,'');
+            const norm=s=>String(s||'').trim().toLowerCase().replace(/\s+/g,' ');
+            let i=db.vacancies.findIndex(x=>v.url&&x.url&&canon(x.url)===canon(v.url));
+            if(i<0&&(v.job_id||v.requisition_id)){
+              const id=norm(v.job_id||v.requisition_id);
+              i=db.vacancies.findIndex(x=>norm(x.employer)===norm(v.employer)&&norm(x.title)===norm(v.title)&&norm(x.location)===norm(v.location)&&norm(x.job_id||x.requisition_id)===id);
+            }
+            if(i>=0){const old=db.vacancies[i];db.vacancies[i]={...old,...v};if(old.first_seen)db.vacancies[i].first_seen=old.first_seen;}
+            else {if(!v.title||!v.employer||!v.url)throw new Error('New vacancy missing identity');db.vacancies.push(v);}
+            fs.writeFileSync(p,JSON.stringify(db,null,2)+'\n');
+            fs.unlinkSync(rp);
+          }
+          NODE
+      - name: Commit
+        run: |
+          git config user.name "estec-vacancy-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/vacancies/ data/requests/
+          if ! git diff --cached --quiet; then
+            git commit -m "Process vacancy update requests"
+            git push origin HEAD:main
+          fi
