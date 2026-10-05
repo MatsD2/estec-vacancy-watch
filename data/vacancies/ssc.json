@@ -93,6 +93,24 @@
       "priority": "low",
       "status": "expired",
       "assessment": "PA/Safety exposure is relevant, but extensive space PA/QA experience required."
+    },
+    {
+      "title": "Ground Segment Engineer",
+      "employer": "SSC Space",
+      "location": "Noordwijk, Netherlands (ESTEC)",
+      "status": "active",
+      "closing_date": "2026-11-15",
+      "url": "https://sscspace.com/career/job-opportunities/dcb9adbf-3469-4df3-bc3c-f80ad3299af5/",
+      "categories": [
+        "systems",
+        "satcom",
+        "ground segment",
+        "R&D",
+        "verification"
+      ],
+      "fit_score": 4.5,
+      "assessment": "Direct ESTEC role following satellite communications ground-segment R&D, industry proposals, technical reviews and development. Strong ESA exposure but requires substantial specialised satcom/ground-segment experience, making it a stretch for a mechanical engineering profile.",
+      "first_seen": "2026-10-02T15:09:00+02:00"
     }
   ]
 }
