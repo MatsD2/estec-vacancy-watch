@@ -347,6 +347,23 @@
       "status": "closed",
       "first_seen": "2026-09-10T17:56:48+02:00",
       "assessment": "Outstanding technical match, but closed."
+    },
+    {
+      "title": "End to End Communications Systems Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "Noordwijk-Binnen, Netherlands (ESTEC)",
+      "status": "active",
+      "url": "https://telespazio-be.breezy.hr/p/988a72401f5201-end-to-end-communications-systems-engineer",
+      "categories": [
+        "systems",
+        "communications",
+        "simulation",
+        "verification",
+        "R&D"
+      ],
+      "fit_score": 5.5,
+      "assessment": "Direct ESTEC systems role with modelling, simulation and verification overlap, but communications/software modelling is outside the strongest mechanical-design fit.",
+      "first_seen": "2026-10-03T10:02:00+02:00"
     }
   ]
 }
