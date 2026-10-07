@@ -1,0 +1,24 @@
+{
+  "shard": "esa.json",
+  "vacancy": {
+    "title": "Copernicus LSTM Satellite Engineering and AIV Manager",
+    "employer": "ESA",
+    "location": "ESTEC, Noordwijk, Netherlands",
+    "job_id": "20959",
+    "status": "active",
+    "posting_date": "2026-10-06",
+    "closing_date": "2026-10-27",
+    "url": "https://jobs.esa.int/job/Noordwijk-Copernicus-LSTM-Satellite-Engineering-and-AIV-Manager/1444621533/",
+    "categories": [
+      "AIV",
+      "satellite engineering",
+      "integration",
+      "verification",
+      "Earth observation",
+      "project engineering"
+    ],
+    "fit_score": 7.5,
+    "assessment": "Excellent technical and ESTEC exposure match across satellite engineering, AIV, integration and verification, but clearly a senior/stretch manager role requiring substantial spacecraft development and AIV leadership experience.",
+    "first_seen": "2026-10-07T18:00:31+02:00"
+  }
+}
