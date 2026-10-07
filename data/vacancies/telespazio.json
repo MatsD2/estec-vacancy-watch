@@ -387,6 +387,24 @@
       "fit_score": 8,
       "assessment": "Strong ESTEC hardware fit. Solar-array role spans mechanical and electrical design, thermo-mechanical behaviour, manufacturing, integration, qualification/testing, R&D and standards. Main stretch is the requirement for 5+ years specifically in solar-cell/solar-generator technology.",
       "first_seen": "2026-10-06T12:58:52+02:00"
+    },
+    {
+      "title": "Software PA Support Engineer",
+      "employer": "Telespazio Belgium",
+      "location": "ESTEC, Noordwijk",
+      "url": "https://telespazio-be.breezy.hr/p/692d49c428d301-software-pa-support-engineer",
+      "status": "active",
+      "closing_date": "ASAP",
+      "categories": [
+        "product assurance",
+        "software PA",
+        "ECSS",
+        "safety",
+        "configuration management"
+      ],
+      "fit_score": 5.5,
+      "assessment": "Direct ESTEC Product Assurance exposure and ECSS work are career-relevant, but this role specifically requires a master's in software engineering/computer science and relevant Software Product Assurance experience, making it a substantial technical-domain stretch.",
+      "first_seen": "2026-10-06T18:00:00+02:00"
     }
   ]
 }
