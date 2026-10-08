@@ -215,6 +215,27 @@
       "status": "active",
       "first_seen": "2026-10-08T12:58:53+02:00",
       "assessment": "ATG CompositesLab space structures design, CAD, FE and testing. Specialist composite FEA and FEMAP/Nastran required; direct Noordwijk employment."
+    },
+    {
+      "title": "Quality and Knowledge Management Officer",
+      "employer": "ATG Europe",
+      "location": "Noordwijk, Netherlands (ATG HQ)",
+      "posted": null,
+      "closing_date": "2026-11-02",
+      "url": "https://jobs.atg-europe.com/o/quality-and-knowledge-management-officer",
+      "categories": [
+        "quality assurance",
+        "ISO 9001",
+        "quality management",
+        "audits",
+        "compliance",
+        "project management"
+      ],
+      "fit_score": 4.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-10-08T12:58:53+02:00",
+      "assessment": "Noordwijk ATG headquarters internal QMS, compliance, contract audits and knowledge management. Requires 8+ years dedicated quality experience and ISO9001 auditing; not space hardware or direct ESTEC. Stretch/low priority."
     }
   ]
 }
