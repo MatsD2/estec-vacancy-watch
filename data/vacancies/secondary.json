@@ -299,6 +299,23 @@
       "priority": "medium_secondary",
       "assessment": "FEM hardware role; published salary below target, not ESTEC.",
       "first_seen": "2026-10-08T18:00:41+02:00"
+    },
+    {
+      "title": "Team Lead SAIT",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "url": "https://careers.isispace.nl/o/team-lead-sait",
+      "status": "active",
+      "closing_date": null,
+      "categories": [
+        "AIT",
+        "verification",
+        "leadership"
+      ],
+      "fit_score": 6,
+      "priority": "medium_secondary",
+      "assessment": "Satellite AIT team lead, 4 years management and space AIT required. Salary range below or around €70k.",
+      "first_seen": "2026-10-08T18:00:41+02:00"
     }
   ]
 }
