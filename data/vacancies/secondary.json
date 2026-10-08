@@ -316,6 +316,24 @@
       "priority": "medium_secondary",
       "assessment": "Satellite AIT team lead, 4 years management and space AIT required. Salary range below or around €70k.",
       "first_seen": "2026-10-08T18:00:41+02:00"
+    },
+    {
+      "title": "Software Product Assurance Engineer - Medior",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "url": "https://careers.isispace.nl/o/software-product-assurance-engineer-medior",
+      "status": "active",
+      "closing_date": null,
+      "categories": [
+        "software product assurance",
+        "ECSS",
+        "verification",
+        "quality assurance"
+      ],
+      "fit_score": 4.5,
+      "priority": "low_secondary",
+      "assessment": "PA pathway but heavily software-focused with 3+ years software development/QA; salary €4,033–€5,120 monthly, below desired target and outside ESTEC.",
+      "first_seen": "2026-10-08T18:00:41+02:00"
     }
   ]
 }
