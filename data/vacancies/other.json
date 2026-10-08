@@ -53,6 +53,31 @@
       "status": "active",
       "first_seen": "2026-10-08T08:00:46+02:00",
       "assessment": "Direct ESA/ESTEC IRIS2 PA&S, spacecraft MAIT and test review role; strong ESA exposure and PA interest. However requires ten years in the space sector including five years Product/Quality Assurance, a substantial specialist experience gap. Permanent position."
+    },
+    {
+      "title": "RF & Microwave Lab Manager",
+      "employer": "Akkodis",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "ASAP",
+      "url": "https://www.akkodis.com/en-nl/careers/jobs/rf--microwave-lab-manager-noordwijk-/a1a35c7b-38c8-764a-1f17-a495924979e5",
+      "job_id": "JN-032026-74595",
+      "categories": [
+        "RF",
+        "microwave",
+        "laboratory management",
+        "testing",
+        "verification",
+        "qualification",
+        "TVAC",
+        "ESA ESTEC",
+        "quality assurance"
+      ],
+      "fit_score": 4.5,
+      "priority": "medium_low",
+      "status": "active",
+      "first_seen": "2026-10-08T12:58:53+02:00",
+      "assessment": "Direct onsite ESTEC RF/microwave laboratory management and hardware qualification/testing exposure. Technical lab leadership and automation fit partially, but specialised RF payload and microwave test expertise, NEN3140 and laboratory management make this a substantial stretch."
     }
   ]
 }
