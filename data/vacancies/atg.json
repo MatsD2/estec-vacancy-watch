@@ -195,6 +195,26 @@
       "status": "active",
       "first_seen": "2026-10-08T12:58:53+02:00",
       "assessment": "Excellent MSc mechanical engineering, CAD, industrial machine development, manufacturing processes and supplier coordination fit at ATG CompositesLab in Noordwijk. Flight composite structures for launchers/satellites; 5 years relevant experience required. Biggest gap is specialist composite lattice manufacturing, CATIA and space MAIT. Role is Noordwijk-based but in-house ATG, not guaranteed on ESTEC premises."
+    },
+    {
+      "title": "Design & Analysis Engineer",
+      "employer": "ATG Europe",
+      "location": "Noordwijk, Netherlands",
+      "posted": null,
+      "closing_date": "2026-11-27",
+      "url": "https://jobs.atg-europe.com/o/design-analysis-engineer",
+      "categories": [
+        "mechanical design",
+        "structures",
+        "FEM",
+        "composites",
+        "testing"
+      ],
+      "fit_score": 7.5,
+      "priority": "high",
+      "status": "active",
+      "first_seen": "2026-10-08T12:58:53+02:00",
+      "assessment": "ATG CompositesLab space structures design, CAD, FE and testing. Specialist composite FEA and FEMAP/Nastran required; direct Noordwijk employment."
     }
   ]
 }
