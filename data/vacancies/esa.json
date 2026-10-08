@@ -302,6 +302,24 @@
       "fit_score": 7.5,
       "assessment": "Excellent technical and ESTEC exposure match across satellite engineering, AIV, integration and verification, but clearly a senior/stretch manager role requiring substantial spacecraft development and AIV leadership experience.",
       "first_seen": "2026-10-07T18:00:31+02:00"
+    },
+    {
+      "title": "Earth Observation Future Missions Optical Payload Engineer - Emerging Sensing Technologies",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "url": "https://jobs.esa.int/job/Noordwijk-Earth-Observation-Future-Missions-Optical-Payload-Engineer-Emerging-Sensing-Technologies/1369223933/",
+      "job_id": "20355",
+      "posted": "2026-10-05",
+      "closing_date": "2026-10-26",
+      "status": "active",
+      "first_seen": "2026-10-08T08:00:46+02:00",
+      "categories": [
+        "optics",
+        "payload engineering"
+      ],
+      "fit_score": 7,
+      "priority": "high_radar",
+      "assessment": "Optical payload development, 5 years specialist experience required."
     }
   ]
 }
