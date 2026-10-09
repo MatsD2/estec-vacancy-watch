@@ -360,7 +360,13 @@
       "url": "https://werkenbijnlr.recruitee.com/o/application-engineer-composites-mvx",
       "status": "active",
       "fit_score": 5,
-      "first_seen": "2026-10-09T13:02:48+02:00"
+      "first_seen": "2026-10-09T13:02:48+02:00",
+      "assessment": "Junior-level composite manufacturing and tooling. Not at ESTEC.",
+      "categories": [
+        "composites",
+        "manufacturing",
+        "under-level"
+      ]
     }
   ]
 }
