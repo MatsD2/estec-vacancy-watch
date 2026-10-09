@@ -63,6 +63,28 @@
       "status": "expired",
       "first_seen": "2026-09-13T07:58:19+02:00",
       "assessment": "Direct Noordwijk role; dedicated configuration/data-management experience is a significant stretch."
+    },
+    {
+      "title": "Mechanisms Engineer",
+      "employer": "HE Space / SpaceForce",
+      "location": "ESTEC, Noordwijk",
+      "job_id": "26179",
+      "url": "https://www.hespace.com/vacancies/mechanisms-engineer-26179-0",
+      "posted": null,
+      "closing_date": "2026-11-15",
+      "status": "active",
+      "categories": [
+        "mechanisms",
+        "mechanical",
+        "manufacturing",
+        "AIT/AIV",
+        "testing",
+        "ESA/ESTEC"
+      ],
+      "fit_score": 8.5,
+      "priority": "high",
+      "assessment": "Direct ESTEC mechanisms support covering spacecraft hardware design reviews, manufacturing, testing, CDF studies and NCRs. Strong mechanical fit; requires 4 years of specific space-mechanisms experience, so a stretch.",
+      "first_seen": "2026-10-09T07:57:00+02:00"
     }
   ]
 }
