@@ -360,6 +360,25 @@
       "priority": "medium_radar",
       "assessment": "ESA ESTEC leadership role, specialist project control experience required.",
       "first_seen": "2026-10-08T18:00:41+02:00"
+    },
+    {
+      "title": "Navigation Systems Evolution Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "job_id": "20368",
+      "url": "https://jobs.esa.int/job/Noordwijk-Navigation-Systems-Evolution-Engineer-(Multiple-Positions)/1372683433/",
+      "posted": "2026-10-08",
+      "closing_date": "2026-10-22",
+      "status": "active",
+      "categories": [
+        "systems engineering",
+        "navigation/PNT",
+        "R&D",
+        "stretch"
+      ],
+      "fit_score": 5.5,
+      "assessment": "Direct ESA ESTEC systems role. GNSS/PNT specialization is a substantial stretch.",
+      "first_seen": "2026-10-09T17:55:06+02:00"
     }
   ]
 }

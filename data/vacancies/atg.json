@@ -117,7 +117,7 @@
       "employer": "ATG Europe",
       "location": "ESTEC, Noordwijk",
       "posted": null,
-      "closing_date": "2026-09-16",
+      "closing_date": "2026-10-23",
       "url": "https://jobs.atg-europe.com/o/e2e-performance-engineer",
       "categories": [
         "systems engineering",
@@ -126,8 +126,8 @@
       ],
       "fit_score": 5,
       "priority": "medium_low",
-      "status": "expired",
-      "assessment": "Relevant verification content but optical/software-heavy requirements are significant mismatches."
+      "status": "active",
+      "assessment": "Deadline extended to 23 October 2026 and application active on official ATG page. Direct ESTEC end-to-end performance simulations, V&V and software reviews; strong optical/software requirements are a technical stretch."
     },
     {
       "title": "Laboratory Coordinator (Life, Physical Sciences and Life Support)",
