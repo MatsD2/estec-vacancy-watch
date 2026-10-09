@@ -105,6 +105,26 @@
       "priority": "medium_low",
       "assessment": "ESA programme-control role with industrial procurement, budgeting and schedule oversight. Relevant to project management but financially focused and requires prior aerospace project-control experience.",
       "first_seen": "2026-10-09T07:57:00+02:00"
+    },
+    {
+      "title": "Configuration and Document Management Officer - 3 Months Project",
+      "employer": "HE Space / SpaceForce",
+      "location": "Noordwijk, Netherlands",
+      "job_id": "26178",
+      "url": "https://www.hespace.com/vacancies/configuration-and-document-management-officer-3-months-project-26178",
+      "posted": null,
+      "closing_date": "2026-10-31",
+      "status": "active",
+      "categories": [
+        "configuration management",
+        "document management",
+        "project support",
+        "ECSS"
+      ],
+      "fit_score": 4,
+      "priority": "low",
+      "assessment": "Noordwijk configuration and document management, limited 3-month project at 3–4 days/week; under-level and unlikely to meet full-time salary target.",
+      "first_seen": "2026-10-09T07:57:00+02:00"
     }
   ]
 }
