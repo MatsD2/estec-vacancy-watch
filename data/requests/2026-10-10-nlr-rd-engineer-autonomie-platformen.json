@@ -1,0 +1,24 @@
+{
+  "shard": "secondary.json",
+  "vacancy": {
+    "title": "R&D Engineer Autonomie, Platformen en Wapensystemen",
+    "employer": "NLR",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://werkenbijnlr.recruitee.com/o/rd-engineer-autonomie-platformen-en-wapensystemen-mvx",
+    "status": "active",
+    "posted": null,
+    "closing_date": null,
+    "categories": [
+      "secondary",
+      "robotics",
+      "R&D",
+      "systems engineering",
+      "simulation",
+      "AI"
+    ],
+    "fit_score": 4.5,
+    "priority": "low_secondary",
+    "assessment": "Academic mechanical engineering is accepted; research into autonomous systems, robotics and simulations. Requires strong AI/ML, Python/C++ and reinforcement learning background. Amsterdam, not ESTEC.",
+    "first_seen": "2026-10-10T18:01:50+02:00"
+  }
+}
