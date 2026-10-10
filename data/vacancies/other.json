@@ -98,6 +98,25 @@
       "status": "active",
       "first_seen": "2026-10-10T07:59:36+02:00",
       "assessment": "ESTEC-facing ESA configuration, documentation and review-data control; three years dedicated configuration-management experience required. January 2027 start, placement may be Harwell."
+    },
+    {
+      "title": "Schedule & Risk Management Engineer",
+      "employer": "ALCADIA",
+      "job_id": "219-S",
+      "location": "ESTEC, Noordwijk, Netherlands or ECSAT, Harwell, UK",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://www.alcadia.fr/jobs/219-s-schedule-risk-management-engineer-f-h/",
+      "categories": [
+        "project management",
+        "scheduling",
+        "risk management"
+      ],
+      "fit_score": 5.5,
+      "priority": "secondary",
+      "status": "active",
+      "first_seen": "2026-10-10T07:59:36+02:00",
+      "assessment": "ESA project planning, schedule control and risk analysis at ESTEC or Harwell. Requires advanced Primavera and schedule-risk skills. Expected January 2027 start."
     }
   ]
 }
