@@ -78,6 +78,26 @@
       "status": "active",
       "first_seen": "2026-10-08T12:58:53+02:00",
       "assessment": "Direct onsite ESTEC RF/microwave laboratory management and hardware qualification/testing exposure. Technical lab leadership and automation fit partially, but specialised RF payload and microwave test expertise, NEN3140 and laboratory management make this a substantial stretch."
+    },
+    {
+      "title": "Configuration, Data & Documentation Management Engineer",
+      "employer": "ALCADIA",
+      "job_id": "220-S",
+      "location": "ESTEC, Noordwijk, Netherlands or ECSAT, Harwell, UK",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://www.alcadia.fr/jobs/220-s-configuration-data-documentation-management-engineer-f-h/",
+      "categories": [
+        "configuration management",
+        "documentation management",
+        "systems engineering",
+        "verification"
+      ],
+      "fit_score": 5,
+      "priority": "secondary",
+      "status": "active",
+      "first_seen": "2026-10-10T07:59:36+02:00",
+      "assessment": "ESTEC-facing ESA configuration, documentation and review-data control; three years dedicated configuration-management experience required. January 2027 start, placement may be Harwell."
     }
   ]
 }
