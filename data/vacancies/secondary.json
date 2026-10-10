@@ -431,6 +431,22 @@
       "priority": "low_secondary",
       "assessment": "Academic mechanical engineering is accepted; research into autonomous systems, robotics and simulations. Requires strong AI/ML, Python/C++ and reinforcement learning background. Amsterdam, not ESTEC.",
       "first_seen": "2026-10-10T18:01:50+02:00"
+    },
+    {
+      "title": "Maintenance and Improvement Manager",
+      "employer": "NLR",
+      "location": "Marknesse, Netherlands",
+      "url": "https://werkenbijnlr.recruitee.com/o/maintenance-improvement-manager-mvx",
+      "status": "active",
+      "closing_date": null,
+      "categories": [
+        "secondary",
+        "test facilities",
+        "engineering management"
+      ],
+      "fit_score": 5.5,
+      "assessment": "Wind tunnel facilities management, no direct ESTEC placement.",
+      "first_seen": "2026-10-10T18:01:50+02:00"
     }
   ]
 }
