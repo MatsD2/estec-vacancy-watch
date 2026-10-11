@@ -379,6 +379,25 @@
       "fit_score": 5.5,
       "assessment": "Direct ESA ESTEC systems role. GNSS/PNT specialization is a substantial stretch.",
       "first_seen": "2026-10-09T17:55:06+02:00"
+    },
+    {
+      "title": "ESA Graduate Trainee in Remote Sensing Earth Observation Mission Concept Development",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk, Netherlands",
+      "job_id": "20946",
+      "posted": "2026-10-07",
+      "closing_date": "2026-11-04",
+      "url": "https://jobs.esa.int/job/Noordwijk-ESA-Graduate-Trainee-in-Remote-Sensing-Earth-Observation-Mission-Concept-Development/1445111833/",
+      "status": "active",
+      "categories": [
+        "Earth observation",
+        "graduate trainee",
+        "under-level"
+      ],
+      "fit_score": 3.5,
+      "priority": "low",
+      "assessment": "Graduate traineeship in Earth observation mission analysis. Under-level and outside core mechanical engineering.",
+      "first_seen": "2026-10-11T18:03:40+02:00"
     }
   ]
 }
