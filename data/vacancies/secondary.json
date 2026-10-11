@@ -447,6 +447,26 @@
       "fit_score": 5.5,
       "assessment": "Wind tunnel facilities management, no direct ESTEC placement.",
       "first_seen": "2026-10-10T18:01:50+02:00"
+    },
+    {
+      "title": "Application Engineer Counter-Unmanned Aircraft Systems",
+      "employer": "NLR",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://werkenbijnlr.recruitee.com/o/application-engineer-counter-unmanned-aircraft-systems-mvx",
+      "status": "active",
+      "posted": null,
+      "closing_date": null,
+      "categories": [
+        "secondary",
+        "hardware testing",
+        "sensor systems",
+        "verification",
+        "under-level"
+      ],
+      "fit_score": 4.5,
+      "priority": "low_secondary",
+      "assessment": "Hardware investigation and testing in Amsterdam; bachelor-oriented, not an ESTEC placement.",
+      "first_seen": "2026-10-11T18:03:40+02:00"
     }
   ]
 }
