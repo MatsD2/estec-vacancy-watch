@@ -193,6 +193,19 @@
       "status": "active",
       "first_seen": "2026-10-12T17:56:52+02:00",
       "assessment": "Official QASCOM opening explicitly lists Noordwijk. System requirements, interface control, V&V and spacecraft payloads, including lunar applications, align with multidisciplinary mechanical engineering and lunar rover thesis. Main gaps are dedicated spacecraft system engineering, GNSS/RF and DOORS/ECSS project experience. Actual ESTEC on-site assignment not explicitly confirmed."
+    },
+    {
+      "title": "Security Assurance Engineer",
+      "employer": "QASCOM",
+      "location": "Noordwijk, Netherlands",
+      "url": "https://nl.linkedin.com/jobs/view/security-assurance-engineer-at-qascom-4464504007",
+      "categories": [
+        "systems engineering"
+      ],
+      "fit_score": 4.5,
+      "status": "active",
+      "first_seen": "2026-10-12T17:56:52+02:00",
+      "assessment": "ESTEC-related engineering position."
     }
   ]
 }
