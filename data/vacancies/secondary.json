@@ -528,6 +528,24 @@
       "status": "active",
       "first_seen": "2026-10-12T17:56:52+02:00",
       "assessment": "Delft role in spacecraft configuration control and documentation. Below MSc mechanical engineering level; no direct ESTEC placement."
+    },
+    {
+      "title": "R&D Engineer Battlelabs & Wargaming",
+      "employer": "NLR",
+      "location": "Amsterdam, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://werkenbijnlr.recruitee.com/o/rd-engineer-battlelabs-wargaming",
+      "categories": [
+        "systems engineering",
+        "simulation",
+        "integration"
+      ],
+      "fit_score": 4,
+      "priority": "low_secondary",
+      "status": "active",
+      "first_seen": "2026-10-12T17:56:52+02:00",
+      "assessment": "Simulation systems R&D in Amsterdam; limited relevance to space hardware and no direct ESTEC placement."
     }
   ]
 }
