@@ -509,6 +509,25 @@
       "status": "active",
       "first_seen": "2026-10-12T13:02:47+02:00",
       "assessment": "Secondary NLR opportunity involving autonomous systems, human-machine teaming, demonstrators and technical research/project leadership. MSc mechanical/mechatronics and multidisciplinary project experience are adjacent strengths; the mandatory 8 years relevant HMI/AI experience, including 3 years AI/HIS, plus strong Python/ML or UI/UX expertise are substantial gaps. Amsterdam location offers no direct ESTEC/ESA exposure; salary not stated. Senior stretch rather than a core mechanical-design role."
+    },
+    {
+      "title": "Configuration Specialist",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.isispace.nl/o/configuration-specialist",
+      "job_id": null,
+      "categories": [
+        "configuration management",
+        "quality assurance",
+        "spacecraft documentation"
+      ],
+      "fit_score": 4,
+      "priority": "low_secondary",
+      "status": "active",
+      "first_seen": "2026-10-12T17:56:52+02:00",
+      "assessment": "Delft role in spacecraft configuration control and documentation. Below MSc mechanical engineering level; no direct ESTEC placement."
     }
   ]
 }
