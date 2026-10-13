@@ -226,6 +226,27 @@
       "priority": "low_underlevel",
       "assessment": "Cleanroom operations and team coordination for optical space hardware; HBO-level with specific cleanroom experience required. Not ESTEC based.",
       "first_seen": "2026-10-13T08:00:39+02:00"
+    },
+    {
+      "title": "Maintenance Engineer Space Technology",
+      "employer": "cosine",
+      "location": "Sassenheim, Netherlands",
+      "job_id": "2681808",
+      "url": "https://www.cosine.eu/vacancy/maintenance-engineer-space-technology-2681808/",
+      "status": "active",
+      "posted": null,
+      "closing_date": null,
+      "categories": [
+        "maintenance",
+        "mechanical engineering",
+        "mechatronics",
+        "production",
+        "test facilities"
+      ],
+      "fit_score": 4,
+      "priority": "low_underlevel",
+      "assessment": "Maintain precision production, laboratory and cleanroom equipment for space instrumentation. MBO+/HBO maintenance role is under-level for MSc design and has no direct ESTEC assignment.",
+      "first_seen": "2026-10-13T08:00:39+02:00"
     }
   ]
 }
