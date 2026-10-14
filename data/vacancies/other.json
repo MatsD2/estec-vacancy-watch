@@ -317,6 +317,22 @@
       "status": "active",
       "first_seen": "2026-10-14T12:57:24+02:00",
       "assessment": "Exceptionally strong technical match for TU Delft MSc Mechanical Engineering, Lunar Zebro thermal modelling and COMSOL/FEM, precision mechanism design and hands-on hardware. Designs and analyses thermo-mechanical spaceborne optical instruments from concept through assembly, integration and qualification. Sassenheim is near ESTEC but this is cosine employment, not an on-site ESA/ESTEC placement. Space instrument heritage is the main stretch; salary unspecified on official vacancy and should be checked against ~€70k threshold."
+    },
+    {
+      "title": "Configuration and Data Management Specialist",
+      "employer": "Akkodis",
+      "location": "ESTEC, Noordwijk",
+      "url": "https://www.akkodis.com/en-nl/careers/jobs/configuration-and-data-management-specialist-noordwijk/3c268fdc-780c-9b30-8fb7-974b7e107179",
+      "job_id": "JN-092026-81625",
+      "closing_date": null,
+      "status": "active",
+      "categories": [
+        "configuration management",
+        "project support"
+      ],
+      "fit_score": 4.5,
+      "first_seen": "2026-10-14T12:57:24+02:00",
+      "assessment": "ESTEC project configuration management; requires 7 years of specialist experience."
     }
   ]
 }
