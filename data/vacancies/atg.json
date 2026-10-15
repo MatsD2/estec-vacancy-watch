@@ -278,6 +278,24 @@
       "status": "active",
       "first_seen": "2026-10-13T18:04:54+02:00",
       "assessment": "Integration, verification and validation for IRIS² ground segment hardware/software; ECSS, system test planning and qualification. MSc related engineering and 3 years space IVV required; stretch on sector-specific experience. Employer lists Noordwijk as selectable work location, but job description explicitly requires relocation/on-site work in Madrid. Confirm actual Netherlands option before applying. No confirmed ESTEC placement."
+    },
+    {
+      "title": "Mechanical Test Engineer",
+      "employer": "ATG Europe",
+      "location": "ESTEC, Noordwijk",
+      "url": "https://jobs.atg-europe.com/o/mechanical-test-engineer",
+      "closing_date": "2026-11-30",
+      "status": "active",
+      "categories": [
+        "mechanical engineering",
+        "testing",
+        "MGSE",
+        "FEM"
+      ],
+      "fit_score": 9,
+      "priority": "very_high",
+      "first_seen": "2026-10-15T12:58:13+02:00",
+      "assessment": "Direct ESTEC test-centre mechanical design and test-facility engineering; excellent match."
     }
   ]
 }
