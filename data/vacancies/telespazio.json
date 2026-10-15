@@ -272,7 +272,7 @@
       "employer": "Telespazio Belgium",
       "location": "ESTEC, Noordwijk",
       "posted": null,
-      "closing_date": "2026-09-25",
+      "closing_date": "ASAP",
       "url": "https://telespazio-be.breezy.hr/p/1c893273d0a201-sar-performance-elint-electronic-intelligence-engineer",
       "categories": [
         "systems engineering",
@@ -284,9 +284,9 @@
       ],
       "fit_score": 3.5,
       "priority": "low",
-      "status": "expired",
+      "status": "active",
       "first_seen": "2026-09-14T13:02:25+02:00",
-      "assessment": "Included for high recall; fundamentally an RF/SAR/ELINT role."
+      "assessment": "Official employer accepts applications again after previous 25 September deadline. RF/SAR/ELINT role is a specialist stretch."
     },
     {
       "title": "Space Solar Array & Generator Engineer",
