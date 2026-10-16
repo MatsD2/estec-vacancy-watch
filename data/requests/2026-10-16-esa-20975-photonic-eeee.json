@@ -1,0 +1,29 @@
+{
+  "shard": "esa.json",
+  "vacancy": {
+    "title": "Photonic EEEE Engineer",
+    "employer": "ESA",
+    "location": "ESTEC, Noordwijk",
+    "posted": "2026-10-15",
+    "closing_date": "2026-11-05",
+    "url": "https://jobs.esa.int/job/Noordwijk-Photonic-EEEE-Engineer/1448022033/",
+    "job_id": "20975",
+    "categories": [
+      "photonics",
+      "optoelectronics",
+      "electro-optical components",
+      "detectors",
+      "space hardware",
+      "qualification",
+      "testing",
+      "product assurance",
+      "technology development",
+      "ECSS/ESCC"
+    ],
+    "fit_score": 5.5,
+    "priority": "medium_radar",
+    "status": "active",
+    "first_seen": "2026-10-16T07:57:54+02:00",
+    "assessment": "Direct ESA/ESTEC A2-A4 hardware and qualification role with laboratory tests, technology R&D, project reviews and industrial activity monitoring. Relevant to optics and engineering background, but highly specialised in photonic EEEE parts, lasers, fibre optics, CCD/CMOS/IR detectors and component reliability; MSc Mechanical Engineering and broad design experience are not a close substitute for four years of photonics/electronics expertise. Specialist stretch; 4-year contract extendable to indefinite."
+  }
+}
