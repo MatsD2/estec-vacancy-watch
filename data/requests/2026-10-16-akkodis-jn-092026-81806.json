@@ -1,0 +1,31 @@
+{
+  "shard": "other.json",
+  "vacancy": {
+    "title": "Project Management and Engineering for Non-Orbital Project",
+    "employer": "Akkodis",
+    "location": "ESA/ESTEC, Noordwijk, Netherlands",
+    "posted": null,
+    "closing_date": null,
+    "url": "https://www.akkodis.com/en-nl/careers/jobs/project-management-and-engineering-for-non-orbital-project-noordwijk/cde9802f-e2ff-50f0-f611-f74a0449b487",
+    "job_id": "JN-092026-81806",
+    "categories": [
+      "project management",
+      "systems engineering",
+      "ESA Academy",
+      "non-orbital experiments",
+      "parabolic flights",
+      "sounding rockets",
+      "stratospheric balloons",
+      "AIT/AIV",
+      "verification",
+      "technical reviews",
+      "risk management",
+      "stakeholder coordination"
+    ],
+    "fit_score": 8,
+    "priority": "high",
+    "status": "active",
+    "first_seen": "2026-10-16T12:57:06+02:00",
+    "assessment": "Direct onsite ESA/ESTEC role managing ESA Academy non-orbital projects across laboratories, parabolic flights, sounding rockets and balloons; coordinates university teams, ESA engineers, technical reviews, test campaigns and risk/quality. Strong match to MSc Mechanical Engineering, project ownership and ESA Academy exposure; slightly more education/event coordination than orbital role. Requires 4+ years relevant experience and PM skills. Advertised temporary; verify duration, compensation and assignment before applying."
+  }
+}
