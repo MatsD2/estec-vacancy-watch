@@ -1,0 +1,30 @@
+{
+  "shard": "other.json",
+  "vacancy": {
+    "title": "Project Management and Engineering for Orbital Projects",
+    "employer": "Akkodis",
+    "location": "ESA/ESTEC, Noordwijk, Netherlands",
+    "posted": null,
+    "closing_date": null,
+    "url": "https://www.akkodis.com/en-nl/careers/jobs/project-management-and-engineering-for-orbital-projects-noordwijk/03b8fa42-44e2-3253-e259-59318000b526",
+    "job_id": "JN-092026-81809",
+    "categories": [
+      "project management",
+      "systems engineering",
+      "ESA Academy",
+      "CubeSats",
+      "human spaceflight",
+      "AIT/AIV",
+      "verification",
+      "qualification",
+      "risk management",
+      "technical reviews",
+      "stakeholder coordination"
+    ],
+    "fit_score": 8.5,
+    "priority": "high",
+    "status": "active",
+    "first_seen": "2026-10-16T07:57:54+02:00",
+    "assessment": "Direct onsite ESA/ESTEC position coordinating ESA Academy orbital CubeSat, ISS and Space Rider projects across design, PDR/CDR/FAR, AIT, launch and operations. Strong MSc engineering/project ownership and TU Delft Lunar Zebro plus ESA Academy experience fit; offers unusually good ESA network and a project-management transition. Requires 4+ years relevant experience and significant formal PM/stakeholder coordination. Vacancy is labelled temporary: confirm contract length, actual project placement and compensation before applying."
+  }
+}
