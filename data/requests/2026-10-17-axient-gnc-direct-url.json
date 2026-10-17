@@ -1,0 +1,25 @@
+{
+  "shard": "ets-axient.json",
+  "vacancy": {
+    "title": "GNC & Pointing Systems Engineer",
+    "employer": "Axient Systems Netherlands",
+    "location": "Delft, Netherlands (not ESTEC)",
+    "posted": null,
+    "closing_date": null,
+    "url": "https://img1.wsimg.com/blobby/go/764e334c-660b-4832-8566-bcf48f225664/downloads/3df4ad80-2e72-47d6-8186-68d6d0b4e5a3/Vacancy_GNC_Pointing_Systems_Engineer_v2.pdf",
+    "job_id": "AXIENT-GNC-POINTING-SYSTEMS-ENGINEER",
+    "categories": [
+      "GNC",
+      "AOCS",
+      "systems engineering",
+      "simulation",
+      "verification",
+      "pointing systems"
+    ],
+    "fit_score": 4.5,
+    "priority": "low_radar",
+    "status": "active",
+    "first_seen": "2026-09-21T17:57:39+02:00",
+    "assessment": "Delft-based specialist spacecraft pointing and attitude control engineering. Requires 5+ years directly relevant spacecraft GNC experience; significant stretch from mechanical engineering and no direct ESTEC placement. Official vacancy PDF."
+  }
+}
