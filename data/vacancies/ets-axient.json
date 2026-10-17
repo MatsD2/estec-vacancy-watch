@@ -287,6 +287,29 @@
       "status": "active",
       "first_seen": "2026-10-17T07:55:29+02:00",
       "assessment": "Space mission and vehicle system architecture in Delft with multidisciplinary trade studies, technical decisions and customer reviews. Requires 10+ years specifically in space systems engineering and ownership of a spacecraft architecture; major senior specialist stretch beyond current experience. No direct ESTEC, salary not specified; Dutch VGB-B clearance eligibility required."
+    },
+    {
+      "title": "Senior Command & Data Handling Engineer (on-board data architecture and FDIR)",
+      "employer": "Axient Systems Netherlands",
+      "location": "Delft, Netherlands (not ESTEC)",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://img1.wsimg.com/blobby/go/764e334c-660b-4832-8566-bcf48f225664/downloads/834295f5-bacf-4d52-bb3e-4b9d058e537e/Vacancy_Senior_CDH_Engineer_v2.pdf",
+      "job_id": "AXIENT-SENIOR-CDH-ENGINEER",
+      "categories": [
+        "spacecraft systems engineering",
+        "on-board data handling",
+        "avionics",
+        "FDIR",
+        "verification",
+        "spacecraft architecture",
+        "supplier coordination"
+      ],
+      "fit_score": 4,
+      "priority": "low_radar",
+      "status": "active",
+      "first_seen": "2026-10-17T12:56:34+02:00",
+      "assessment": "Senior Delft-based spacecraft command and data handling architecture and fault-management role. Requires 5+ years specialist spacecraft C&DH experience and space data standards. Relevant adjacent systems and verification exposure but a significant electronics/avionics stretch, without direct ESTEC placement."
     }
   ]
 }
