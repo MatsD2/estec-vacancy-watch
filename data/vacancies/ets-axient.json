@@ -244,6 +244,31 @@
       "status": "active",
       "first_seen": "2026-10-17T07:55:29+02:00",
       "assessment": "Delft optical satellite role coupling thermal fields, structural deformation, alignment and optical performance. Good adjacency to thermal modelling, FEM and precision mechanisms; requires 5+ years specific optomechanical STOP work and Zemax/Code V with Nastran/Ansys, so senior specialist stretch. Not direct ESTEC; market-aligned salary without published range. Dutch VGB-B eligibility required."
+    },
+    {
+      "title": "Senior Space Vehicle Mechanical and Structural Dynamics Engineer",
+      "employer": "Axient Systems Netherlands",
+      "location": "Delft, Netherlands (not ESTEC)",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://img1.wsimg.com/blobby/go/764e334c-660b-4832-8566-bcf48f225664/downloads/22435991-377a-4856-b00a-3c2051ae8410/Vacancy_Senior_SV_Mechanical_Structural_Dynami.pdf?ver=1792132308564",
+      "job_id": "AXIENT-SENIOR-SV-STRUCTURAL-DYNAMICS",
+      "categories": [
+        "structures",
+        "mechanical engineering",
+        "structural dynamics",
+        "FEM",
+        "modal analysis",
+        "microvibration",
+        "mechanical qualification",
+        "test correlation",
+        "optomechanics"
+      ],
+      "fit_score": 6.5,
+      "priority": "medium_secondary",
+      "status": "active",
+      "first_seen": "2026-10-17T07:55:29+02:00",
+      "assessment": "Delft optical satellite structural dynamics, micro-vibration, jitter, modal and coupled-loads analyses, qualification and correlation. FEM/COMSOL and modal-analysis thesis background relevant, but demands 5+ years ownership of structural models for space or comparable high-reliability systems, with Nastran/Abaqus/Ansys experience. Senior specialist stretch; no direct ESTEC and salary not specified. Dutch VGB-B eligibility required."
     }
   ]
 }
