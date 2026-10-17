@@ -1,0 +1,26 @@
+{
+  "shard": "ets-axient.json",
+  "vacancy": {
+    "title": "Mission / System Architect",
+    "employer": "Axient Systems Netherlands",
+    "location": "Delft, Netherlands (not ESTEC)",
+    "posted": null,
+    "closing_date": null,
+    "url": "https://img1.wsimg.com/blobby/go/764e334c-660b-4832-8566-bcf48f225664/downloads/536ec0d0-9069-4f0a-ac5f-36bdc2c667d5/Vacancy_Mission_System_Architect_v3.pdf?ver=1792132308564",
+    "job_id": "AXIENT-MISSION-SYSTEM-ARCHITECT",
+    "categories": [
+      "systems engineering",
+      "spacecraft architecture",
+      "requirements",
+      "verification",
+      "trade studies",
+      "technical leadership",
+      "project management"
+    ],
+    "fit_score": 4,
+    "priority": "low_stretch",
+    "status": "active",
+    "first_seen": "2026-10-17T07:55:29+02:00",
+    "assessment": "Space mission and vehicle system architecture in Delft with multidisciplinary trade studies, technical decisions and customer reviews. Requires 10+ years specifically in space systems engineering and ownership of a spacecraft architecture; major senior specialist stretch beyond current experience. No direct ESTEC, salary not specified; Dutch VGB-B clearance eligibility required."
+  }
+}
