@@ -449,6 +449,29 @@
       "status": "active",
       "first_seen": "2026-10-16T07:57:54+02:00",
       "assessment": "Direct ESA/ESTEC A2-A4 hardware and qualification role with laboratory tests, technology R&D, project reviews and industrial activity monitoring. Relevant to optics and engineering background, but highly specialised in photonic EEEE parts, lasers, fibre optics, CCD/CMOS/IR detectors and component reliability; MSc Mechanical Engineering and broad design experience are not a close substitute for four years of photonics/electronics expertise. Specialist stretch; 4-year contract extendable to indefinite."
+    },
+    {
+      "title": "Lead End-to-End Performance Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk, Netherlands",
+      "posted": "2026-10-17",
+      "closing_date": "2026-11-07",
+      "url": "https://jobs.esa.int/job/Noordwijk-Lead-End-to-End-Performance-Engineer/1448559633/",
+      "job_id": "21070",
+      "categories": [
+        "systems engineering",
+        "end-to-end performance",
+        "verification",
+        "AIT/AIV",
+        "spacecraft systems",
+        "optical quantum communications",
+        "project coordination"
+      ],
+      "fit_score": 6,
+      "priority": "medium",
+      "status": "active",
+      "first_seen": "2026-10-17T07:55:29+02:00",
+      "assessment": "Direct ESA A2-A4 ESTEC role on SAGA QKD mission; interdisciplinary requirements, performance budgets, verification, industrial coordination and team leadership match general systems and technical project ambitions. Specialist space mission/optical QKD experience is a significant stretch. Minimum 4 years relevant professional experience; ESA may appoint at A1 when post-MSc experience is limited."
     }
   ]
 }
