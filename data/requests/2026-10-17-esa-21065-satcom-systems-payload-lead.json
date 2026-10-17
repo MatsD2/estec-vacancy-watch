@@ -1,0 +1,27 @@
+{
+  "shard": "esa.json",
+  "vacancy": {
+    "title": "Satcom Systems and Payload Lead",
+    "employer": "ESA",
+    "location": "ESTEC, Noordwijk, Netherlands",
+    "posted": "2026-10-16",
+    "closing_date": "2026-11-06",
+    "url": "https://jobs.esa.int/job/Noordwijk-Satcom-Systems-and-Payload-Lead/1448610333/",
+    "job_id": "21065",
+    "categories": [
+      "systems engineering",
+      "satellite payloads",
+      "telecommunications",
+      "AIT/AIV",
+      "verification",
+      "qualification",
+      "project coordination",
+      "industrial management"
+    ],
+    "fit_score": 5,
+    "priority": "medium_stretch",
+    "status": "active",
+    "first_seen": "2026-10-17T07:55:29+02:00",
+    "assessment": "Direct ESA A2-A4 ESTEC role combining multidisciplinary technical leadership, industrial prime interfaces, payload qualification, verification, schedule/cost control. Strong leadership ambitions but requires specific advanced digital telecom payload and SatCom mission expertise, so a substantial specialist stretch. Minimum MSc plus 4 years relevant experience; A1 possible if post-MSc experience limited."
+  }
+}
