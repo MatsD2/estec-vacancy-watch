@@ -1,0 +1,28 @@
+{
+  "shard": "esa.json",
+  "vacancy": {
+    "title": "CAT Project Manager",
+    "employer": "ESA",
+    "location": "ESTEC, Noordwijk, Netherlands",
+    "posted": "2026-10-16",
+    "closing_date": "2026-11-06",
+    "url": "https://jobs.esa.int/job/Noordwijk-CAT-Project-Manager/1448589833/",
+    "job_id": "20988",
+    "categories": [
+      "project management",
+      "spacecraft systems",
+      "robotics",
+      "in-orbit servicing",
+      "active debris removal",
+      "AIT/AIV",
+      "product assurance",
+      "procurement",
+      "verification"
+    ],
+    "fit_score": 5.5,
+    "priority": "medium_stretch",
+    "status": "active",
+    "first_seen": "2026-10-17T07:55:29+02:00",
+    "assessment": "Direct ESA A2-A4 project leadership for autonomous capture/debris removal, highly relevant to long-term technical project management and robotics interests. Major seniority gap: explicitly requires >10 years hands-on spacecraft Phase B2/C/D/E and management of major industrial contracts, unlike general machine-building project experience. Strategic long-term radar, not a realistic immediate priority."
+  }
+}
