@@ -219,6 +219,31 @@
       "status": "active",
       "first_seen": "2026-10-17T07:55:29+02:00",
       "assessment": "Strong hands-on mechanical CAD, complex assemblies, detailed design, drawing release, tolerances and DfMA fit, with ownership of complete machine projects. Senior/stretch: asks 8+ years of complex assembly configuration ownership; dedicated spacecraft/optical satellite experience is missing. Based in Delft rather than ESTEC; salary not disclosed. Dutch VGB-B clearance eligibility required."
+    },
+    {
+      "title": "Senior Optomechanical Engineer / STOP Analyst",
+      "employer": "Axient Systems Netherlands",
+      "location": "Delft, Netherlands (not ESTEC)",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://img1.wsimg.com/blobby/go/764e334c-660b-4832-8566-bcf48f225664/downloads/02fa3496-adff-4265-a783-39cd7cf3b30e/Vacancy_Senior_Optomechanical_Engineer.pdf?ver=1792132308564",
+      "job_id": "AXIENT-SENIOR-OPTOMECHANICAL-STOP",
+      "categories": [
+        "optomechanics",
+        "thermal",
+        "structures",
+        "STOP analysis",
+        "FEM",
+        "precision engineering",
+        "optical payload",
+        "qualification",
+        "verification"
+      ],
+      "fit_score": 7,
+      "priority": "high_secondary",
+      "status": "active",
+      "first_seen": "2026-10-17T07:55:29+02:00",
+      "assessment": "Delft optical satellite role coupling thermal fields, structural deformation, alignment and optical performance. Good adjacency to thermal modelling, FEM and precision mechanisms; requires 5+ years specific optomechanical STOP work and Zemax/Code V with Nastran/Ansys, so senior specialist stretch. Not direct ESTEC; market-aligned salary without published range. Dutch VGB-B eligibility required."
     }
   ]
 }
