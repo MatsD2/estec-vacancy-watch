@@ -232,18 +232,20 @@
       "title": "Power Management Engineer (2 positions)",
       "employer": "ESA",
       "location": "ESTEC, Noordwijk",
-      "posted": "2026-09-04",
-      "closing_date": "2026-09-18",
+      "posted": "2026-10-16",
+      "closing_date": "2026-11-06",
       "url": "https://jobs.esa.int/job/Noordwijk-Power-Management-Engineer-%282-positions%29/1287165401/",
       "categories": [
-        "spacecraft engineering",
+        "spacecraft power systems",
+        "power management",
         "verification",
         "laboratory"
       ],
       "fit_score": 4,
       "priority": "low",
-      "status": "expired",
-      "assessment": "Direct ESA and hardware-oriented, but fundamentally electrical power systems."
+      "status": "active",
+      "assessment": "Direct ESA position in electrical power systems. New official posting dated 16 October 2026 with extended deadline 6 November 2026.",
+      "job_id": "20252"
     },
     {
       "title": "Secure Connectivity 5G NTN End-to-End System and Validation Lead Engineer",
