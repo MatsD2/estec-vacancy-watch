@@ -544,6 +544,32 @@
       "status": "active",
       "first_seen": "2026-10-17T07:55:29+02:00",
       "assessment": "Direct ESA A2-A4 position with ESTEC as an option and programme/product coordination, but core requirements are deep AI/ML and SatCom/5G NTN expertise. Outside principal mechanical/hardware engineering strengths, so low fit despite ESA employment and attractive grade. MSc plus four years relevant professional experience required."
+    },
+    {
+      "title": "Propagation Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk, Netherlands",
+      "posted": "2026-10-14",
+      "closing_date": "2026-11-04",
+      "url": "https://jobs.esa.int/job/Noordwijk-Propagation-Engineer/1447668733/",
+      "job_id": "20928",
+      "categories": [
+        "wave propagation",
+        "RF",
+        "optical propagation",
+        "telecommunications",
+        "navigation",
+        "remote sensing",
+        "simulation",
+        "verification",
+        "laboratory",
+        "R&D"
+      ],
+      "fit_score": 3.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-10-19T13:02:16+02:00",
+      "assessment": "Direct ESA/ESTEC A2-A4 engineering role. Requires five years of specialist RF/optical propagation modelling and telecom/navigation channel characterisation; not closely aligned with mechanical design, mechanisms or thermal engineering."
     }
   ]
 }
