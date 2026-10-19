@@ -611,6 +611,25 @@
       "priority": "under_level",
       "first_seen": "2026-10-19T13:02:16+02:00",
       "assessment": "Space hardware AIT technician role, under-level for an MSc engineer."
+    },
+    {
+      "title": "Mechanics Technician",
+      "employer": "ISISPACE",
+      "location": "Delft",
+      "url": "https://careers.isispace.nl/o/mechanics-technician-1",
+      "job_id": null,
+      "posted": null,
+      "closing_date": null,
+      "status": "active",
+      "categories": [
+        "assembly",
+        "production",
+        "manufacturing"
+      ],
+      "fit_score": 3,
+      "priority": "under_level",
+      "first_seen": "2026-10-19T13:02:16+02:00",
+      "assessment": "Starter-level mechanical assembly position, below MSc engineer seniority."
     }
   ]
 }
