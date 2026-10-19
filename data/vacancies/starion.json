@@ -99,25 +99,26 @@
     {
       "title": "MBSE Engineer",
       "employer": "Starion",
-      "location": "Leiden, Netherlands",
+      "location": "Leiden, Netherlands (Dutch Ministry of Defence naval programme; not ESTEC)",
       "posted": null,
-      "closing_date": "2026-10-19",
+      "closing_date": "2026-11-02",
       "url": "https://www.stariongroup.eu/career/mbse-engineer/",
       "job_id": "0573",
       "categories": [
-        "systems engineering",
         "model-based systems engineering",
         "requirements",
         "verification",
         "digital engineering",
         "Capella",
-        "CDP4-COMET"
+        "CDP4-COMET",
+        "project management",
+        "naval systems"
       ],
-      "fit_score": 5.5,
-      "priority": "medium",
+      "fit_score": 4.5,
+      "priority": "low_secondary",
       "status": "active",
       "first_seen": "2026-10-08T12:58:53+02:00",
-      "assessment": "Leiden-based space/digital systems engineering role in the wider ESTEC area, but not explicitly located at ESTEC or guaranteed ESA-facing. MSc mechanical engineering and multidisciplinary systems experience fit; specific Capella, CDP4-COMET and MBSE professional experience are stretch factors. Salary and ESTEC exposure unknown."
+      "assessment": "Deadline extended to 2 November 2026. Role supports Dutch Ministry of Defence naval programmes, not direct ESA/ESTEC placement. Requires three years of hands-on MBSE, Capella and maritime/naval experience; user has general systems background but lacks the specialist tools/domain."
     }
   ]
 }
