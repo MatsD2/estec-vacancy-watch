@@ -591,6 +591,26 @@
       "status": "active",
       "first_seen": "2026-10-17T12:56:34+02:00",
       "assessment": "Airbus Netherlands solar-array AIT team-lead role in Leiden; leads 20–25 technicians and test engineers, planning, production execution and quality/process improvements. MSc mechanical design and machine-project leadership provide relevant foundations, but prior people-management scope is substantially smaller and dedicated space AIT experience limited. Senior/stretch, not direct ESTEC. 12-month deta-vast assignment with intent to convert to permanent; 32+ hours onsite weekly. Official Airbus hiring desk deadline 30 Nov 2026."
+    },
+    {
+      "title": "AIT Technician",
+      "employer": "ISISPACE",
+      "location": "Delft",
+      "url": "https://careers.isispace.nl/o/ait-technician",
+      "job_id": null,
+      "posted": null,
+      "closing_date": null,
+      "status": "active",
+      "categories": [
+        "AIT",
+        "production",
+        "integration",
+        "testing"
+      ],
+      "fit_score": 4,
+      "priority": "under_level",
+      "first_seen": "2026-10-19T13:02:16+02:00",
+      "assessment": "Space hardware AIT technician role, under-level for an MSc engineer."
     }
   ]
 }
