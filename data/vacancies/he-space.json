@@ -26,8 +26,8 @@
       "employer": "HE Space / SpaceForce",
       "location": "ESTEC, Noordwijk",
       "posted": null,
-      "closing_date": "2026-09-30",
-      "url": "https://www.hespace.com/vacancies/product-assurance-safety-support-engineer-26126-0",
+      "closing_date": null,
+      "url": "https://careers.soprasteria.nl/job/product-assurance-and-safety-support-engineer-26181-in-noordwijk-netherlands-jid-10174",
       "job_id": "26126",
       "categories": [
         "product assurance",
@@ -37,11 +37,11 @@
         "AIT/AIV",
         "ECSS"
       ],
-      "fit_score": 4.5,
+      "fit_score": 5.5,
       "priority": "medium_low",
-      "status": "expired",
+      "status": "active",
       "first_seen": "2026-09-12T07:58:14+02:00",
-      "assessment": "Strongly relevant ESA PA&S content; dedicated PA/QA experience requirement is a major stretch."
+      "assessment": "Reposted at ESTEC as 26181. Official closing date invalid; deadline unconfirmed. Requires 10 years in space, including 5 years in PA/QA. Senior stretch."
     },
     {
       "title": "Configuration & Data Manager",
