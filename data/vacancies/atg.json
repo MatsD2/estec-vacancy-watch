@@ -308,6 +308,28 @@
       "priority": "underlevel",
       "first_seen": "2026-10-15T12:58:13+02:00",
       "assessment": "ESTEC testing and calibration, technician-level role below MSc engineering seniority."
+    },
+    {
+      "title": "Mechanisms Engineer",
+      "employer": "ATG Europe",
+      "location": "Noordwijk, Netherlands (ESA/ESTEC)",
+      "url": "https://jobs.atg-europe.com/o/mechanisms-engineer",
+      "job_id": null,
+      "posted": null,
+      "closing_date": null,
+      "status": "active",
+      "categories": [
+        "mechanisms",
+        "mechanical design",
+        "manufacturing",
+        "verification",
+        "testing",
+        "space engineering"
+      ],
+      "fit_score": 8.5,
+      "priority": "high",
+      "first_seen": "2026-10-20T18:03:33+02:00",
+      "assessment": "Strong ESTEC match. Requires MSc and seven years in space mechanisms or other complex mechanical systems. Experience with complex machine design and thermal switch mechanisms relevant. Space tribology and pyrotechnic experience are stretch areas. Salary and deadline not published."
     }
   ]
 }
