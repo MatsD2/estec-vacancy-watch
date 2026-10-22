@@ -649,6 +649,29 @@
       "status": "active",
       "first_seen": "2026-10-19T13:02:16+02:00",
       "assessment": "Entry-level production and integration work, below MSc engineer seniority."
+    },
+    {
+      "title": "Embedded Software & System Test Engineer",
+      "employer": "ISISPACE",
+      "location": "Delft, Netherlands (hybrid)",
+      "url": "https://careers.isispace.nl/o/embedded-software-system-test-engineer",
+      "job_id": null,
+      "posted": null,
+      "closing_date": null,
+      "status": "active",
+      "categories": [
+        "system testing",
+        "hardware-in-the-loop",
+        "embedded software",
+        "integration",
+        "verification",
+        "satellite AIT",
+        "Python"
+      ],
+      "fit_score": 5.2,
+      "priority": "low_secondary_under_level",
+      "first_seen": "2026-10-22T07:56:30+02:00",
+      "assessment": "Hands-on integration/verification of satellite embedded hardware/software with automated tests, Python/C++, HIL/SIL. Some transferable experience from multidisciplinary machine electronics/PLC controls, but software-test specialization and Python are gaps. Role asks 2+ years and is potentially under-level. Delft, no ESTEC placement; salary not specified."
     }
   ]
 }
