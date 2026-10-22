@@ -664,6 +664,27 @@
       "priority": "medium",
       "assessment": "Direct ESA technical coordinator role spanning launcher interfaces, procurement, qualification reviews and launch campaigns. Needs deep launch-service and interface-management expertise; significant specialist stretch.",
       "first_seen": "2026-10-22T18:03:28+02:00"
+    },
+    {
+      "title": "Galileo Services Implementation Coordinator",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk, Netherlands",
+      "job_id": "20948",
+      "url": "https://jobs.esa.int/job/Noordwijk-Galileo-Services-Implementation-Coordinator/1449790733/",
+      "posted": "2026-10-22",
+      "closing_date": "2026-11-12",
+      "status": "active",
+      "categories": [
+        "systems engineering",
+        "integration",
+        "verification",
+        "project coordination",
+        "navigation"
+      ],
+      "fit_score": 4.5,
+      "priority": "low",
+      "assessment": "Direct ESA ESTEC GNSS systems and service coordination role. Requires four years relevant telecommunications/GNSS experience, significant specialization gap despite systems engineering and coordination overlap.",
+      "first_seen": "2026-10-22T18:03:28+02:00"
     }
   ]
 }
