@@ -611,6 +611,27 @@
       "priority": "medium_high",
       "assessment": "Direct ESTEC optical instrument role; requires 4 years relevant experience, significant optics specialization.",
       "first_seen": "2026-10-22T18:03:28+02:00"
+    },
+    {
+      "title": "Product Assurance and Safety Manager",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk, Netherlands",
+      "job_id": "21103",
+      "url": "https://jobs.esa.int/job/Noordwijk-Product-Assurance-and-Safety-Manager/1449912333/",
+      "posted": "2026-10-21",
+      "closing_date": "2026-11-11",
+      "status": "active",
+      "categories": [
+        "product assurance",
+        "safety",
+        "RAMS",
+        "quality management",
+        "AIT"
+      ],
+      "fit_score": 6.1,
+      "priority": "medium",
+      "assessment": "Direct ESA ESTEC SAGA PA&S management role. Eight years directly relevant PA&S experience required; significant senior stretch despite mechanical engineering and PA training. Includes mechanical parts and manufacturing/test oversight.",
+      "first_seen": "2026-10-22T18:03:28+02:00"
     }
   ]
 }
