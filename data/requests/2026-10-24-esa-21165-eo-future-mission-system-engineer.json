@@ -1,0 +1,26 @@
+{
+  "shard": "esa.json",
+  "vacancy": {
+    "title": "EO Future Mission End-to-end System Engineer (2 posts)",
+    "employer": "ESA",
+    "location": "ESTEC, Noordwijk, Netherlands",
+    "job_id": "21165",
+    "url": "https://jobs.esa.int/job/Noordwijk-EO-Future-Mission-End-to-end-System-Engineer-(2-posts)/1450782333/",
+    "posted": "2026-10-23",
+    "closing_date": "2026-11-13",
+    "status": "active",
+    "categories": [
+      "systems engineering",
+      "mission architecture",
+      "Earth observation",
+      "verification",
+      "performance simulation",
+      "project coordination",
+      "early phase studies"
+    ],
+    "fit_score": 5.9,
+    "priority": "medium",
+    "assessment": "Direct ESA ESTEC A2-A4 role in early-phase Earth observation mission architecture, system requirements, study management and end-to-end performance simulation. Strong MSc generalist engineering and technical coordination fit, but six years of relevant space-mission preparation/development plus EO remote-sensing and performance-simulation expertise are major stretch requirements. Four-year appointment extendable to indefinite.",
+    "first_seen": "2026-10-24T07:55:40+02:00"
+  }
+}
