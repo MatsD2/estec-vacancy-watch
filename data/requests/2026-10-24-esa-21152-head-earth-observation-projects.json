@@ -1,0 +1,27 @@
+{
+  "shard": "esa.json",
+  "vacancy": {
+    "title": "Head of the Earth Observation Projects Department",
+    "employer": "ESA",
+    "location": "ESTEC, Noordwijk, Netherlands",
+    "job_id": "21152",
+    "url": "https://jobs.esa.int/job/Noordwijk-Head-of-the-Earth-Observation-Projects-Department/1450299333/",
+    "posted": "2026-10-23",
+    "closing_date": "2026-11-20",
+    "status": "active",
+    "categories": [
+      "project management",
+      "programme management",
+      "systems engineering",
+      "Earth observation",
+      "spacecraft development",
+      "integration",
+      "verification",
+      "leadership"
+    ],
+    "fit_score": 2.3,
+    "priority": "low",
+    "assessment": "Direct ESA ESTEC A6 executive-level department head role leading Earth-observation mission portfolios and programme/project managers. Requires 15 years of directly relevant experience and proven management of managers and large teams. Far beyond current management/specialist seniority; retain only as a very senior stretch/watchlist record, not a practical near-term application.",
+    "first_seen": "2026-10-24T07:55:40+02:00"
+  }
+}
