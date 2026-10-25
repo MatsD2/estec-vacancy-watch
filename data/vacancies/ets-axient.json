@@ -332,6 +332,31 @@
       "status": "active",
       "first_seen": "2026-10-18T08:02:46+02:00",
       "assessment": "Relevant spacecraft hardware integration, verification, environmental testing and ground support equipment. Senior stretch requiring eight years of AI&T and prior ownership of test campaigns. Delft rather than direct ESTEC placement."
+    },
+    {
+      "title": "Technical Coordinator Test Facilities (MBO/HBO) – Space & High Tech",
+      "employer": "IABG / European Test Services (ETS)",
+      "location": "ESTEC Space Test Centre, Noordwijk, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://nl.linkedin.com/jobs/view/technical-coordinator-technisch-co%C3%B6rdinator-faciliteiten-mbo-hbo-techniek-m-f-d-located-at-noordwijk-aan-zee-nl-at-iabg-4415666821",
+      "job_id": "IABG-LINKEDIN-4415666821",
+      "categories": [
+        "spacecraft test facilities",
+        "test operations",
+        "mechanical",
+        "test/qualification",
+        "AIT/AIV",
+        "technical coordination",
+        "facility maintenance",
+        "cleanroom",
+        "integration"
+      ],
+      "fit_score": 6.1,
+      "priority": "underlevel",
+      "status": "active",
+      "first_seen": "2026-10-25T18:02:14+01:00",
+      "assessment": "Direct ESTEC Space Test Centre role coordinating test-floor readiness, cleanroom/airlock preparation, equipment and facilities for spacecraft test campaigns. Strong link to mechanical engineering, technical project coordination and hardware testing, but primarily MBO/HBO-oriented operations and facilities work rather than MSc-level mechanical design or spacecraft engineering. Salary unspecified; likely below preferred seniority. Distinct from test execution/maintenance engineer; verify overlap with previously listed Test Floor Supervisor & General Support Technician."
     }
   ]
 }
