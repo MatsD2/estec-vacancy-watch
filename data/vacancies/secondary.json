@@ -699,6 +699,31 @@
       "status": "active",
       "first_seen": "2026-10-23T13:02:30+02:00",
       "assessment": "Excellent technical alignment with MSc high-tech mechanical design, precision engineering, FEM/thermal analysis and space instruments; valuable spaceflight-hardware experience at SRON Leiden. However the role targets new graduates to at most seven years of experience and NWO scale 8 caps base pay at EUR 4,634 gross/month, below the candidate's compensation target. Marked potentially under-level; not an ESTEC placement."
+    },
+    {
+      "title": "On Site Galileo 2nd Generation Navigation Signal Engineer (d/m/f)",
+      "employer": "Airbus Netherlands",
+      "location": "ESTEC, Noordwijk, Netherlands (Airbus Workday lists Leiden)",
+      "posted": null,
+      "closing_date": "2026-11-01",
+      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/On-Site-Galileo-2nd-Generation-Navigation-Signal-Engineer--d-m-f-_JR10439708-1",
+      "job_id": "JR10439708",
+      "categories": [
+        "systems engineering",
+        "GNSS",
+        "Galileo",
+        "navigation",
+        "signal processing",
+        "simulation",
+        "verification",
+        "testing",
+        "spacecraft engineering"
+      ],
+      "fit_score": 5,
+      "priority": "medium_low",
+      "status": "active",
+      "first_seen": "2026-10-25T08:01:12+01:00",
+      "assessment": "Direct Airbus Netherlands permanent role embedded at ESA/ESTEC, with system requirements, lab testing and verification; strong ESA exposure. However specialist Galileo/GNSS navigation signals, CDMA, receiver algorithms and MATLAB/Python are a significant mismatch to mechanical/optomechanical background. Minimum two years professional space-project experience required; compensation unspecified."
     }
   ]
 }
