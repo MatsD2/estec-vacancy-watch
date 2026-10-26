@@ -159,7 +159,7 @@
       ],
       "fit_score": 4.5,
       "priority": "low",
-      "status": "active",
+      "status": "closed",
       "first_seen": "2026-09-11T12:57:54+02:00",
       "assessment": "Strong ESTEC lab and verification exposure; dedicated OBC/data-handling expertise is the main mismatch."
     },
