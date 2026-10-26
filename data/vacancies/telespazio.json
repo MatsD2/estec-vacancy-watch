@@ -55,7 +55,7 @@
       ],
       "fit_score": 3.5,
       "priority": "low",
-      "status": "active",
+      "status": "closed",
       "first_seen": "2026-09-09T17:59:00+02:00",
       "assessment": "ESTEC systems/test-lab exposure, but software/infrastructure dominated."
     },
