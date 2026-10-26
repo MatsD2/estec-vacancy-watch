@@ -118,7 +118,7 @@
       ],
       "fit_score": 7,
       "priority": "high",
-      "status": "active",
+      "status": "closed",
       "first_seen": "2026-09-10T12:58:12+02:00",
       "assessment": "Strong ESTEC hardware role spanning mechanical/thermal properties, manufacturing, qualification and testing; dedicated solar-generator experience is the main gap."
     },
