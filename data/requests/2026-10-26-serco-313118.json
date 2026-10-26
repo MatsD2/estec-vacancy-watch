@@ -1,0 +1,28 @@
+{
+  "shard": "terma-serco.json",
+  "vacancy": {
+    "title": "PA and Safety Support Engineer (2 positions)",
+    "employer": "Serco Europe",
+    "location": "ESTEC, Noordwijk",
+    "posted": "2026-10-23",
+    "closing_date": null,
+    "url": "https://careers.serco.com/eu/en/job/313118/PA-and-Safety-Support-Engineer",
+    "job_id": "313118",
+    "categories": [
+      "product assurance",
+      "quality assurance",
+      "RAMS",
+      "safety",
+      "manufacturing",
+      "AIT/AIV",
+      "verification",
+      "non-conformance management",
+      "spacecraft qualification"
+    ],
+    "fit_score": 4.7,
+    "priority": "low",
+    "status": "closed",
+    "first_seen": "2026-10-26T08:01:56+01:00",
+    "assessment": "ESTEC-based PA&S support covering MAIT, inspection points, NCRs, reviews and acceptance. Significant seniority mismatch: minimum 10 years in the space sector and 5 years in product/quality assurance. Third-party listing dated 23 Oct 2026; official Serco requisition 313118 now explicitly says position has been filled. Recorded as closed, not an actionable opening."
+  }
+}
