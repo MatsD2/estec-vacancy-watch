@@ -1,0 +1,25 @@
+{
+  "shard": "telespazio.json",
+  "vacancy": {
+    "title": "On-Board Computers and Data Handling Support Engineer",
+    "employer": "Telespazio Belgium",
+    "location": "ESTEC, Noordwijk",
+    "posted": null,
+    "closing_date": "ASAP",
+    "url": "https://telespazio-be.breezy.hr/p/565a6539bff601-on-board-computers-and-data-handling-support-engineer",
+    "categories": [
+      "spacecraft avionics",
+      "verification",
+      "laboratory testing",
+      "AIT/AIV",
+      "R&D",
+      "hardware"
+    ],
+    "fit_score": 4.5,
+    "priority": "low",
+    "status": "closed",
+    "first_seen": "2026-09-11T12:57:54+02:00",
+    "assessment": "Original Breezy requisition explicitly closed; replaced/reposted under active requisition 8291cb4d36f301 (https://telespazio-be.breezy.hr/p/8291cb4d36f301-on-board-computers-and-data-handling-support-engineer). Historical record retained as closed; do not count as a separate active opportunity.",
+    "superseded_by": "https://telespazio-be.breezy.hr/p/8291cb4d36f301-on-board-computers-and-data-handling-support-engineer"
+  }
+}
