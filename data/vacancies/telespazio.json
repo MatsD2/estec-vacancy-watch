@@ -161,7 +161,8 @@
       "priority": "low",
       "status": "closed",
       "first_seen": "2026-09-11T12:57:54+02:00",
-      "assessment": "Strong ESTEC lab and verification exposure; dedicated OBC/data-handling expertise is the main mismatch."
+      "assessment": "Original Breezy requisition explicitly closed; replaced/reposted under active requisition 8291cb4d36f301 (https://telespazio-be.breezy.hr/p/8291cb4d36f301-on-board-computers-and-data-handling-support-engineer). Historical record retained as closed; do not count as a separate active opportunity.",
+      "superseded_by": "https://telespazio-be.breezy.hr/p/8291cb4d36f301-on-board-computers-and-data-handling-support-engineer"
     },
     {
       "title": "Microelectronics Engineer",
