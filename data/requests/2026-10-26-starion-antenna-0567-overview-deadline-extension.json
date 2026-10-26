@@ -1,0 +1,22 @@
+{
+  "shard": "starion.json",
+  "vacancy": {
+    "title": "Antenna Engineer",
+    "employer": "Starion / RHEA Group",
+    "location": "Noordwijk, Netherlands (ESTEC)",
+    "job_id": "0567",
+    "status": "active",
+    "closing_date": "2026-11-02",
+    "url": "https://www.stariongroup.eu/career/antenna-engineer/",
+    "categories": [
+      "antennas",
+      "RF",
+      "test/qualification",
+      "optical communications",
+      "systems"
+    ],
+    "fit_score": 4.5,
+    "assessment": "Starion's official live vacancy overview now lists application deadline 2 November 2026, extended from the previously stored 26 October; individual job detail page still lists 26 October (conflicting official dates). Confirm the later deadline with recruiter. Direct ESTEC RF Payloads role, but six years of specialised antenna/RF experience required and substantial mechanical-engineering domain mismatch.",
+    "first_seen": "2026-10-02T15:09:00+02:00"
+  }
+}
