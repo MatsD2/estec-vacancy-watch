@@ -1,0 +1,21 @@
+{
+  "shard": "atg.json",
+  "vacancy": {
+    "title": "Space PA/QA Engineer",
+    "employer": "ATG Europe",
+    "location": "Noordwijk",
+    "posted": null,
+    "closing_date": "2026-11-09",
+    "url": "https://jobs.atg-europe.com/o/space-paqa-engineer",
+    "categories": [
+      "product assurance",
+      "quality assurance",
+      "manufacturing",
+      "mechanical"
+    ],
+    "fit_score": 7,
+    "priority": "high",
+    "status": "active",
+    "assessment": "Good hardware/process fit with mechanical manufacturing, qualification, inspection and ECSS/PA exposure."
+  }
+}
