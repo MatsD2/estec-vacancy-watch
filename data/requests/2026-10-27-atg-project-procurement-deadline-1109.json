@@ -1,0 +1,25 @@
+{
+  "shard": "atg.json",
+  "vacancy": {
+    "title": "Project/Procurement Manager for IRIS²",
+    "employer": "ATG Europe",
+    "location": "Noordwijk, Netherlands / Arganda del Rey, Madrid, Spain (hybrid; ESTEC placement unconfirmed)",
+    "url": "https://jobs.atg-europe.com/o/projectprocurement-manager-for-iris",
+    "job_id": null,
+    "posted": null,
+    "closing_date": "2026-11-09",
+    "status": "active",
+    "categories": [
+      "project management",
+      "procurement",
+      "contracts",
+      "systems engineering",
+      "risk management",
+      "space programmes"
+    ],
+    "fit_score": 5.5,
+    "priority": "medium_stretch",
+    "first_seen": "2026-10-22T07:56:30+02:00",
+    "assessment": "Senior/stretch; minimum 10 years relevant work experience plus project and subcontract/contract management in space/ground HW/SW. Noordwijk or Madrid hybrid possible, no confirmed ESTEC placement. Potential project-management career direction but limited direct procurement experience."
+  }
+}
