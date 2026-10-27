@@ -1,0 +1,29 @@
+{
+  "shard": "esa.json",
+  "vacancy": {
+    "title": "End-to-End Navigation System Engineer (2 Posts)",
+    "employer": "ESA",
+    "location": "ESTEC, Noordwijk, Netherlands",
+    "job_id": "21164",
+    "url": "https://jobs.esa.int/job/Noordwijk-End-to-End-Navigation-System-Engineer-(2-Posts)/1451227433/",
+    "posted": "2026-10-26",
+    "closing_date": "2026-11-16",
+    "status": "active",
+    "categories": [
+      "systems engineering",
+      "navigation",
+      "GNSS",
+      "AIT/AIV",
+      "integration",
+      "verification",
+      "testing",
+      "hardware-in-the-loop",
+      "laboratory testing",
+      "spacecraft qualification"
+    ],
+    "fit_score": 5.4,
+    "priority": "medium_low",
+    "assessment": "New ESA ESTEC A2-A4 position (two posts) in Navigation Systems Implementation and Validation, working on Galileo, Celeste LEO-PNT and OpStar. Covers system-level AIT/AIV, laboratory testbeds, test campaigns, hardware-in-the-loop verification, technical reviews and nonconformance resolution. Relevant generalist engineering/test overlap and direct ESA access, but the required four years of relevant PNT/GNSS systems experience, Galileo signal/receiver expertise and telecom engineering background make this a specialist stretch. Published 26 October 2026; deadline 16 November 2026. Vacancy and ATS requisition independently corroborated by current job syndication; canonical ESA URL is based on official requisition path and not yet fetchable by web indexing.",
+    "first_seen": "2026-10-27T07:59:45+01:00"
+  }
+}
