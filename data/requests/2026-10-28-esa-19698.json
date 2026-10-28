@@ -1,0 +1,29 @@
+{
+  "shard": "esa.json",
+  "vacancy": {
+    "title": "Secure Connectivity System Architecture Engineer",
+    "employer": "ESA",
+    "location": "ESTEC, Noordwijk, Netherlands",
+    "job_id": "19698",
+    "url": "https://jobs.esa.int/job/Noordwijk-Secure-Connectivity-System-Architecture-Engineer/1221489701/",
+    "posted": "2026-10-28",
+    "closing_date": "2026-11-11",
+    "status": "active",
+    "categories": [
+      "systems engineering",
+      "system architecture",
+      "spacecraft",
+      "satellite communications",
+      "IRIS²",
+      "requirements",
+      "verification",
+      "integration",
+      "project management",
+      "product assurance"
+    ],
+    "fit_score": 5.2,
+    "priority": "medium_low",
+    "assessment": "New direct ESA ESTEC A2-A4 systems-architecture role, published 28 Oct 2026. Defines overall IRIS² system-of-systems architecture, segment interfaces, requirements traceability, technical budgets and system reviews. MSc plus four years relevant experience required. Direct ESA access and multidisciplinary systems/project-management overlap are positives, but specialised 5G, satcom constellation architecture and security experience are substantial gaps; senior specialist stretch, not a mechanical-design role. Four-year appointment extendable to indefinite. Official closing date 11 Nov 2026.",
+    "first_seen": "2026-10-28T07:56:11+01:00"
+  }
+}
