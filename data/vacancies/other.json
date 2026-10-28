@@ -407,7 +407,7 @@
       ],
       "fit_score": 8.2,
       "priority": "high_secondary",
-      "status": "active",
+      "status": "closed",
       "first_seen": "2026-10-19T13:02:16+02:00",
       "assessment": "Strong precision mechanical design and CAD role in space instrumentation. Direct space hardware, but no ESTEC placement."
     },
