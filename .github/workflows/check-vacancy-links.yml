@@ -4,20 +4,11 @@ on:
     - cron: '30 6 * * *'
   workflow_dispatch:
 permissions:
-  contents: write
+  contents: read
 jobs:
   check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Check links
-        run: python3 scripts/check_vacancy_links.py
-      - name: Submit confirmed vacancy closures
-        run: |
-          git config user.name estec-vacancy-bot
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/requests/
-          if ! git diff --cached --quiet; then
-            git commit -m 'Request closure of unavailable vacancy links'
-            git push origin HEAD:main
-          fi
+      - name: Check vacancy links (report only)
+        run: python3 estec_linkchecker.py
