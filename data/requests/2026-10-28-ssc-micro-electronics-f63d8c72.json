@@ -1,0 +1,28 @@
+{
+  "shard": "ssc.json",
+  "vacancy": {
+    "title": "Micro-Electronics Engineer",
+    "employer": "SSC Space",
+    "location": "ESA/ESTEC, Noordwijk, Netherlands",
+    "posted": null,
+    "closing_date": "2026-11-15",
+    "url": "https://sscspace.com/career/job-opportunities/f63d8c72-72ae-41a8-89f4-5e12d0360e18/",
+    "job_id": "f63d8c72-72ae-41a8-89f4-5e12d0360e18",
+    "categories": [
+      "electronics",
+      "microelectronics",
+      "FPGA",
+      "ASIC",
+      "verification",
+      "testing",
+      "spacecraft qualification",
+      "laboratory testing",
+      "manufacturing"
+    ],
+    "fit_score": 3.4,
+    "priority": "low_specialist",
+    "status": "active",
+    "first_seen": "2026-10-28T07:56:11+01:00",
+    "assessment": "Newly discovered direct ESTEC contractor role. Requires electronics/physics MSc and 5+ years across DSP, ASIC/FPGA design and verification, HDL tools and lab characterisation. Work supports ESA digital microelectronics R&D, qualification and verification. Valuable ESTEC placement but very limited match to mechanical/thermal/optomechanical background; specialist stretch. Official SSC deadline 15 Nov 2026."
+  }
+}
