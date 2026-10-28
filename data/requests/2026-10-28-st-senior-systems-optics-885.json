@@ -1,0 +1,29 @@
+{
+  "shard": "other.json",
+  "vacancy": {
+    "title": "Senior Systems Engineer - Optics",
+    "employer": "S&T (Science & Technology)",
+    "location": "Delft, Netherlands (not ESTEC)",
+    "posted": null,
+    "closing_date": null,
+    "url": "https://www.stcorp.nl/jobs/detail/senior-systems-engineer-optics-885",
+    "job_id": "ST-885",
+    "categories": [
+      "systems engineering",
+      "optics",
+      "optomechanics",
+      "space instrumentation",
+      "verification",
+      "integration",
+      "thermal",
+      "mechanical engineering",
+      "technical leadership",
+      "project management"
+    ],
+    "fit_score": 5.8,
+    "priority": "medium_low_secondary",
+    "status": "active",
+    "first_seen": "2026-10-28T07:56:11+01:00",
+    "assessment": "Previously untracked S&T official senior optical systems engineering opportunity in Delft. Leads multidisciplinary development of precision optical systems, telescopes, photonic instrumentation and space-related products, with integration and verification responsibility. Mechanical/optomechanical education and hands-on hardware project experience relevant, but explicitly requires 10+ years as systems engineer and specialised optics background, making this a senior stretch. Not direct ESTEC; salary unlisted."
+  }
+}
