@@ -1,0 +1,25 @@
+{
+  "shard": "other.json",
+  "vacancy": {
+    "title": "Mechanical Engineer Space Instrumentation",
+    "employer": "cosine",
+    "location": "Sassenheim, Netherlands",
+    "posted": null,
+    "closing_date": null,
+    "url": "https://www.cosine.eu/vacancy/mechanical-engineer-space-instrumentation-2751201/",
+    "job_id": "2751201",
+    "categories": [
+      "mechanical design",
+      "precision engineering",
+      "CAD",
+      "space instrumentation",
+      "manufacturing",
+      "assembly"
+    ],
+    "fit_score": 8.2,
+    "priority": "high_secondary",
+    "status": "closed",
+    "first_seen": "2026-10-19T13:02:16+02:00",
+    "assessment": "Strong precision mechanical design and CAD role in space instrumentation. Direct space hardware, but no ESTEC placement."
+  }
+}
