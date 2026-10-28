@@ -119,6 +119,29 @@
       "status": "active",
       "first_seen": "2026-10-08T12:58:53+02:00",
       "assessment": "Official Starion vacancy page and job overview now give a 16 November 2026 application deadline (extended from 2 November). Leiden-based Dutch Ministry of Defence naval programme, not direct ESA/ESTEC. Requires at least three years hands-on MBSE, Capella and maritime/naval experience; specialist domain and tool gap remains."
+    },
+    {
+      "title": "Post Launch Engineer",
+      "employer": "Starion",
+      "location": "ESA/ESTEC, Noordwijk, Netherlands",
+      "posted": null,
+      "closing_date": "2026-11-06",
+      "url": "https://www.stariongroup.eu/career/post-launch-engineer/",
+      "job_id": "0590",
+      "categories": [
+        "systems engineering",
+        "spacecraft operations",
+        "post-launch support",
+        "AIT/AIV",
+        "verification",
+        "anomaly investigation",
+        "technical coordination"
+      ],
+      "fit_score": 5.2,
+      "priority": "medium_stretch",
+      "status": "active",
+      "first_seen": "2026-10-28T17:55:29+01:00",
+      "assessment": "Direct ESTEC post-launch engineering and technical coordination across satellite operations, anomaly investigations, industrial contractors and system reviews. Relevant broad engineering coordination and ESA exposure, but 10 years satellite operations/spacecraft development plus 3 years satellite systems coordination are major specialist seniority gaps. Stretch role; salary unknown."
     }
   ]
 }
