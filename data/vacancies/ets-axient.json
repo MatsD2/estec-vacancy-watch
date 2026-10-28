@@ -194,26 +194,28 @@
     {
       "title": "Senior Space Vehicle Design Engineer",
       "employer": "Axient Systems Netherlands",
-      "location": "Delft, Netherlands (Axient office; not ESTEC)",
+      "location": "Delft, Netherlands (not ESTEC)",
       "posted": null,
       "closing_date": null,
-      "url": "https://img1.wsimg.com/blobby/go/764e334c-660b-4832-8566-bcf48f225664/downloads/cda7c8ae-529a-4a6f-b8b8-d54a3c24b10c/Vacancy_Senior_SV_Design_Engineer_v2.pdf?ver=1792132308564",
+      "url": "https://img1.wsimg.com/blobby/go/764e334c-660b-4832-8566-bcf48f225664/downloads/cda7c8ae-529a-4a6f-b8b8-d54a3c24b10c/Vacancy_Senior_SV_Design_Engineer_v2.pdf?ver=1793093677213",
       "job_id": "AXIENT-SENIOR-SV-DESIGN-ENGINEER",
       "categories": [
         "mechanical design",
         "spacecraft structures",
-        "3D CAD",
+        "CAD",
         "integration",
         "manufacturing",
-        "tolerancing",
-        "configuration management",
-        "optomechanics"
+        "optomechanics",
+        "mechanisms",
+        "AIT/AIV",
+        "verification",
+        "GD&T"
       ],
-      "fit_score": 7.8,
+      "fit_score": 8,
       "priority": "high_secondary",
       "status": "active",
       "first_seen": "2026-10-17T07:55:29+02:00",
-      "assessment": "Strong hands-on mechanical CAD, complex assemblies, detailed design, drawing release, tolerances and DfMA fit, with ownership of complete machine projects. Senior/stretch: asks 8+ years of complex assembly configuration ownership; dedicated spacecraft/optical satellite experience is missing. Based in Delft rather than ESTEC; salary not disclosed. Dutch VGB-B clearance eligibility required."
+      "assessment": "Strong technical fit with >10 years part-time hands-on mechanical design/CAD and machine development, MSc precision engineering and hardware ownership. Owns mechanical configuration and master CAD of high-performance optical satellite, interfaces, manufacturing drawings, tolerances and integration sequencing. Requires 8+ years mechanical design of complex assemblies, with space heritage desirable rather than essential. Major opportunity to enter spacecraft hardware engineering, though Delft rather than ESTEC, no published salary and Dutch VGB-B eligibility required. Official Axient careers PDF."
     },
     {
       "title": "Senior Optomechanical Engineer / STOP Analyst",
@@ -357,32 +359,6 @@
       "status": "active",
       "first_seen": "2026-10-25T18:02:14+01:00",
       "assessment": "Direct ESTEC Space Test Centre role coordinating test-floor readiness, cleanroom/airlock preparation, equipment and facilities for spacecraft test campaigns. Strong link to mechanical engineering, technical project coordination and hardware testing, but primarily MBO/HBO-oriented operations and facilities work rather than MSc-level mechanical design or spacecraft engineering. Salary unspecified; likely below preferred seniority. Distinct from test execution/maintenance engineer; verify overlap with previously listed Test Floor Supervisor & General Support Technician."
-    },
-    {
-      "title": "Senior Space Vehicle Design Engineer",
-      "employer": "Axient Systems Netherlands",
-      "location": "Delft, Netherlands (not ESTEC)",
-      "posted": null,
-      "closing_date": null,
-      "url": "https://img1.wsimg.com/blobby/go/764e334c-660b-4832-8566-bcf48f225664/downloads/cda7c8ae-529a-4a6f-b8b8-d54a3c24b10c/Vacancy_Senior_SV_Design_Engineer_v2.pdf?ver=1793093677213",
-      "job_id": "AXIENT-SENIOR-SV-DESIGN-ENGINEER",
-      "categories": [
-        "mechanical design",
-        "spacecraft structures",
-        "CAD",
-        "integration",
-        "manufacturing",
-        "optomechanics",
-        "mechanisms",
-        "AIT/AIV",
-        "verification",
-        "GD&T"
-      ],
-      "fit_score": 8,
-      "priority": "high_secondary",
-      "status": "active",
-      "first_seen": "2026-10-28T07:56:11+01:00",
-      "assessment": "Strong technical fit with >10 years part-time hands-on mechanical design/CAD and machine development, MSc precision engineering and hardware ownership. Owns mechanical configuration and master CAD of high-performance optical satellite, interfaces, manufacturing drawings, tolerances and integration sequencing. Requires 8+ years mechanical design of complex assemblies, with space heritage desirable rather than essential. Major opportunity to enter spacecraft hardware engineering, though Delft rather than ESTEC, no published salary and Dutch VGB-B eligibility required. Official Axient careers PDF."
     }
   ]
 }
