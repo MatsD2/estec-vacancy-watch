@@ -1,0 +1,26 @@
+{
+  "shard": "starion.json",
+  "vacancy": {
+    "title": "SatCom Payload Engineer",
+    "employer": "Starion",
+    "location": "Noordwijk, Netherlands / Harwell, United Kingdom (listed options; detailed description emphasises ESA ECSAT Harwell; confirm Dutch placement)",
+    "posted": null,
+    "closing_date": "2026-11-09",
+    "url": "https://www.stariongroup.eu/career/satcom-payload-engineer/",
+    "job_id": "0592",
+    "categories": [
+      "payload engineering",
+      "satellite communications",
+      "space systems",
+      "equipment development",
+      "manufacturing",
+      "technical procurement",
+      "verification"
+    ],
+    "fit_score": 4.3,
+    "priority": "low_stretch",
+    "status": "active",
+    "first_seen": "2026-10-28T17:55:29+01:00",
+    "assessment": "Official listing includes Noordwijk as well as Harwell, but role narrative says ESA ECSAT in Harwell; verify actual ESTEC work location before applying. Four years aerospace/satcom equipment experience and specialist satellite payload architecture expertise requested. Some hardware/manufacturing overlap, but satellite communications specialization is a large mismatch. Salary unknown."
+  }
+}
