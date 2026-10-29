@@ -1,0 +1,26 @@
+{
+  "shard": "other.json",
+  "vacancy": {
+    "title": "Scientist Engineer – X-Ray Optics",
+    "employer": "cosine",
+    "location": "Sassenheim, Netherlands",
+    "url": "https://www.cosine.eu/vacancy/scientist-engineer-x-ray-optics-2702263/",
+    "job_id": "2702263",
+    "posted": null,
+    "closing_date": null,
+    "status": "closed",
+    "categories": [
+      "optics",
+      "X-ray optics",
+      "space instrumentation",
+      "R&D",
+      "mechanical design",
+      "testing",
+      "verification"
+    ],
+    "fit_score": 5.8,
+    "priority": "medium_secondary",
+    "first_seen": "2026-10-19T13:02:16+02:00",
+    "assessment": "Advanced X-ray optical systems R&D with design, analysis and experimental validation. Interesting connection to optics coursework, but requires specialist X-ray optics experience. Sassenheim, not ESTEC."
+  }
+}
