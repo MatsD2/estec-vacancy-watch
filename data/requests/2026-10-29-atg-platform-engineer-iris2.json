@@ -1,0 +1,27 @@
+{
+  "shard": "atg.json",
+  "vacancy": {
+    "title": "Platform Engineer for IRIS²",
+    "employer": "ATG Europe",
+    "location": "Arganda del Rey (Madrid), Spain or Noordwijk, Netherlands (text offers both; job listing displays Madrid)",
+    "url": "https://jobs.atg-europe.com/o/platform-engineer-for-iris",
+    "job_id": null,
+    "posted": null,
+    "closing_date": "2026-11-09",
+    "status": "active",
+    "categories": [
+      "satellite platform engineering",
+      "systems engineering",
+      "manufacturing",
+      "AIT/AIV",
+      "integration",
+      "verification",
+      "qualification",
+      "launch operations"
+    ],
+    "fit_score": 4.3,
+    "priority": "low_stretch",
+    "first_seen": "2026-10-29T18:03:30+01:00",
+    "assessment": "Potential Noordwijk placement but listing defaults to Madrid; 10 years specialist satellite platform procurement/manufacturing/operations and large ESA projects required. Significant senior stretch despite transferable mechanical engineering and manufacturing background."
+  }
+}
