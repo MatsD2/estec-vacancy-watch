@@ -580,6 +580,30 @@
       "status": "active",
       "first_seen": "2026-10-30T13:01:15+01:00",
       "assessment": "Relevant space hardware integration, GSE, vibration, shock, thermal-vacuum and optical alignment work. Significant senior stretch: requires at least 8 years complex-hardware AIT including professional spacecraft experience and test-campaign ownership. Delft rather than ESTEC; salary unspecified."
+    },
+    {
+      "title": "Senior Mechanical Engineer",
+      "employer": "S&T (Science & Technology)",
+      "location": "Delft, Netherlands (not ESTEC)",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://www.stcorp.nl/jobs/senior-mechanical-engineer-981",
+      "job_id": "981",
+      "categories": [
+        "mechanical",
+        "thermal",
+        "structures",
+        "FEA",
+        "test/qualification",
+        "manufacturing",
+        "space hardware",
+        "integration"
+      ],
+      "fit_score": 7,
+      "priority": "medium",
+      "status": "active",
+      "first_seen": "2026-10-30T13:01:15+01:00",
+      "assessment": "Strong mechanical, thermal, structural FEA and space-hardware qualification match, with minimum five years dedicated mechanical experience. User has previously reviewed this role. Main disadvantages: Delft rather than ESTEC, senior ownership expectation, and stated salary €4,500–€6,500 gross/month (top of range only near user's €75k annual target)."
     }
   ]
 }
