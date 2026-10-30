@@ -1,0 +1,30 @@
+{
+  "shard": "other.json",
+  "vacancy": {
+    "title": "Senior AIT Engineer",
+    "employer": "S&T (Science & Technology)",
+    "location": "Delft, Netherlands (not ESTEC; primarily on-site)",
+    "posted": null,
+    "closing_date": null,
+    "url": "https://www.stcorp.nl/jobs/senior-ait-engineer-990",
+    "job_id": "990",
+    "categories": [
+      "AIT/AIV",
+      "integration",
+      "verification",
+      "test/qualification",
+      "mechanical",
+      "thermal",
+      "structures",
+      "optomechanical",
+      "systems",
+      "production",
+      "manufacturing"
+    ],
+    "fit_score": 5.9,
+    "priority": "medium_low",
+    "status": "active",
+    "first_seen": "2026-10-30T13:01:15+01:00",
+    "assessment": "Relevant space hardware integration, GSE, vibration, shock, thermal-vacuum and optical alignment work. Significant senior stretch: requires at least 8 years complex-hardware AIT including professional spacecraft experience and test-campaign ownership. Delft rather than ESTEC; salary unspecified."
+  }
+}
