@@ -528,6 +528,31 @@
       "status": "active",
       "first_seen": "2026-10-28T07:56:11+01:00",
       "assessment": "Previously untracked S&T official senior optical systems engineering opportunity in Delft. Leads multidisciplinary development of precision optical systems, telescopes, photonic instrumentation and space-related products, with integration and verification responsibility. Mechanical/optomechanical education and hands-on hardware project experience relevant, but explicitly requires 10+ years as systems engineer and specialised optics background, making this a senior stretch. Not direct ESTEC; salary unlisted."
+    },
+    {
+      "title": "MAIT Manager",
+      "employer": "S&T (Science & Technology)",
+      "location": "Delft, Netherlands (not ESTEC)",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://www.stcorp.nl/jobs/mait-manager-989",
+      "job_id": "989",
+      "categories": [
+        "manufacturing",
+        "AIT/AIV",
+        "integration",
+        "verification",
+        "test/qualification",
+        "optomechanical",
+        "mechanical",
+        "systems",
+        "management"
+      ],
+      "fit_score": 6.4,
+      "priority": "medium",
+      "status": "active",
+      "first_seen": "2026-10-30T13:01:15+01:00",
+      "assessment": "Strong multidisciplinary hardware verification and test-leadership fit, including optical communication systems, mechanics, controls and precision alignment. Senior stretch requiring extensive MAIT leadership; Delft location offers no direct ESTEC exposure and compensation is unspecified."
     }
   ]
 }
