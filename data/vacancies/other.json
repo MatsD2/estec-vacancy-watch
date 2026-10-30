@@ -628,6 +628,29 @@
       "priority": "medium",
       "first_seen": "2026-10-30T18:00:25+01:00",
       "assessment": "Direct ESTEC test facility role, master's degree and minimum four years relevant experience required specifically in design, operation and maintenance of environmental test facilities for space hardware. Strong transferable machinery/facility engineering background, but space-specific facility experience gap. Employer's LinkedIn posting states initially temporary until 31 July 2027, making it less attractive than comparable ATG position. Separate contractor vacancy, despite similar client service."
+    },
+    {
+      "title": "PVA Engineer – Space Solar Arrays",
+      "employer": "S&T (Science & Technology)",
+      "location": "Leiden, Netherlands (not ESTEC)",
+      "url": "https://www.stcorp.nl/jobs/pva-engineer-space-solar-arrays-640",
+      "job_id": "640",
+      "posted": null,
+      "closing_date": null,
+      "status": "active",
+      "categories": [
+        "space solar arrays",
+        "photovoltaic engineering",
+        "spacecraft power",
+        "materials",
+        "verification",
+        "testing",
+        "engineering design"
+      ],
+      "fit_score": 4.5,
+      "priority": "low",
+      "first_seen": "2026-10-30T18:00:25+01:00",
+      "assessment": "Medior role designing and testing space solar arrays in Leiden. Requires two years photovoltaic technology experience focused on space, diode/cell string physics, radiation degradation, wiring and panel architecture; strong specialty gap despite space engineering interest. No direct ESTEC placement; less aligned with mechanical/thermal/mechanisms career priorities."
     }
   ]
 }
