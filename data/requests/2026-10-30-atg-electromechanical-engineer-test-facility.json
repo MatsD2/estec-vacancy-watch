@@ -1,0 +1,30 @@
+{
+  "shard": "atg.json",
+  "vacancy": {
+    "title": "Electromechanical Engineer for the Test Facility",
+    "employer": "ATG Europe",
+    "location": "ESA/ESTEC, Noordwijk, Netherlands",
+    "url": "https://jobs.atg-europe.com/o/electromechanical-engineer-for-the-test-facility",
+    "job_id": null,
+    "posted": null,
+    "closing_date": "2026-11-25",
+    "status": "active",
+    "categories": [
+      "mechanical engineering",
+      "electromechanical engineering",
+      "MGSE",
+      "mechanical design",
+      "structural analysis",
+      "test facilities",
+      "environmental testing",
+      "AIT/AIV",
+      "verification",
+      "manufacturing",
+      "metrology"
+    ],
+    "fit_score": 9.1,
+    "priority": "very_high",
+    "first_seen": "2026-10-30T18:00:25+01:00",
+    "assessment": "Outstanding direct ESTEC Test Facilities & Laboratories fit: MGSE design, CAD/drawings, structural analyses, laboratory/test infrastructure, calibration and environmental tests. Master's degree and 4+ years relevant engineering experience required; approximately five full-time-equivalent years from part-time industrial work may satisfy threshold, though client will assess relevance. Strong match to machine design, NIKHEF UHV facility and TU Delft mechanical/thermal work. Contractor role; compensation not disclosed."
+  }
+}
