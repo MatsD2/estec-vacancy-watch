@@ -1,0 +1,22 @@
+{
+  "shard": "telespazio.json",
+  "vacancy": {
+    "title": "Artificial Intelligence and Data Science Engineer",
+    "employer": "Telespazio Belgium",
+    "location": "ESTEC, Noordwijk",
+    "url": "https://telespazio-be.breezy.hr/p/ba30c7a957f201-artificial-intelligence-and-data-science-engineer",
+    "job_id": "RT-S_TEC-SF_01157",
+    "posted": null,
+    "closing_date": "Coming Soon",
+    "status": "upcoming",
+    "categories": [
+      "AI",
+      "data science",
+      "systems verification"
+    ],
+    "fit_score": 4.5,
+    "priority": "low",
+    "first_seen": "2026-10-14T12:57:24+02:00",
+    "assessment": "Direct ESTEC position, but primarily AI and data science outside mechanical engineering focus. The official listing explicitly says 'Coming Soon'; not yet confirmed open for applications."
+  }
+}
