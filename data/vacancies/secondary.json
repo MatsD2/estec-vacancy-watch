@@ -600,7 +600,7 @@
       "job_id": null,
       "posted": null,
       "closing_date": null,
-      "status": "active",
+      "status": "closed",
       "categories": [
         "AIT",
         "production",
