@@ -1,0 +1,23 @@
+{
+  "shard": "secondary.json",
+  "vacancy": {
+    "title": "Mechanical Engineer - Medior/Senior",
+    "employer": "ISISPACE",
+    "location": "Delft, Netherlands",
+    "posted": null,
+    "closing_date": null,
+    "url": "https://careers.isispace.nl/o/mechanical-engineer-mediorsenior",
+    "categories": [
+      "mechanical design",
+      "FEM",
+      "launch hardware",
+      "qualification",
+      "testing"
+    ],
+    "fit_score": 7.5,
+    "priority": "high_secondary",
+    "status": "closed",
+    "first_seen": "2026-09-09T15:41:00+02:00",
+    "assessment": "Very relevant design/FEM/qualification work on satellite launch hardware; experience/Nastran requirements are a stretch. Original listing has been withdrawn; its URL now redirects to the separately indexed Structural Engineer vacancy."
+  }
+}
