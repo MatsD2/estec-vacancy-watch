@@ -1,0 +1,23 @@
+{
+  "shard": "telespazio.json",
+  "vacancy": {
+    "title": "Senior Human Spaceflight Safety Support Engineer",
+    "employer": "Telespazio Belgium",
+    "location": "ESTEC, Noordwijk",
+    "posted": null,
+    "closing_date": "ASAP",
+    "url": "https://telespazio-be.breezy.hr/p/185532cc06fa01-human-spaceflight-safety-support-engineer",
+    "categories": [
+      "human spaceflight",
+      "safety",
+      "product assurance",
+      "RAMS",
+      "verification"
+    ],
+    "fit_score": 5.5,
+    "priority": "medium",
+    "status": "closed",
+    "first_seen": "2026-09-09T18:01:24+02:00",
+    "assessment": "Human-spaceflight safety and verification at ESTEC is attractive; dedicated dependability experience is a major stretch."
+  }
+}
