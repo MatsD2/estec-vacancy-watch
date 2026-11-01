@@ -1,0 +1,29 @@
+{
+  "shard": "secondary.json",
+  "vacancy": {
+    "title": "Work Preparer (Werkvoorbereider) – Space AIT Production",
+    "employer": "Airbus Netherlands",
+    "location": "Oegstgeest, Netherlands (Airbus Defence and Space Netherlands; not ESTEC)",
+    "posted": null,
+    "closing_date": "2026-12-14",
+    "url": "https://hiringdeskairbusds.nl/jobs/airbus-netherlands-bv/werkvoorbereider/7baee64e-1be4-4513-b738-c368836208d1",
+    "job_id": "SRQ178303",
+    "categories": [
+      "manufacturing",
+      "production",
+      "AIT/AIV",
+      "assembly and integration",
+      "work preparation",
+      "planning",
+      "industrialisation",
+      "test procedures",
+      "technical coordination",
+      "process improvement"
+    ],
+    "fit_score": 4.1,
+    "priority": "low_underlevel",
+    "status": "active",
+    "first_seen": "2026-11-01T07:58:41+01:00",
+    "assessment": "Airbus Netherlands production work-preparer role supporting space hardware AIT in Oegstgeest: plan personnel and facilities, prepare tooling/materials/work instructions, troubleshoot production equipment, coordinate AIT managers and improve processes. Existing machine-project planning and manufacturing experience transfer well, but MBO+ target level and planning/administrative focus are under-level for MSc mechanical engineer; no direct ESTEC placement. One-year deta-vast, possible hybrid, salary unspecified. Official hiring desk shows closing date 14 Dec 2026 and continuous applications until filled."
+  }
+}
