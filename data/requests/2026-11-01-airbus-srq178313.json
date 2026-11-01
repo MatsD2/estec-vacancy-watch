@@ -1,0 +1,27 @@
+{
+  "shard": "secondary.json",
+  "vacancy": {
+    "title": "Assembly & Integration Technician (AI-Technician)",
+    "employer": "Airbus Netherlands",
+    "location": "Oegstgeest / Leiden area, Netherlands (Airbus Defence and Space Netherlands; not ESTEC)",
+    "posted": null,
+    "closing_date": "2026-11-30",
+    "url": "https://hiringdeskairbusds.nl/jobs/airbus-netherlands-bv/ai-technician/1d6235f6-e3da-4406-aa09-a0629a2ca26d",
+    "job_id": "SRQ178313",
+    "categories": [
+      "AIT/AIV",
+      "assembly and integration",
+      "precision assembly",
+      "mechanical manufacturing",
+      "space hardware",
+      "production",
+      "quality control",
+      "testing"
+    ],
+    "fit_score": 3.5,
+    "priority": "low_underlevel",
+    "status": "active",
+    "first_seen": "2026-11-01T07:58:41+01:00",
+    "assessment": "Hands-on mechanical assembly and integration of Airbus Netherlands space hardware (solar arrays, launcher structures) in Leiden/Oegstgeest. Requires MBO mechanical/mechatronics background and practical assembly, precision fitting, documentation and quality control; MSc candidates allowed only with clear commitment to remaining in technician role. Under-level relative to user's MSc and mechanical design leadership; no direct ESTEC placement. One-year deta-vast assignment with possible permanent conversion, salary not specified. Official hiring desk closing date 30 Nov 2026."
+  }
+}
