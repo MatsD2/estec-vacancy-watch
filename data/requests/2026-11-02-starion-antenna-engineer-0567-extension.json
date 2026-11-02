@@ -1,0 +1,22 @@
+{
+  "shard": "starion.json",
+  "vacancy": {
+    "title": "Antenna Engineer",
+    "employer": "Starion / RHEA Group",
+    "location": "Noordwijk, Netherlands (ESTEC)",
+    "job_id": "0567",
+    "status": "active",
+    "closing_date": "2026-11-09",
+    "url": "https://www.stariongroup.eu/career/antenna-engineer/",
+    "categories": [
+      "antennas",
+      "RF",
+      "test/qualification",
+      "optical communications",
+      "systems"
+    ],
+    "fit_score": 4.5,
+    "assessment": "Direct ESTEC RF Payloads and Technology Division role covering antenna design, RF modelling, test and qualification. Official Starion vacancy page confirms deadline extended from 2 to 9 November 2026. MSc/PhD and at least six years of specialised RF/antenna experience required, making this a significant domain and seniority stretch for a mechanical engineering background.",
+    "first_seen": "2026-10-02T15:09:00+02:00"
+  }
+}
