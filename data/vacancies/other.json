@@ -697,6 +697,30 @@
       "status": "active",
       "first_seen": "2026-10-31T17:58:23+01:00",
       "assessment": "Practical multidisciplinary systems engineering spanning requirements, hardware/software integration, spacecraft AIT and test equipment. Minimum 2 years relevant high-tech experience; accessible cross-domain transition, but role emphasizes electronics/telecom and is not an ESTEC on-site position. Salary not specified."
+    },
+    {
+      "title": "Electromechanical Engineer for Test Facility",
+      "employer": "Akkodis",
+      "location": "ESA/ESTEC, Noordwijk aan Zee, Netherlands",
+      "url": "https://www.akkodis.com/en-nl/careers/jobs/electromechanical-engineer-for-test-facility-noordwijk/5bdd0d26-9f74-6a24-e7d4-fe6d1b216f1f",
+      "job_id": "JN-102026-83914",
+      "posted": "2026-10-30",
+      "closing_date": "2026-11-23",
+      "status": "active",
+      "categories": [
+        "electromechanical engineering",
+        "test facilities",
+        "environmental testing",
+        "mechanical engineering",
+        "maintenance",
+        "calibration",
+        "AIV",
+        "verification"
+      ],
+      "fit_score": 6.8,
+      "priority": "medium",
+      "first_seen": "2026-10-30T18:00:25+01:00",
+      "assessment": "Direct ESTEC test facility role confirmed on the employer's official vacancy page (Akkodis ref JN-102026-83914), master's degree and at least four years of relevant experience specifically designing, operating and maintaining environmental test facilities for space hardware. Strong transferable machinery/facility engineering background, but specialist space-test facility experience gap. Initial temporary appointment through 31 July 2027; applications before 23 November 2026. Replaces previously stored third-party LinkedIn URL with canonical direct employer URL, preserving original first_seen and all other data."
     }
   ]
 }
