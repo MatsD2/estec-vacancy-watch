@@ -1,0 +1,26 @@
+{
+  "shard": "esa.json",
+  "vacancy": {
+    "title": "In-Orbit Servicing Performance Engineer",
+    "employer": "ESA",
+    "location": "ESTEC, Noordwijk, Netherlands",
+    "posted": "2026-11-02",
+    "closing_date": "2026-11-16",
+    "url": "https://jobs.esa.int/job/Noordwijk-In-Orbit-Servicing-Performance-Engineer/1400234033/",
+    "job_id": "20389",
+    "categories": [
+      "systems engineering",
+      "in-orbit servicing",
+      "space safety",
+      "verification",
+      "mission performance",
+      "robotics",
+      "spacecraft engineering"
+    ],
+    "fit_score": 7.1,
+    "priority": "high",
+    "status": "active",
+    "first_seen": "2026-11-03T17:57:54+01:00",
+    "assessment": "Direct ESA/ESTEC A2-A4 role in the Space Safety Programme on in-orbit servicing missions, involving mission performance and spacecraft servicing capabilities. Strong attraction for space mechanisms, robotics and verification interests; specialist in-orbit servicing and mission-performance experience likely a stretch. Four-year appointment extendable to indefinite."
+  }
+}
