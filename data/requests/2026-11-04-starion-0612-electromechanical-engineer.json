@@ -1,0 +1,28 @@
+{
+  "shard": "starion.json",
+  "vacancy": {
+    "title": "Electromechanical Engineer",
+    "employer": "Starion",
+    "location": "ESTEC, Noordwijk, Netherlands",
+    "posted": null,
+    "closing_date": "2026-11-23",
+    "url": "https://www.stariongroup.eu/career/electromechanical-engineer/",
+    "job_id": "0612",
+    "categories": [
+      "electromechanical engineering",
+      "environmental test facilities",
+      "mechanical engineering",
+      "AIT/AIV",
+      "testing",
+      "verification",
+      "qualification",
+      "maintenance",
+      "calibration"
+    ],
+    "fit_score": 8.1,
+    "priority": "high",
+    "status": "active",
+    "first_seen": "2026-11-04T07:55:59+01:00",
+    "assessment": "Direct ESA ESTEC Test Centre role, MSc mechanics and minimum four years relevant experience. Strong fit with ~five FTE years industrial machine design, commissioning and test-equipment engineering; dedicated spacecraft environmental test campaign experience is the main gap. Similar scope to ATG/HE Space/Akkodis openings, but separate Starion requisition 0612."
+  }
+}
