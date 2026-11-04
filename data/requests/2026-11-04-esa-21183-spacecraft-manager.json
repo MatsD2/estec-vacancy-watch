@@ -1,0 +1,27 @@
+{
+  "shard": "esa.json",
+  "vacancy": {
+    "title": "Spacecraft Manager",
+    "employer": "ESA",
+    "location": "ESTEC, Noordwijk, Netherlands",
+    "posted": "2026-11-03",
+    "closing_date": "2026-11-24",
+    "url": "https://jobs.esa.int/job/Noordwijk-Spacecraft-Manager/1453904733/",
+    "job_id": "21183",
+    "categories": [
+      "spacecraft engineering",
+      "systems engineering",
+      "project management",
+      "AIT/AIV",
+      "verification",
+      "procurement",
+      "space science",
+      "NewAthena"
+    ],
+    "fit_score": 3.2,
+    "priority": "low_stretch",
+    "status": "active",
+    "first_seen": "2026-11-04T07:55:59+01:00",
+    "assessment": "Direct ESA NewAthena spacecraft manager A5 role; manages spacecraft procurement, systems, industrial partners, verification and AIT. Very senior stretch: requires 15 years relevant scientific space-project experience, Phase C/D/E1 procurement and team management, substantially beyond user's ~5 FTE years industrial mechanical engineering and recent MSc."
+  }
+}
