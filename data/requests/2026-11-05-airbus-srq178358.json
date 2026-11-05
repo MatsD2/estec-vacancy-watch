@@ -1,0 +1,29 @@
+{
+  "shard": "secondary.json",
+  "vacancy": {
+    "title": "AIT Technicians / Sheet Metal Specialists / Senior AIT Shift Leaders / KUKA Robot Operators (15+ positions)",
+    "employer": "Airbus Netherlands",
+    "location": "Leiden / Oegstgeest, Netherlands (Airbus Defence and Space Netherlands; not ESTEC)",
+    "posted": null,
+    "closing_date": "2026-12-31",
+    "url": "https://hiringdeskairbusds.nl/jobs/airbus-netherlands-bv/ai-technician/266572ac-9616-41d1-bb28-675c05a70e3c",
+    "job_id": "SRQ178358",
+    "categories": [
+      "AIT/AIV",
+      "assembly and integration",
+      "production",
+      "manufacturing",
+      "sheet metal",
+      "robotics",
+      "KUKA robot operations",
+      "shift leadership",
+      "launcher structures",
+      "quality control"
+    ],
+    "fit_score": 3.8,
+    "priority": "low_underlevel",
+    "status": "active",
+    "first_seen": "2026-11-05T08:02:49+01:00",
+    "assessment": "Separate Airbus Defence and Space Netherlands hiring-desk requisition SRQ178358 for 15+ production personnel on European launcher structural assemblies: AIT technicians, sheet-metal specialists, senior AIT technicians/shift leaders and KUKA robot operators. On-site Leiden/Oegstgeest with afternoon/evening shifts 14:00–23:00; minimum 9 months, estimated 9–12, detachering or freelance possible. Practical assembly/robotics and leadership relate to industrial automation background, but mostly technician/production roles below MSc mechanical design level, no direct ESTEC placement and no salary published. Distinct from existing Airbus AI-Technician SRQ178313; closing 31 Dec 2026."
+  }
+}
