@@ -136,6 +136,29 @@
       "status": "active",
       "first_seen": "2026-10-28T07:56:11+01:00",
       "assessment": "Newly discovered direct ESTEC contractor role. Requires electronics/physics MSc and 5+ years across DSP, ASIC/FPGA design and verification, HDL tools and lab characterisation. Work supports ESA digital microelectronics R&D, qualification and verification. Valuable ESTEC placement but very limited match to mechanical/thermal/optomechanical background; specialist stretch. Official SSC deadline 15 Nov 2026."
+    },
+    {
+      "title": "Mechanical Design & Structural Analysis Engineer",
+      "employer": "SSC Space",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": "2026-12-10",
+      "url": "https://sscspace.com/career/job-opportunities/ec9319b9-d5ba-4cfe-a731-e6e18ecd3557/",
+      "job_id": "ec9319b9-d5ba-4cfe-a731-e6e18ecd3557",
+      "categories": [
+        "mechanical design",
+        "structural analysis",
+        "FEA",
+        "MGSE",
+        "manufacturing",
+        "verification",
+        "test facilities"
+      ],
+      "fit_score": 9,
+      "priority": "very_high",
+      "status": "active",
+      "first_seen": "2026-11-06T17:58:14+01:00",
+      "assessment": "Excellent direct ESTEC engineering match: MSc mechanical, 4+ years relevant experience, MGSE design, CAD, drawings, FEA, proof-load and acceptance tests. Industrial machine design and mechanical analysis highly relevant; 3DEXPERIENCE and Nastran/Patran are tool gaps."
     }
   ]
 }
