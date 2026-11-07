@@ -1,0 +1,25 @@
+{
+  "shard": "ssc.json",
+  "vacancy": {
+    "title": "Laboratory Equipment Technician",
+    "employer": "SSC Space",
+    "location": "ESTEC, Noordwijk",
+    "posted": null,
+    "closing_date": "2026-12-10",
+    "url": "https://sscspace.com/career/job-opportunities/512947aa-c359-48a8-89d8-17dd420e8a3d/",
+    "job_id": "512947aa-c359-48a8-89d8-17dd420e8a3d",
+    "categories": [
+      "laboratory equipment",
+      "calibration",
+      "metrology",
+      "maintenance",
+      "test facilities",
+      "quality assurance"
+    ],
+    "fit_score": 4.5,
+    "priority": "low_under_level",
+    "status": "active",
+    "first_seen": "2026-11-07T12:56:49+01:00",
+    "assessment": "Direct ESTEC laboratory role coordinating calibration and maintenance of mainly electrical equipment, temperature/humidity sensors and reference standards. Valuable ESTEC exposure but technician/calibration focus is below MSc mechanical engineering design ambitions."
+  }
+}
