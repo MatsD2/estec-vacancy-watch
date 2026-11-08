@@ -1,0 +1,30 @@
+{
+  "shard": "esa.json",
+  "vacancy": {
+    "title": "Space Safety Functional and Validation Architect",
+    "employer": "ESA",
+    "location": "ESTEC, Noordwijk",
+    "posted": "2026-11-05",
+    "closing_date": "2026-11-26",
+    "url": "https://jobs.esa.int/job/noordwijk-space-safety-functional-and-validation-architect/1454843333",
+    "job_id": "21196",
+    "categories": [
+      "systems engineering",
+      "AIT/AIV",
+      "integration",
+      "verification",
+      "validation",
+      "spacecraft production",
+      "test/qualification",
+      "robotics",
+      "GNC/AOCS",
+      "product assurance",
+      "space safety"
+    ],
+    "fit_score": 5.5,
+    "priority": "low_stretch",
+    "status": "active",
+    "first_seen": "2026-11-08T08:04:58+01:00",
+    "assessment": "Direct ESA/ESTEC A2-A4 role for Space Safety missions (Aurora, ADR/IOS) coordinating spacecraft AIT/AIV, environmental test campaigns, integration, procurement, production and robotic/GNC validation. Broad mechanical/test/project engineering overlap, but ESA explicitly requires more than ten years of hands-on spacecraft development and major verification/validation leadership, making this a substantial seniority and space-domain stretch."
+  }
+}
