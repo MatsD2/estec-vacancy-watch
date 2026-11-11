@@ -1,0 +1,28 @@
+{
+  "shard": "esa.json",
+  "vacancy": {
+    "title": "Thermal/Cryogenics Engineer",
+    "employer": "ESA",
+    "location": "ESTEC, Noordwijk",
+    "posted": "2026-11-10",
+    "closing_date": "2026-12-01",
+    "url": "https://jobs.esa.int/job/Noordwijk-ThermalCryogenics-Engineer/1455956033/",
+    "job_id": "21204",
+    "categories": [
+      "thermal control",
+      "cryogenics",
+      "thermal analysis",
+      "thermal testing",
+      "verification",
+      "mechanical engineering",
+      "spacecraft engineering",
+      "technology development",
+      "R&D"
+    ],
+    "fit_score": 7.5,
+    "priority": "high",
+    "status": "active",
+    "first_seen": "2026-11-11T17:56:45+01:00",
+    "assessment": "Direct ESA/ESTEC Thermal Control Section role, A2-A4 (potential A1 for fewer than four years post-MSc relevant experience), four-year appointment extendable indefinitely. Excellent overlap with MSc lunar rover thermal-switch thesis, thermal modelling, hardware prototyping and verification. Significant stretch: mandatory cryogenics experience, spacecraft thermal engineering and ESATAN-TMS familiarity; minimum four years relevant professional experience."
+  }
+}
