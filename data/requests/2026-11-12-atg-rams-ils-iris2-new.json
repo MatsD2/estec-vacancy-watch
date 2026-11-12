@@ -1,0 +1,28 @@
+{
+  "shard": "atg.json",
+  "vacancy": {
+    "title": "RAMS & ILS Ground Segment Engineer for IRIS²",
+    "employer": "ATG Europe",
+    "location": "Noordwijk, Netherlands / Arganda del Rey (Madrid), Spain",
+    "posted": null,
+    "closing_date": "2026-12-11",
+    "url": "https://jobs.atg-europe.com/o/rams-ils-ground-segment-engineer-for-iris",
+    "job_id": null,
+    "categories": [
+      "RAMS",
+      "reliability",
+      "availability",
+      "maintainability",
+      "ILS",
+      "FMEA/FMECA",
+      "ground segment",
+      "product assurance",
+      "systems engineering"
+    ],
+    "fit_score": 5.5,
+    "priority": "medium_low",
+    "status": "active",
+    "first_seen": "2026-11-12T08:00:00+01:00",
+    "assessment": "New IRIS² ground-segment RAMS/ILS vacancy with a Noordwijk location option. Relevant systems, reliability and PA exposure; specialist stretch requiring 5+ years dedicated RAM/ILS, FMECA, logistics support and ECSS standards experience."
+  }
+}
