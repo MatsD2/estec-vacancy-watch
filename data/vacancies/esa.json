@@ -961,6 +961,28 @@
       "status": "active",
       "first_seen": "2026-11-13T07:56:43+01:00",
       "assessment": "Direct ESA/ESTEC A2-A4 role focused on transitioning commercial SatCom hardware to scalable production, DfMA, process automation, production routing, AIT and verification. Strong overlap with TU Delft MSc mechanical engineering and ten years part-time machine design, production and automation (~5 FTE years). Significant stretch: principal technical authority/lead industrialisation responsibility, large-scale satellite/constellation AIT and SatCom industrial experience. ESA states four years relevant professional experience with MSc, but may recruit at A1 if fewer than four years after the master's degree."
+    },
+    {
+      "title": "Electric Propulsion Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk, Netherlands",
+      "posted": "2026-11-11",
+      "closing_date": "2026-12-02",
+      "url": "https://jobs.esa.int/job/Noordwijk-Electric-Propulsion-Engineer/1456370933/",
+      "job_id": "21203",
+      "categories": [
+        "propulsion",
+        "mechanical engineering",
+        "spacecraft engineering",
+        "technology development",
+        "R&D",
+        "verification"
+      ],
+      "fit_score": 5.5,
+      "priority": "medium_low",
+      "status": "active",
+      "first_seen": "2026-11-14T13:02:18+01:00",
+      "assessment": "Direct ESA Mechanical Department role developing and qualifying electric propulsion technologies, including micro-propulsion and high-power systems. MSc mechanical engineering and hardware R&D overlap, but specialist electric propulsion/plasma physics experience is a significant gap; technical stretch."
     }
   ]
 }
