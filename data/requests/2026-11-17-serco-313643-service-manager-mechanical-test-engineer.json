@@ -1,0 +1,26 @@
+{
+  "shard": "terma-serco.json",
+  "vacancy": {
+    "title": "Service Manager / Mechanical Test Engineer",
+    "employer": "Serco Europe",
+    "location": "ESA ESTEC, Noordwijk, Netherlands",
+    "job_id": "313643",
+    "posted": null,
+    "closing_date": null,
+    "url": "https://careers.serco.com/eu/en/job/313643/Service-Manager-Mechanical-Test-Engineer",
+    "categories": [
+      "mechanical engineering",
+      "MGSE",
+      "mechanical testing",
+      "AIT/AIV",
+      "test facilities",
+      "verification",
+      "service management"
+    ],
+    "fit_score": 8.1,
+    "priority": "high_stretch",
+    "status": "active",
+    "first_seen": "2026-11-17T08:03:09+01:00",
+    "assessment": "Direct ESTEC Test Centre position combining MGSE design and spacecraft environmental test campaigns with service management. Strong fit with mechanical design, machine delivery and technical coordination; spacecraft qualification and formal service-management experience are stretch areas. Distinct Serco requisition 313643."
+  }
+}
