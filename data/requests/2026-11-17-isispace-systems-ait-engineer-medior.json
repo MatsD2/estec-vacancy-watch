@@ -1,0 +1,25 @@
+{
+  "shard": "secondary.json",
+  "vacancy": {
+    "title": "Systems AIT Engineer - Medior",
+    "employer": "ISISPACE",
+    "location": "Delft, Netherlands",
+    "posted": null,
+    "closing_date": null,
+    "url": "https://careers.isispace.nl/o/systems-ait-engineer-medior",
+    "categories": [
+      "AIT/AIV",
+      "systems engineering",
+      "integration",
+      "verification",
+      "functional testing",
+      "production",
+      "satellite assembly"
+    ],
+    "fit_score": 7.7,
+    "priority": "high_secondary",
+    "status": "active",
+    "first_seen": "2026-11-17T08:03:09+01:00",
+    "assessment": "On-site Delft medior satellite systems integration and test role, coordinating AIT flows, practical assembly, test readiness, anomaly resolution, documentation and continuous improvement. Strong match to hands-on industrial machine development, commissioning and multidisciplinary engineering. Direct satellite AIT experience is a gap; Delft is secondary geography rather than ESTEC."
+  }
+}
