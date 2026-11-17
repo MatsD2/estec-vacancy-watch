@@ -89,6 +89,26 @@
       "status": "active",
       "first_seen": "2026-11-17T08:03:09+01:00",
       "assessment": "Direct ESTEC Test Centre position combining MGSE design and spacecraft environmental test campaigns with service management. Strong fit with mechanical design, machine delivery and technical coordination; spacecraft qualification and formal service-management experience are stretch areas. Distinct Serco requisition 313643."
+    },
+    {
+      "title": "Mechanical Test Engineer",
+      "employer": "Serco Europe",
+      "location": "ESTEC, Noordwijk",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.serco.com/eu/en/job/313642/Mechanical-Test-Engineer",
+      "categories": [
+        "mechanical testing",
+        "MGSE",
+        "environmental testing",
+        "test facilities",
+        "spacecraft qualification"
+      ],
+      "fit_score": 8,
+      "priority": "very_high",
+      "status": "active",
+      "assessment": "Reposted Serco Mechanical Test Engineer requisition 313642 (previous 309287 closed). Onsite ESTEC MGSE design, 3D models, manufacturing drawings, numerical analyses, facility modifications and spacecraft environmental test campaigns. Excellent fit for mechanical design and industrial equipment development; direct spacecraft test qualification experience is the main gap.",
+      "job_id": "313642"
     }
   ]
 }
