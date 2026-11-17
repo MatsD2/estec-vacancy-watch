@@ -66,6 +66,29 @@
       "status": "closed",
       "first_seen": "2026-10-26T08:01:56+01:00",
       "assessment": "ESTEC-based PA&S support covering MAIT, inspection points, NCRs, reviews and acceptance. Significant seniority mismatch: minimum 10 years in the space sector and 5 years in product/quality assurance. Third-party listing dated 23 Oct 2026; official Serco requisition 313118 now explicitly says position has been filled. Recorded as closed, not an actionable opening."
+    },
+    {
+      "title": "Service Manager / Mechanical Test Engineer",
+      "employer": "Serco Europe",
+      "location": "ESA ESTEC, Noordwijk, Netherlands",
+      "job_id": "313643",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://careers.serco.com/eu/en/job/313643/Service-Manager-Mechanical-Test-Engineer",
+      "categories": [
+        "mechanical engineering",
+        "MGSE",
+        "mechanical testing",
+        "AIT/AIV",
+        "test facilities",
+        "verification",
+        "service management"
+      ],
+      "fit_score": 8.1,
+      "priority": "high_stretch",
+      "status": "active",
+      "first_seen": "2026-11-17T08:03:09+01:00",
+      "assessment": "Direct ESTEC Test Centre position combining MGSE design and spacecraft environmental test campaigns with service management. Strong fit with mechanical design, machine delivery and technical coordination; spacecraft qualification and formal service-management experience are stretch areas. Distinct Serco requisition 313643."
     }
   ]
 }
