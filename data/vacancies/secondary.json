@@ -902,6 +902,32 @@
       "status": "active",
       "first_seen": "2026-11-05T08:02:49+01:00",
       "assessment": "Separate Airbus Defence and Space Netherlands hiring-desk requisition SRQ178358 for 15+ production personnel on European launcher structural assemblies: AIT technicians, sheet-metal specialists, senior AIT technicians/shift leaders and KUKA robot operators. On-site Leiden/Oegstgeest with afternoon/evening shifts 14:00–23:00; minimum 9 months, estimated 9–12, detachering or freelance possible. Practical assembly/robotics and leadership relate to industrial automation background, but mostly technician/production roles below MSc mechanical design level, no direct ESTEC placement and no salary published. Distinct from existing Airbus AI-Technician SRQ178313; closing 31 Dec 2026."
+    },
+    {
+      "title": "Junior R&D Engineer Computational Mechanics (m/v/x)",
+      "employer": "NLR",
+      "location": "Marknesse, Flevoland, Netherlands",
+      "posted": null,
+      "closing_date": null,
+      "url": "https://werkenbijnlr.recruitee.com/o/junior-rd-engineer-computational-mechanics-mvx",
+      "job_id": null,
+      "categories": [
+        "secondary",
+        "computational mechanics",
+        "structural analysis",
+        "FEM",
+        "CAD",
+        "additive manufacturing",
+        "materials",
+        "simulation",
+        "verification",
+        "under-level"
+      ],
+      "fit_score": 6.5,
+      "priority": "low_secondary",
+      "status": "active",
+      "first_seen": "2026-11-18T07:57:54+01:00",
+      "assessment": "Official NLR MSc-level computational mechanics R&D opening in Marknesse. Structural optimisation of metallic, composite and hybrid aerospace structures, FEM/CAD, manufacturing simulation and experimental test correlation fit mechanical engineering and COMSOL background. Title is junior/under-level relative to industry experience, and location is far from ESTEC; salary not stated."
     }
   ]
 }
