@@ -1,0 +1,29 @@
+{
+  "shard": "secondary.json",
+  "vacancy": {
+    "title": "Junior R&D Engineer Computational Mechanics (m/v/x)",
+    "employer": "NLR",
+    "location": "Marknesse, Flevoland, Netherlands",
+    "posted": null,
+    "closing_date": null,
+    "url": "https://werkenbijnlr.recruitee.com/o/junior-rd-engineer-computational-mechanics-mvx",
+    "job_id": null,
+    "categories": [
+      "secondary",
+      "computational mechanics",
+      "structural analysis",
+      "FEM",
+      "CAD",
+      "additive manufacturing",
+      "materials",
+      "simulation",
+      "verification",
+      "under-level"
+    ],
+    "fit_score": 6.5,
+    "priority": "low_secondary",
+    "status": "active",
+    "first_seen": "2026-11-18T07:57:54+01:00",
+    "assessment": "Official NLR MSc-level computational mechanics R&D opening in Marknesse. Structural optimisation of metallic, composite and hybrid aerospace structures, FEM/CAD, manufacturing simulation and experimental test correlation fit mechanical engineering and COMSOL background. Title is junior/under-level relative to industry experience, and location is far from ESTEC; salary not stated."
+  }
+}
