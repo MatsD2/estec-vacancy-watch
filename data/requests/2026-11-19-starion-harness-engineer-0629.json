@@ -1,0 +1,28 @@
+{
+  "shard": "starion.json",
+  "vacancy": {
+    "title": "Harness Engineer",
+    "employer": "Starion",
+    "location": "ESA/ESTEC, Noordwijk, Netherlands",
+    "posted": null,
+    "closing_date": "2026-12-11",
+    "url": "https://www.stariongroup.eu/career/harness-engineer/",
+    "job_id": "0629",
+    "categories": [
+      "harness engineering",
+      "EMC",
+      "electromechanical",
+      "manufacturing",
+      "integration",
+      "verification",
+      "test/qualification",
+      "CAD",
+      "spacecraft engineering"
+    ],
+    "fit_score": 5.5,
+    "priority": "medium_stretch",
+    "status": "active",
+    "first_seen": "2026-11-19T08:03:32+01:00",
+    "assessment": "Direct ESTEC hardware engineering involving harness CAD, manufacturing reviews, integration, test and nonconformance analysis. Mechanical design and industrial integration experience transfer, but mandatory 4+ years EMC/harness specialization, electrical design and spacecraft EMC make this a specialist stretch."
+  }
+}
