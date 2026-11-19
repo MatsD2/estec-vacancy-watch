@@ -555,6 +555,32 @@
       "status": "active",
       "first_seen": "2026-11-12T08:00:00+01:00",
       "assessment": "New IRIS² 5G satellite payload role with a Noordwijk option. Highly specialised 5G/DSP/ASIC/RF background and 5 years directly relevant experience mandatory; major technical stretch for mechanical engineer."
+    },
+    {
+      "title": "Project Lead Engineer",
+      "employer": "ATG Europe",
+      "location": "ESA/ESTEC, Noordwijk, Netherlands",
+      "posted": null,
+      "closing_date": "2026-12-11",
+      "url": "https://jobs.atg-europe.com/o/project-lead-engineer-1",
+      "job_id": null,
+      "categories": [
+        "mechanical engineering",
+        "test facilities",
+        "project engineering",
+        "manufacturing",
+        "integration",
+        "verification",
+        "acceptance testing",
+        "test/qualification",
+        "procurement",
+        "technical coordination"
+      ],
+      "fit_score": 9,
+      "priority": "very_high",
+      "status": "active",
+      "first_seen": "2026-11-19T08:03:32+01:00",
+      "assessment": "Very strong direct ESTEC Test Centre match: MSc Mechanical Engineering, over 4 years equivalent industrial machine/system design, CAD and drawings, hands-on manufacturing/commissioning, test verification and leading technical modifications with suppliers. Includes facility upgrades, proof-load/acceptance tests and project coordination. Space environmental test facility heritage and formal PM certification are gaps, but certification is only an asset; highly recommended."
     }
   ]
 }
