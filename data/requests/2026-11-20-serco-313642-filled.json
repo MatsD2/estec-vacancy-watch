@@ -1,0 +1,23 @@
+{
+  "shard": "terma-serco.json",
+  "vacancy": {
+    "title": "Mechanical Test Engineer",
+    "employer": "Serco Europe",
+    "location": "ESTEC, Noordwijk",
+    "posted": null,
+    "closing_date": null,
+    "url": "https://careers.serco.com/eu/en/job/313642/Mechanical-Test-Engineer",
+    "categories": [
+      "mechanical testing",
+      "MGSE",
+      "environmental testing",
+      "test facilities",
+      "spacecraft qualification"
+    ],
+    "fit_score": 8,
+    "priority": "very_high",
+    "status": "closed",
+    "assessment": "Official Serco job page for requisition 313642 explicitly states the position has been filled (checked 20 Nov 2026). Previously indexed as Mechanical Test Engineer; live job page is unavailable and indexed content showed Calibration, Metrology & Test Instrumentation Technician. Closed independently of deadline; retain record for history.",
+    "job_id": "313642"
+  }
+}
