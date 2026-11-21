@@ -1009,6 +1009,30 @@
       "priority": "senior_stretch",
       "first_seen": "2026-11-20T18:00:00+01:00",
       "assessment": "Direct ESA/ESTEC A5 project manager for FORUM far-infrared Earth Explorer mission, overseeing final instrument/platform/ground development, integration, test, launch and in-orbit verification. Thermal/optical instrument and multidisciplinary hardware management overlap, but full ESA mission-level project leadership, industrial contract and risk management make this an exceptionally senior stretch."
+    },
+    {
+      "title": "RF Payload Principal Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk, Netherlands or ESAC, Madrid, Spain",
+      "posted": "2026-11-20",
+      "closing_date": "2026-12-11",
+      "url": "https://jobs.esa.int/job/Noordwijk-RF-Payload-Principal-Engineer/1459295033/",
+      "job_id": "21229",
+      "categories": [
+        "RF payload",
+        "satellite communications",
+        "systems engineering",
+        "payload development",
+        "verification",
+        "testing",
+        "spacecraft engineering",
+        "technology development"
+      ],
+      "fit_score": 3.5,
+      "priority": "low_stretch",
+      "status": "active",
+      "first_seen": "2026-11-21T08:00:02+01:00",
+      "assessment": "New ESA A2-A4 principal RF payload role supporting Secure Connectivity Low LEO and IOD/IOV missions, with ESTEC Noordwijk or ESAC Madrid work location. Some multidisciplinary hardware verification and engineering overlap, but RF/microwave payload architecture, telecom and specialist RF design experience are major gaps; senior specialist stretch."
     }
   ]
 }
