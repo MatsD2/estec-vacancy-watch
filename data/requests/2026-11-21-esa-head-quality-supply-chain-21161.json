@@ -1,0 +1,25 @@
+{
+  "shard": "esa.json",
+  "vacancy": {
+    "title": "Head of the Quality and Supply Chain Management Division",
+    "employer": "ESA",
+    "location": "ESTEC, Noordwijk",
+    "posted": "2026-11-19",
+    "closing_date": "2026-12-10",
+    "url": "https://jobs.esa.int/job/Noordwijk-Head-of-the-Quality-and-Supply-Chain-Management-Division/1459040633/",
+    "job_id": "21161",
+    "categories": [
+      "quality assurance",
+      "supply chain",
+      "RAMS",
+      "product assurance",
+      "safety",
+      "management"
+    ],
+    "fit_score": 3,
+    "priority": "low",
+    "status": "active",
+    "first_seen": "2026-11-21T12:56:24+01:00",
+    "assessment": "ESA A5 division-head role covering quality management, supply-chain assurance, dependability/RAMS and software PA. Extremely senior stretch requiring roughly ten years of relevant leadership and extensive space-sector quality experience."
+  }
+}
