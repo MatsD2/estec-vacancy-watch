@@ -1081,6 +1081,25 @@
       "status": "active",
       "first_seen": "2026-11-21T17:57:19+01:00",
       "assessment": "Direct ESA ESTEC A5 leadership role heading independent safety authority. Very senior/stretch: requires approximately 10 years relevant professional safety engineering experience, independent assurance authority and people management; outside user's current specialization."
+    },
+    {
+      "title": "Antenna Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk",
+      "posted": "2026-11-23",
+      "closing_date": "2026-12-14",
+      "url": "https://jobs.esa.int/job/Noordwijk-Antenna-Engineer/1447512233/",
+      "job_id": "21006",
+      "categories": [
+        "antenna engineering",
+        "space hardware",
+        "technology development"
+      ],
+      "fit_score": 3.5,
+      "priority": "low",
+      "status": "active",
+      "first_seen": "2026-11-24T07:57:29+01:00",
+      "assessment": "A2-A4 specialist stretch in space antenna systems and sub-millimetre instrumentation; mechanical hardware background is adjacent but RF specialization is a substantial gap."
     }
   ]
 }
