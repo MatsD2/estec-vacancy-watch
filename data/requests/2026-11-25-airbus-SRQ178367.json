@@ -1,0 +1,24 @@
+{
+  "shard": "secondary.json",
+  "vacancy": {
+    "title": "Lead Engineer Structures",
+    "employer": "Airbus Netherlands",
+    "location": "Leiden, Netherlands",
+    "job_id": "SRQ178367",
+    "posted": null,
+    "closing_date": "2026-12-31",
+    "url": "https://hiringdeskairbusds.nl/jobs/airbus-netherlands-bv/lead-engineer-structures/602f6239-944e-426d-857e-196320787374",
+    "categories": [
+      "structures",
+      "mechanical engineering",
+      "technical leadership",
+      "FEM",
+      "AIT"
+    ],
+    "fit_score": 7,
+    "priority": "high_secondary",
+    "status": "active",
+    "first_seen": "2026-11-25T08:00:20+01:00",
+    "assessment": "Senior/stretch: metallic space structures, engineering team coordination, structural safety and interfaces with FEM and AIT. Five years relevant structural experience required; industrial machine design and MSc are relevant but dedicated aerospace structures experience is limited. One-year deta-vast assignment."
+  }
+}
