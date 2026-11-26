@@ -1,0 +1,25 @@
+{
+  "shard": "esa.json",
+  "vacancy": {
+    "title": "Product Assurance and Safety Manager",
+    "employer": "ESA",
+    "location": "ESTEC, Noordwijk, Netherlands",
+    "job_id": "21216",
+    "posted": "2026-11-24",
+    "closing_date": "2026-12-15",
+    "url": "https://jobs.esa.int/job/Noordwijk-Product-Assurance-and-Safety-Manager/1460317233/",
+    "categories": [
+      "product assurance",
+      "safety",
+      "RAMS",
+      "AIT/AIV",
+      "verification",
+      "materials and processes"
+    ],
+    "fit_score": 5.5,
+    "priority": "medium_low_stretch",
+    "status": "active",
+    "first_seen": "2026-11-26T12:56:29+01:00",
+    "assessment": "NewAthena PA&S Manager, A2–A4. Relevant industrial engineering and ESA Academy PA background; eight years relevant professional experience and space PA management experience are major stretch requirements."
+  }
+}
