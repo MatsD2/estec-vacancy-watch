@@ -1,0 +1,23 @@
+{
+  "shard": "atg.json",
+  "vacancy": {
+    "title": "Electronic/Calibration Technician",
+    "employer": "ATG Europe",
+    "location": "ESTEC, Noordwijk, Netherlands",
+    "posted": null,
+    "closing_date": "2026-11-30",
+    "url": "https://jobs.atg-europe.com/o/electroniccalibration-technician",
+    "categories": [
+      "test facilities",
+      "thermal vacuum",
+      "calibration",
+      "instrumentation",
+      "maintenance"
+    ],
+    "fit_score": 4,
+    "priority": "low_underlevel",
+    "status": "active",
+    "first_seen": "2026-11-27T08:04:28+01:00",
+    "assessment": "Bachelor-level laboratory calibration and TVAC support role; under-level for MSc design ambitions. Proposal-dependent."
+  }
+}
