@@ -1143,6 +1143,27 @@
       "priority": "medium_low",
       "first_seen": "2026-11-26T18:02:16+01:00",
       "assessment": "Senior/stretch PA&S management for RISE in-orbit servicing mission; direct ESA A2–A4. Industrial engineering and ESA Academy PA training relevant, but dedicated space PA leadership experience is a substantial gap."
+    },
+    {
+      "title": "Lead User Terminal Engineer",
+      "employer": "ESA",
+      "location": "ESTEC, Noordwijk, Netherlands",
+      "job_id": "21221",
+      "posted": "2026-11-26",
+      "closing_date": "2026-12-17",
+      "url": "https://jobs.esa.int/job/Noordwijk-Lead-User-Terminal-Engineer/1460751133/",
+      "categories": [
+        "systems engineering",
+        "manufacturing",
+        "qualification",
+        "verification",
+        "satellite communications"
+      ],
+      "fit_score": 4,
+      "priority": "low_stretch",
+      "status": "active",
+      "first_seen": "2026-11-27T08:04:28+01:00",
+      "assessment": "A2–A4, potentially A1; MSc and in principle three years relevant experience. Industrialisation and technical coordination overlap, but specialist satcom terminal design is a major gap."
     }
   ]
 }
