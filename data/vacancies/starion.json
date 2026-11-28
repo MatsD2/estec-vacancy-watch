@@ -215,6 +215,27 @@
       "status": "active",
       "first_seen": "2026-11-19T08:03:32+01:00",
       "assessment": "Direct ESTEC hardware engineering involving harness CAD, manufacturing reviews, integration, test and nonconformance analysis. Mechanical design and industrial integration experience transfer, but mandatory 4+ years EMC/harness specialization, electrical design and spacecraft EMC make this a specialist stretch."
+    },
+    {
+      "title": "System Engineer",
+      "employer": "Starion",
+      "location": "ESTEC, Noordwijk, Netherlands",
+      "posted": null,
+      "closing_date": "2026-12-14",
+      "url": "https://www.stariongroup.eu/career/system-engineer-2/",
+      "job_id": null,
+      "categories": [
+        "systems engineering",
+        "IRIS²",
+        "integration",
+        "verification",
+        "requirements"
+      ],
+      "fit_score": 6,
+      "priority": "medium_stretch",
+      "status": "active",
+      "first_seen": "2026-11-28T08:00:57+01:00",
+      "assessment": "Multiple IRIS² systems engineering positions supporting ground and space segment architecture, requirements, integration and verification. Broad multidisciplinary engineering fit; dedicated satellite systems and telecommunications experience are gaps."
     }
   ]
 }
